@@ -1,0 +1,4493 @@
+[
+    {
+        "patientid": "F7CF0FE9-AFCD-49EF-BFB3-E42302FFA0D3",
+        "patientgender": "Female",
+        "patientdateofbirth": "1951-07-10 07:29:47.293",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.7"
+    },
+    {
+        "patientid": "C3935FBC-DBBA-4844-BBE4-A175FA508454",
+        "patientgender": "Male",
+        "patientdateofbirth": "1956-01-27 22:46:39.380",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.73"
+    },
+    {
+        "patientid": "1CA33F6F-2E84-4C99-AF6A-D40F7B4DB27F",
+        "patientgender": "Male",
+        "patientdateofbirth": "1972-12-22 10:11:01.867",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "7.09"
+    },
+    {
+        "patientid": "81606388-2471-42A4-A6F1-1868AE25CFC3",
+        "patientgender": "Male",
+        "patientdateofbirth": "1984-01-17 00:49:06.903",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "2.17"
+    },
+    {
+        "patientid": "E3120DE9-3361-40CF-A618-265C769E75A2",
+        "patientgender": "Female",
+        "patientdateofbirth": "1978-12-21 07:24:08.957",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.67"
+    },
+    {
+        "patientid": "5C043111-3F94-44BC-A889-97D44ACCC7F6",
+        "patientgender": "Female",
+        "patientdateofbirth": "1974-09-25 18:38:02.440",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "2.57"
+    },
+    {
+        "patientid": "0A10A379-05B1-438B-84A0-18B4D1AE2615",
+        "patientgender": "Female",
+        "patientdateofbirth": "1986-10-23 18:07:05.173",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "14.26"
+    },
+    {
+        "patientid": "4BE9DA70-090C-45D9-BB34-C9FE07883BD9",
+        "patientgender": "Female",
+        "patientdateofbirth": "1988-04-07 13:26:59.347",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.03"
+    },
+    {
+        "patientid": "DED90E65-5B8E-497C-9A17-0679C1DA3B6D",
+        "patientgender": "Male",
+        "patientdateofbirth": "1940-09-29 16:37:18.737",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.86"
+    },
+    {
+        "patientid": "67744717-0461-45C5-B85A-D7355EFAF6A1",
+        "patientgender": "Female",
+        "patientdateofbirth": "1967-07-17 12:35:46.713",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "5.35"
+    },
+    {
+        "patientid": "BCEA6D68-6998-453F-B630-1E373B754660",
+        "patientgender": "Male",
+        "patientdateofbirth": "1947-09-12 01:12:20.190",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.27"
+    },
+    {
+        "patientid": "ABDB8CCC-E9C2-4BC2-B370-822EF1182256",
+        "patientgender": "Female",
+        "patientdateofbirth": "1969-09-29 02:36:08.183",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "95.32"
+    },
+    {
+        "patientid": "0C41FC5D-B379-425D-94F3-F79EC4421D35",
+        "patientgender": "Female",
+        "patientdateofbirth": "1964-11-07 01:27:52.607",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.29"
+    },
+    {
+        "patientid": "54A126A4-7314-45EB-ADC3-B9CAED73A9AC",
+        "patientgender": "Female",
+        "patientdateofbirth": "1958-09-03 08:49:09.960",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.09"
+    },
+    {
+        "patientid": "69329A18-3C46-4121-A1B1-1A8F1CA481EB",
+        "patientgender": "Female",
+        "patientdateofbirth": "1943-09-25 23:51:24.987",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "16.55"
+    },
+    {
+        "patientid": "FB32DDCD-3B9B-4369-9367-C83A9DF567BA",
+        "patientgender": "Female",
+        "patientdateofbirth": "1983-08-06 03:09:30.543",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.74"
+    },
+    {
+        "patientid": "D26DF18A-684F-4708-9BA3-75B1D3D49F06",
+        "patientgender": "Male",
+        "patientdateofbirth": "1958-05-08 18:48:36.003",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "4.3"
+    },
+    {
+        "patientid": "DEA63F5A-2AE9-415E-B0F4-2D07B2C322FE",
+        "patientgender": "Female",
+        "patientdateofbirth": "1961-10-24 17:20:11.803",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.07"
+    },
+    {
+        "patientid": "390102E7-2DBD-47C2-BF8D-F37C04F67B48",
+        "patientgender": "Female",
+        "patientdateofbirth": "1981-02-01 17:14:26.817",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "18.18"
+    },
+    {
+        "patientid": "EC6FCAE2-6F88-4762-9B4B-71AACFF96674",
+        "patientgender": "Female",
+        "patientdateofbirth": "1973-10-14 03:23:18.677",
+        "patientrace": "White",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.95"
+    },
+    {
+        "patientid": "A8063710-FB39-49AD-83A0-01DAE85808D6",
+        "patientgender": "Female",
+        "patientdateofbirth": "1951-01-31 17:27:03.157",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "17.22"
+    },
+    {
+        "patientid": "56B5C739-3595-48B0-84B5-92E8175FD155",
+        "patientgender": "Male",
+        "patientdateofbirth": "1957-11-22 15:01:29.370",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "87.51"
+    },
+    {
+        "patientid": "AFE61AF2-D204-4BD1-91DF-CC93DF6A9349",
+        "patientgender": "Male",
+        "patientdateofbirth": "1950-11-27 00:24:42.663",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "14.86"
+    },
+    {
+        "patientid": "9CB1321C-E05A-44A4-A037-C70D8FB1FA3D",
+        "patientgender": "Male",
+        "patientdateofbirth": "1962-09-05 13:38:30.660",
+        "patientrace": "White",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "2.86"
+    },
+    {
+        "patientid": "25138500-AF3E-46A1-9EFE-F2F835B70B80",
+        "patientgender": "Female",
+        "patientdateofbirth": "1961-11-14 04:44:24.203",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.26"
+    },
+    {
+        "patientid": "A40CB163-AB33-4524-BE0E-C141D986BF60",
+        "patientgender": "Male",
+        "patientdateofbirth": "1965-06-19 09:47:08.953",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "11.47"
+    },
+    {
+        "patientid": "8F22A015-8353-42D5-A422-DB9D08A0E2CC",
+        "patientgender": "Female",
+        "patientdateofbirth": "1933-08-28 10:50:20.913",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "16.58"
+    },
+    {
+        "patientid": "43F218BD-22AA-4FCF-8D14-B917FC690DB9",
+        "patientgender": "Male",
+        "patientdateofbirth": "1967-10-27 09:33:40.333",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "8.29"
+    },
+    {
+        "patientid": "DAEE2B79-1659-4339-B640-14F07C774D93",
+        "patientgender": "Female",
+        "patientdateofbirth": "1932-04-17 10:01:28.623",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.84"
+    },
+    {
+        "patientid": "F160E968-B246-4D23-80B2-E6A58E5F3095",
+        "patientgender": "Male",
+        "patientdateofbirth": "1935-12-12 05:30:47.087",
+        "patientrace": "White",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "13.53"
+    },
+    {
+        "patientid": "0E5D8D08-E56B-444F-858C-717792A77631",
+        "patientgender": "Male",
+        "patientdateofbirth": "1944-11-17 10:25:36.110",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "12.78"
+    },
+    {
+        "patientid": "D4CD36C3-7B56-42B3-959D-A0CAAA641D2B",
+        "patientgender": "Female",
+        "patientdateofbirth": "1927-01-22 07:58:02.890",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.63"
+    },
+    {
+        "patientid": "FA202AAC-DA98-4D8B-8270-30CAABFB08B4",
+        "patientgender": "Female",
+        "patientdateofbirth": "1970-05-28 16:55:35.690",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.37"
+    },
+    {
+        "patientid": "0053D714-0AD0-407B-857D-4FE2F3788944",
+        "patientgender": "Female",
+        "patientdateofbirth": "1957-07-06 03:49:27.010",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "15.44"
+    },
+    {
+        "patientid": "ABDF6E7A-6FAF-4A6A-81B8-9F32F3557CEA",
+        "patientgender": "Male",
+        "patientdateofbirth": "1951-09-23 15:56:31.850",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "11.69"
+    },
+    {
+        "patientid": "76BBAA91-BBFD-4B6D-8E4C-3893ECB36AAF",
+        "patientgender": "Female",
+        "patientdateofbirth": "1920-01-24 19:05:05.040",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.6"
+    },
+    {
+        "patientid": "DCEB4605-7269-4946-B31F-B73D8CE2E891",
+        "patientgender": "Female",
+        "patientdateofbirth": "1958-05-05 02:57:57.883",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "16.32"
+    },
+    {
+        "patientid": "59314AB9-2EDB-4A8A-B052-926F64FB676F",
+        "patientgender": "Female",
+        "patientdateofbirth": "1964-04-23 03:30:31.167",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.69"
+    },
+    {
+        "patientid": "4567CE3F-7FCD-4D4A-A1FC-84364B856A0A",
+        "patientgender": "Male",
+        "patientdateofbirth": "1943-01-05 18:31:20.597",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.02"
+    },
+    {
+        "patientid": "BCC4A407-E9D5-4692-8051-12552D641358",
+        "patientgender": "Female",
+        "patientdateofbirth": "1936-06-11 14:37:52.933",
+        "patientrace": "White",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.29"
+    },
+    {
+        "patientid": "56FDAC6A-8818-405A-9F99-7210612C8AD6",
+        "patientgender": "Male",
+        "patientdateofbirth": "1982-02-19 07:54:26.273",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.47"
+    },
+    {
+        "patientid": "9D6ADF9F-9B07-459E-BA71-34EAB4099F2B",
+        "patientgender": "Female",
+        "patientdateofbirth": "1961-11-06 14:29:05.017",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.31"
+    },
+    {
+        "patientid": "D8D098E4-BB91-4E35-B088-A0D6DCF5438E",
+        "patientgender": "Male",
+        "patientdateofbirth": "1961-10-03 09:59:02.593",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "82.8"
+    },
+    {
+        "patientid": "45222154-9A66-4E90-9EFC-60117F64C609",
+        "patientgender": "Female",
+        "patientdateofbirth": "1957-10-16 14:24:14.193",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.82"
+    },
+    {
+        "patientid": "633114A4-6964-4656-9643-3A6CE25DE26D",
+        "patientgender": "Male",
+        "patientdateofbirth": "1974-06-24 22:12:36.467",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "83"
+    },
+    {
+        "patientid": "5CFC00BD-4669-4461-BE9B-A8E0A6B844C5",
+        "patientgender": "Male",
+        "patientdateofbirth": "1960-03-12 20:35:31.493",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.87"
+    },
+    {
+        "patientid": "73BF4B8F-0152-47D6-AF64-AD80826E93C1",
+        "patientgender": "Female",
+        "patientdateofbirth": "1969-08-02 16:45:53.417",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "9.54"
+    },
+    {
+        "patientid": "72957230-2CFE-4F89-9793-6D6C386F8E73",
+        "patientgender": "Female",
+        "patientdateofbirth": "1950-10-29 00:53:16.297",
+        "patientrace": "White",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "11.47"
+    },
+    {
+        "patientid": "0BFDB86A-53DB-482F-8733-0954375C6B88",
+        "patientgender": "Female",
+        "patientdateofbirth": "1957-03-26 09:41:00.273",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "16.66"
+    },
+    {
+        "patientid": "6B399828-398C-4104-B998-84ADB5622956",
+        "patientgender": "Female",
+        "patientdateofbirth": "1950-11-04 08:45:55.843",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.02"
+    },
+    {
+        "patientid": "8C1225AD-FD47-4454-B72B-DDB42711C228",
+        "patientgender": "Male",
+        "patientdateofbirth": "1951-01-13 18:48:25.183",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "3.47"
+    },
+    {
+        "patientid": "2196B9DF-0AE5-4740-83BC-93B7E16BA83D",
+        "patientgender": "Female",
+        "patientdateofbirth": "1940-05-18 11:48:37.187",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.54"
+    },
+    {
+        "patientid": "8CF66082-5412-4590-92C2-3ACDB1D1534C",
+        "patientgender": "Female",
+        "patientdateofbirth": "1928-01-02 05:46:44.320",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "16.95"
+    },
+    {
+        "patientid": "DBB4DDAC-FB32-4637-845D-46860441824E",
+        "patientgender": "Male",
+        "patientdateofbirth": "1955-02-13 15:31:47.110",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "15.68"
+    },
+    {
+        "patientid": "3343A3A8-72E5-4823-87DC-EF8BD4FB30F1",
+        "patientgender": "Female",
+        "patientdateofbirth": "1946-06-23 03:19:13.030",
+        "patientrace": "White",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.14"
+    },
+    {
+        "patientid": "747C3A5F-31FA-4650-BD53-B0690FD7210C",
+        "patientgender": "Male",
+        "patientdateofbirth": "1961-01-22 19:31:15.630",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.93"
+    },
+    {
+        "patientid": "8D311347-11B0-41FB-ADA3-ED58FAB0E312",
+        "patientgender": "Female",
+        "patientdateofbirth": "1975-09-27 17:00:05.957",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "91.49"
+    },
+    {
+        "patientid": "5CB6D718-B3EA-459F-B160-BF06B92CF66A",
+        "patientgender": "Male",
+        "patientdateofbirth": "1978-10-26 11:00:27.947",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.56"
+    },
+    {
+        "patientid": "B7355DB3-E7D3-4597-84A2-8C0AF1A84486",
+        "patientgender": "Male",
+        "patientdateofbirth": "1932-06-09 17:03:43.677",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "83.86"
+    },
+    {
+        "patientid": "B2378BDB-5F71-467B-9CA6-8668FFBBDD99",
+        "patientgender": "Male",
+        "patientdateofbirth": "1983-12-27 04:49:01.393",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "10.74"
+    },
+    {
+        "patientid": "73FB6F2F-F4D4-4D2E-858F-F32876C85506",
+        "patientgender": "Male",
+        "patientdateofbirth": "1932-08-25 07:11:26.160",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.28"
+    },
+    {
+        "patientid": "A2347922-205E-4FEB-8092-6AE51FA7CF54",
+        "patientgender": "Female",
+        "patientdateofbirth": "1936-07-26 10:45:41.277",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "18.55"
+    },
+    {
+        "patientid": "4EF76E8F-629F-421E-A57D-1EF2702EB3C3",
+        "patientgender": "Male",
+        "patientdateofbirth": "1960-01-16 06:12:15.197",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.96"
+    },
+    {
+        "patientid": "DB45544E-D241-4966-BF40-701208595449",
+        "patientgender": "Male",
+        "patientdateofbirth": "1965-02-07 23:31:20.737",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "82.65"
+    },
+    {
+        "patientid": "AB29C787-4615-42B7-95CF-4EC7B3EDC2D6",
+        "patientgender": "Male",
+        "patientdateofbirth": "1965-02-20 15:54:37.643",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "13.7"
+    },
+    {
+        "patientid": "E3FF132A-1967-4218-8AA8-CA4CBAC05855",
+        "patientgender": "Female",
+        "patientdateofbirth": "1940-06-25 16:54:04.087",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "16"
+    },
+    {
+        "patientid": "8449FBDD-EA18-446C-A1B1-89F761FF1266",
+        "patientgender": "Male",
+        "patientdateofbirth": "1931-07-25 07:28:09.413",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "95.95"
+    },
+    {
+        "patientid": "46435C30-ECD2-4BF6-9868-4ED773E5DAE8",
+        "patientgender": "Female",
+        "patientdateofbirth": "1971-09-24 03:40:00.397",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.91"
+    },
+    {
+        "patientid": "C95E9D57-18AD-4EC2-B537-A1DF2845B61C",
+        "patientgender": "Female",
+        "patientdateofbirth": "1962-02-19 17:24:46.563",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.49"
+    },
+    {
+        "patientid": "F8CABB32-FBC9-4C43-89E6-D60101A7A073",
+        "patientgender": "Male",
+        "patientdateofbirth": "1957-05-15 04:56:24.667",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "6.86"
+    },
+    {
+        "patientid": "6E018A95-3520-4AEF-A5FB-C4CB4FDA5CE7",
+        "patientgender": "Female",
+        "patientdateofbirth": "1945-05-19 12:32:23.900",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "12.7"
+    },
+    {
+        "patientid": "6D64E5B4-DB10-4DC9-A0BD-05AC703E9DB1",
+        "patientgender": "Male",
+        "patientdateofbirth": "1948-09-06 01:11:46.443",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.8"
+    },
+    {
+        "patientid": "EC2E94A1-61BA-49EB-BFA3-E7B7921DDDEE",
+        "patientgender": "Female",
+        "patientdateofbirth": "1964-11-05 23:57:00.033",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.95"
+    },
+    {
+        "patientid": "BBDB8407-23D5-41C5-A919-0DF4D201E531",
+        "patientgender": "Female",
+        "patientdateofbirth": "1968-05-12 07:58:54.897",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "12.6"
+    },
+    {
+        "patientid": "22A64274-B699-41AC-BD9E-7C289A88CD5A",
+        "patientgender": "Female",
+        "patientdateofbirth": "1977-08-24 09:51:27.830",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.86"
+    },
+    {
+        "patientid": "B1D7B2EB-9CE1-4533-A828-24C285765EFA",
+        "patientgender": "Male",
+        "patientdateofbirth": "1967-04-02 13:39:31.720",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "16.62"
+    },
+    {
+        "patientid": "17989C89-FD67-4BD1-BB9D-DAD77AAA5A9B",
+        "patientgender": "Female",
+        "patientdateofbirth": "1950-08-28 19:01:00.810",
+        "patientrace": "White",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "15.81"
+    },
+    {
+        "patientid": "3F81FE3E-4C05-4101-A9F7-FF8AB2A79C1D",
+        "patientgender": "Male",
+        "patientdateofbirth": "1978-03-11 02:26:30.723",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "7.67"
+    },
+    {
+        "patientid": "A0FE0DEB-58B5-47C6-AA0E-8ABAB107A642",
+        "patientgender": "Female",
+        "patientdateofbirth": "1974-10-11 18:20:11.660",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.73"
+    },
+    {
+        "patientid": "F2091AC9-779A-4863-91A2-1EEA46573C1E",
+        "patientgender": "Male",
+        "patientdateofbirth": "1926-05-03 11:45:17.037",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "10.3"
+    },
+    {
+        "patientid": "78C0C54F-3D75-4477-AE6D-910B999B707A",
+        "patientgender": "Male",
+        "patientdateofbirth": "1935-08-02 20:33:54.193",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.42"
+    },
+    {
+        "patientid": "8A7B516A-3DB4-47AC-A97B-3AB96C31F8DC",
+        "patientgender": "Female",
+        "patientdateofbirth": "1949-12-12 17:37:23.850",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.35"
+    },
+    {
+        "patientid": "EF73C74A-168E-46CC-B05D-28C05BB23C35",
+        "patientgender": "Male",
+        "patientdateofbirth": "1949-02-09 02:48:20.990",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "9.55"
+    },
+    {
+        "patientid": "913DF353-9294-4ED8-850C-FCC02E609795",
+        "patientgender": "Female",
+        "patientdateofbirth": "1954-06-15 11:40:01.773",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "7.67"
+    },
+    {
+        "patientid": "136E85F5-64BD-4125-AF7C-158F8D2AD013",
+        "patientgender": "Female",
+        "patientdateofbirth": "1955-09-29 12:05:50.537",
+        "patientrace": "White",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "94.78"
+    },
+    {
+        "patientid": "D5B219AC-55A8-46C6-8BE3-2809D3BC5C1A",
+        "patientgender": "Male",
+        "patientdateofbirth": "1965-06-22 00:04:35.640",
+        "patientrace": "White",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "84.5"
+    },
+    {
+        "patientid": "9886C3E1-C8D2-4EE2-AFCF-C347B681B8EA",
+        "patientgender": "Male",
+        "patientdateofbirth": "1945-04-10 08:13:52.173",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "12.62"
+    },
+    {
+        "patientid": "4B28652F-C318-453B-AAC5-013ED1C01D14",
+        "patientgender": "Female",
+        "patientdateofbirth": "1973-05-22 00:58:45.760",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "12.39"
+    },
+    {
+        "patientid": "5477C08C-4FEA-4C91-BF2C-BEBDEB78D6FC",
+        "patientgender": "Male",
+        "patientdateofbirth": "1960-06-06 22:52:24.653",
+        "patientrace": "White",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.94"
+    },
+    {
+        "patientid": "15F7A801-CAB0-45C3-AFFD-35CB3EE58F4F",
+        "patientgender": "Male",
+        "patientdateofbirth": "1966-04-05 12:21:31.503",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "17.36"
+    },
+    {
+        "patientid": "6296A05D-F158-4F0E-A481-CC0BE3D16081",
+        "patientgender": "Female",
+        "patientdateofbirth": "1947-07-13 13:21:12.747",
+        "patientrace": "White",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "91.4"
+    },
+    {
+        "patientid": "0C432E43-3524-4830-AA74-3BFF907CD8DF",
+        "patientgender": "Female",
+        "patientdateofbirth": "1967-05-25 01:27:38.690",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "17.91"
+    },
+    {
+        "patientid": "FD8EF343-5219-492E-97C2-E344B2F2D407",
+        "patientgender": "Male",
+        "patientdateofbirth": "1983-05-20 02:53:44.393",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.6"
+    },
+    {
+        "patientid": "9BE825AC-48C3-4F47-92F0-75A7C5F087CA",
+        "patientgender": "Male",
+        "patientdateofbirth": "1952-07-05 17:54:28.187",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.7"
+    },
+    {
+        "patientid": "FC645E4B-9A8C-4FF3-93A2-3C42475EAE1F",
+        "patientgender": "Male",
+        "patientdateofbirth": "1986-06-19 00:01:37.567",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.37"
+    },
+    {
+        "patientid": "536EF9D1-E24B-4C46-8815-963A5E9BDE9E",
+        "patientgender": "Female",
+        "patientdateofbirth": "1928-06-17 05:59:40.880",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "8.26"
+    },
+    {
+        "patientid": "80E26874-85AE-4139-A065-68B65F5CC294",
+        "patientgender": "Female",
+        "patientdateofbirth": "1968-12-03 23:08:49.803",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "15.39"
+    },
+    {
+        "patientid": "6F6C9B44-234A-42A2-977D-434BA3121AB1",
+        "patientgender": "Male",
+        "patientdateofbirth": "1985-02-22 21:06:29.633",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.89"
+    },
+    {
+        "patientid": "35A78EFA-834D-4360-8643-BEAABE448162",
+        "patientgender": "Female",
+        "patientdateofbirth": "1947-10-24 23:41:20.533",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.83"
+    },
+    {
+        "patientid": "0524653A-D758-4297-BD55-3B6D032E1787",
+        "patientgender": "Female",
+        "patientdateofbirth": "1940-05-12 04:15:56.540",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "16.86"
+    },
+    {
+        "patientid": "A02ED960-B074-4313-9D8F-F7C03D940AE6",
+        "patientgender": "Female",
+        "patientdateofbirth": "1951-11-10 14:29:06.273",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "6.61"
+    },
+    {
+        "patientid": "F030C309-86C9-453A-9C90-5FF6A12507C5",
+        "patientgender": "Male",
+        "patientdateofbirth": "1958-01-19 09:47:38.253",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "1.31"
+    },
+    {
+        "patientid": "DD3AA613-6ECF-4B04-A99F-4DB4775D2492",
+        "patientgender": "Female",
+        "patientdateofbirth": "1969-10-26 23:49:38.500",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.4"
+    },
+    {
+        "patientid": "F0668364-A5E7-4811-A323-142570F9AA53",
+        "patientgender": "Female",
+        "patientdateofbirth": "1979-10-19 10:04:47.980",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "11.14"
+    },
+    {
+        "patientid": "B2335D0B-D514-4DE7-AE96-ACC81E58F006",
+        "patientgender": "Male",
+        "patientdateofbirth": "1926-08-14 14:53:59.297",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "96.24"
+    },
+    {
+        "patientid": "30A290B3-6267-438B-9B11-6D1226AC21EF",
+        "patientgender": "Male",
+        "patientdateofbirth": "1948-11-06 15:22:17.087",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "13.04"
+    },
+    {
+        "patientid": "87DCD4FF-DC8F-4394-83C3-94E415A495C3",
+        "patientgender": "Male",
+        "patientdateofbirth": "1954-02-19 17:48:46.153",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "12.18"
+    },
+    {
+        "patientid": "8C149720-AB56-4690-A2E7-D63EC4708AE3",
+        "patientgender": "Female",
+        "patientdateofbirth": "1942-09-18 03:32:28.913",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.57"
+    },
+    {
+        "patientid": "3163D2D2-E828-4E32-B34B-31387F25A3D1",
+        "patientgender": "Male",
+        "patientdateofbirth": "1931-02-21 12:59:32.957",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "90.28"
+    },
+    {
+        "patientid": "EA1515CA-649F-41B0-8421-2878178688AA",
+        "patientgender": "Female",
+        "patientdateofbirth": "1976-03-26 02:23:07.440",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "93.54"
+    },
+    {
+        "patientid": "0D142C22-2EB9-4125-9B71-13ED7880C621",
+        "patientgender": "Male",
+        "patientdateofbirth": "1943-04-27 15:36:47.620",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "6.46"
+    },
+    {
+        "patientid": "A5F6F9BC-5FD6-4B06-9B23-9F15080E6BD6",
+        "patientgender": "Female",
+        "patientdateofbirth": "1937-08-23 18:35:06.537",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "3.86"
+    },
+    {
+        "patientid": "AEFDC4C3-E646-4C1D-96A8-1E1AE0874FA1",
+        "patientgender": "Female",
+        "patientdateofbirth": "1961-01-04 21:16:56.733",
+        "patientrace": "White",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "15.73"
+    },
+    {
+        "patientid": "565A149F-8607-4A9D-9B1A-797A34F9D58E",
+        "patientgender": "Male",
+        "patientdateofbirth": "1947-08-18 22:47:57.110",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "12.4"
+    },
+    {
+        "patientid": "80544005-158E-4801-AE45-95517FBEDE39",
+        "patientgender": "Female",
+        "patientdateofbirth": "1976-02-09 18:54:45.537",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "84.09"
+    },
+    {
+        "patientid": "E471DB0B-F5AD-4E49-A669-FE835D663A95",
+        "patientgender": "Female",
+        "patientdateofbirth": "1971-12-08 21:51:53.920",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "8.4"
+    },
+    {
+        "patientid": "2A3F5964-9D37-42AF-B21D-122A7ACA0182",
+        "patientgender": "Male",
+        "patientdateofbirth": "1942-03-17 22:09:37.877",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "16.65"
+    },
+    {
+        "patientid": "18407B0E-F754-41C6-9F7D-A53FBDFA16B3",
+        "patientgender": "Female",
+        "patientdateofbirth": "1930-01-23 17:15:24.880",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "10.18"
+    },
+    {
+        "patientid": "B9BA1A2D-F90F-42D8-BE24-306766E5714E",
+        "patientgender": "Female",
+        "patientdateofbirth": "1963-04-23 02:52:19.533",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.49"
+    },
+    {
+        "patientid": "C1DE44C6-53F2-44B3-A853-57B86B7842E3",
+        "patientgender": "Male",
+        "patientdateofbirth": "1952-06-16 20:49:59.357",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "6.25"
+    },
+    {
+        "patientid": "EB22788E-0A67-42F0-9808-16A9CD612B96",
+        "patientgender": "Male",
+        "patientdateofbirth": "1924-11-15 17:24:41.637",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "13.6"
+    },
+    {
+        "patientid": "C8DF78D3-A9BF-4315-98D3-11616ECB10E2",
+        "patientgender": "Male",
+        "patientdateofbirth": "1957-06-02 16:26:12.370",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.62"
+    },
+    {
+        "patientid": "3D5D37C1-0DAA-497D-BCAB-F0C6B50589EF",
+        "patientgender": "Female",
+        "patientdateofbirth": "1960-04-05 08:04:11.307",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.7"
+    },
+    {
+        "patientid": "145390F5-1CC7-4878-B52F-D25D6D5B7D9B",
+        "patientgender": "Male",
+        "patientdateofbirth": "1944-03-31 23:35:29.987",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "11.17"
+    },
+    {
+        "patientid": "F64D74BA-BF6E-4255-A3A3-6C2526208F99",
+        "patientgender": "Male",
+        "patientdateofbirth": "1924-03-12 02:25:46.293",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "10.89"
+    },
+    {
+        "patientid": "7FC71DB3-F400-40F0-9AE2-96CE06D7C9BA",
+        "patientgender": "Female",
+        "patientdateofbirth": "1947-05-09 19:05:55.300",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.81"
+    },
+    {
+        "patientid": "5264C0F0-B53A-4E82-8FB9-4FE88ABA68A2",
+        "patientgender": "Male",
+        "patientdateofbirth": "1934-02-14 19:57:41.560",
+        "patientrace": "White",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.43"
+    },
+    {
+        "patientid": "DFDF22D4-BD6B-479D-A4A1-60555D0671A2",
+        "patientgender": "Male",
+        "patientdateofbirth": "1973-09-07 01:25:31.217",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "19.43"
+    },
+    {
+        "patientid": "51B00D4A-59A0-4835-B933-3B934CE615C7",
+        "patientgender": "Female",
+        "patientdateofbirth": "1971-06-24 04:22:35.800",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.46"
+    },
+    {
+        "patientid": "2B8CCBA9-10EF-4377-A05F-F071B3230A4A",
+        "patientgender": "Male",
+        "patientdateofbirth": "1925-04-02 00:07:16.997",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.86"
+    },
+    {
+        "patientid": "C02675DF-590A-41D8-BA77-7D9CE3965B71",
+        "patientgender": "Female",
+        "patientdateofbirth": "1988-03-23 12:44:24.033",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "2.5"
+    },
+    {
+        "patientid": "E970EDBF-238A-4BAE-B6A2-5023C7CC08D7",
+        "patientgender": "Male",
+        "patientdateofbirth": "1951-05-21 13:59:12.150",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.85"
+    },
+    {
+        "patientid": "AAEE0C84-2BA1-4DDD-A8C7-9CDF25618FF7",
+        "patientgender": "Female",
+        "patientdateofbirth": "1970-05-26 22:42:01.480",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "19.01"
+    },
+    {
+        "patientid": "A5272380-49CB-4390-977B-F249C97D254F",
+        "patientgender": "Male",
+        "patientdateofbirth": "1974-08-29 04:30:22.847",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "17.33"
+    },
+    {
+        "patientid": "24A2E2CE-A3C8-420F-ABBC-16CECECC0FBF",
+        "patientgender": "Male",
+        "patientdateofbirth": "1967-11-29 20:13:22.323",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "81.4"
+    },
+    {
+        "patientid": "0E851AB0-5E1E-4F44-B2DA-48B35E0898EC",
+        "patientgender": "Female",
+        "patientdateofbirth": "1944-01-07 15:45:04.727",
+        "patientrace": "White",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.27"
+    },
+    {
+        "patientid": "87953284-30E5-4295-8042-4AC6587D5C1B",
+        "patientgender": "Female",
+        "patientdateofbirth": "1940-09-09 05:36:38.880",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "13.21"
+    },
+    {
+        "patientid": "39A0E4F8-AD61-4579-956F-64CCFEF7CA74",
+        "patientgender": "Female",
+        "patientdateofbirth": "1956-03-12 11:06:28.543",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.38"
+    },
+    {
+        "patientid": "D5892B68-CF7F-487F-B68D-3489D79B29BC",
+        "patientgender": "Female",
+        "patientdateofbirth": "1942-12-31 17:17:22.867",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.3"
+    },
+    {
+        "patientid": "3B3DA078-A0DA-40B0-AFDC-345A24110C0F",
+        "patientgender": "Female",
+        "patientdateofbirth": "1960-07-16 05:39:09.343",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.62"
+    },
+    {
+        "patientid": "F25E9E36-2DBE-48FA-A6D9-E6A1D2756752",
+        "patientgender": "Male",
+        "patientdateofbirth": "1969-09-14 06:56:33.410",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "19.1"
+    },
+    {
+        "patientid": "D7ABBA85-F1FE-449C-8452-876704553A3E",
+        "patientgender": "Male",
+        "patientdateofbirth": "1949-07-30 14:19:20.917",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "13.49"
+    },
+    {
+        "patientid": "CDC9ABB8-75F1-4F02-869A-72C555AF833F",
+        "patientgender": "Male",
+        "patientdateofbirth": "1952-07-19 03:30:47.730",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "10.43"
+    },
+    {
+        "patientid": "39DA6342-CEBD-4951-B3E7-5425BA0FF435",
+        "patientgender": "Female",
+        "patientdateofbirth": "1982-01-06 06:16:26.407",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "89.4"
+    },
+    {
+        "patientid": "C5F8D8BD-56E6-430B-B6E4-F95FE40BFB1D",
+        "patientgender": "Male",
+        "patientdateofbirth": "1953-09-21 16:51:07.960",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "16.65"
+    },
+    {
+        "patientid": "7D8C7C28-4642-4B87-B53A-E98218C92804",
+        "patientgender": "Female",
+        "patientdateofbirth": "1964-12-20 02:19:10.237",
+        "patientrace": "White",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "12.92"
+    },
+    {
+        "patientid": "F9DC023D-7190-477B-B40B-12BD2CD3B49A",
+        "patientgender": "Female",
+        "patientdateofbirth": "1982-11-04 09:02:09.427",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.11"
+    },
+    {
+        "patientid": "BB07990A-AD01-48D1-930D-F573C41D155C",
+        "patientgender": "Male",
+        "patientdateofbirth": "1965-12-10 05:28:02.767",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "0.04"
+    },
+    {
+        "patientid": "F082B61D-C107-4F1F-90EB-78ADD48958D8",
+        "patientgender": "Male",
+        "patientdateofbirth": "1953-09-17 00:08:03.520",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.33"
+    },
+    {
+        "patientid": "4FD17B0A-6BEC-4B96-88D5-BC595B75D073",
+        "patientgender": "Female",
+        "patientdateofbirth": "1969-07-11 00:06:04.017",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.55"
+    },
+    {
+        "patientid": "5BB481CD-5652-4EC6-9E5C-427E483D8B2E",
+        "patientgender": "Male",
+        "patientdateofbirth": "1978-01-16 10:21:40.223",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.25"
+    },
+    {
+        "patientid": "F5DA2F04-4CAC-4615-99C3-6E1385DBF4C6",
+        "patientgender": "Female",
+        "patientdateofbirth": "1954-03-25 00:57:22.863",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "7.54"
+    },
+    {
+        "patientid": "DCD7B26F-351D-4182-B380-830236D53465",
+        "patientgender": "Male",
+        "patientdateofbirth": "1952-02-22 11:40:24.680",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "19.23"
+    },
+    {
+        "patientid": "08E7AEF4-E58B-4DD8-BCF8-40D3D0CCA5C8",
+        "patientgender": "Female",
+        "patientdateofbirth": "1950-09-29 23:54:22.570",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "12.49"
+    },
+    {
+        "patientid": "A49B41C8-C0E7-4F92-9398-6144A1A4F1E7",
+        "patientgender": "Male",
+        "patientdateofbirth": "1966-07-03 21:11:45.147",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "8.42"
+    },
+    {
+        "patientid": "48486020-B818-412F-B8D0-8C958B034A79",
+        "patientgender": "Male",
+        "patientdateofbirth": "1961-04-11 07:41:47.227",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.31"
+    },
+    {
+        "patientid": "2857402A-23BE-4F66-B305-8B0932A034C3",
+        "patientgender": "Female",
+        "patientdateofbirth": "1961-11-19 15:19:01.687",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.6"
+    },
+    {
+        "patientid": "02059D1C-084A-4D10-9B12-4921B51E2C17",
+        "patientgender": "Female",
+        "patientdateofbirth": "1961-11-12 03:16:39.093",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.91"
+    },
+    {
+        "patientid": "C9B16843-D5E9-46C9-A295-646947075ADA",
+        "patientgender": "Female",
+        "patientdateofbirth": "1979-09-18 09:08:02.810",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.9"
+    },
+    {
+        "patientid": "5A68B726-7533-4D24-8509-E15C87F4FB5B",
+        "patientgender": "Female",
+        "patientdateofbirth": "1941-12-15 16:10:11.613",
+        "patientrace": "White",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "10.69"
+    },
+    {
+        "patientid": "21DFA8AD-3FF1-4793-8581-CD76A1E8E5CF",
+        "patientgender": "Female",
+        "patientdateofbirth": "1920-10-28 01:41:26.117",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "19.94"
+    },
+    {
+        "patientid": "80C68D9F-AF90-418C-8674-78EC9CCA5DA2",
+        "patientgender": "Female",
+        "patientdateofbirth": "1956-12-22 12:02:46.097",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "0.66"
+    },
+    {
+        "patientid": "F45177AD-100E-42BF-96A6-90D73B9ADDC9",
+        "patientgender": "Male",
+        "patientdateofbirth": "1970-06-29 12:24:47.390",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "18.53"
+    },
+    {
+        "patientid": "73749810-6C33-406C-9B69-7EB467F62D53",
+        "patientgender": "Male",
+        "patientdateofbirth": "1986-02-08 16:11:07.927",
+        "patientrace": "White",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "10.12"
+    },
+    {
+        "patientid": "6106220A-F14E-4441-A067-850E26CA0446",
+        "patientgender": "Male",
+        "patientdateofbirth": "1969-11-02 23:00:35.463",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.14"
+    },
+    {
+        "patientid": "58ED8322-1FCB-4516-928D-ACE61A93E637",
+        "patientgender": "Male",
+        "patientdateofbirth": "1962-01-14 04:19:46.877",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "87.79"
+    },
+    {
+        "patientid": "DB281856-B3BE-4E6F-8824-FFFBF80DCC91",
+        "patientgender": "Male",
+        "patientdateofbirth": "1966-06-16 08:42:46.887",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "16.41"
+    },
+    {
+        "patientid": "D904C460-2285-431A-852D-CA83BD4A9882",
+        "patientgender": "Female",
+        "patientdateofbirth": "1926-12-19 04:03:24.060",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.78"
+    },
+    {
+        "patientid": "94A0FFFD-E832-490F-B527-4D37F5EF6EF2",
+        "patientgender": "Male",
+        "patientdateofbirth": "1969-09-03 10:22:42.623",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "16.92"
+    },
+    {
+        "patientid": "54051613-CAEB-4BD2-B0AD-A610DE4F6EC6",
+        "patientgender": "Female",
+        "patientdateofbirth": "1988-09-17 15:12:51.133",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "5.98"
+    },
+    {
+        "patientid": "AD819F04-452B-436A-A2C3-B1C0D701F27E",
+        "patientgender": "Male",
+        "patientdateofbirth": "1973-12-16 15:28:34.763",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "16.42"
+    },
+    {
+        "patientid": "5F7F7F0E-C02E-4850-8ADE-F3685BFCE299",
+        "patientgender": "Female",
+        "patientdateofbirth": "1962-08-08 10:22:49.260",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "12.67"
+    },
+    {
+        "patientid": "704763D2-E81F-4A0C-964A-C961B8D0ABBD",
+        "patientgender": "Male",
+        "patientdateofbirth": "1955-02-14 09:03:58.690",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "19.83"
+    },
+    {
+        "patientid": "7F9079D3-9594-49C5-92CB-5E5D846F1A31",
+        "patientgender": "Male",
+        "patientdateofbirth": "1967-04-09 14:05:30.570",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "16.72"
+    },
+    {
+        "patientid": "DA965A76-3326-4D82-9C87-2D402AE41363",
+        "patientgender": "Female",
+        "patientdateofbirth": "1927-08-31 17:25:06.753",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "11.21"
+    },
+    {
+        "patientid": "B6285666-86A2-4418-A0BA-1A7E795DDEE3",
+        "patientgender": "Female",
+        "patientdateofbirth": "1946-06-11 22:43:51.147",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "3.2"
+    },
+    {
+        "patientid": "3A0CAAAF-7D18-4AC7-A83D-4B3932252B69",
+        "patientgender": "Female",
+        "patientdateofbirth": "1979-03-17 18:05:42.200",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.87"
+    },
+    {
+        "patientid": "FD873378-84F2-476A-814E-C9F3DDA86A4C",
+        "patientgender": "Female",
+        "patientdateofbirth": "1960-08-10 18:27:07.653",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.84"
+    },
+    {
+        "patientid": "5DB9C278-C9F3-471F-9C7B-BC42160463E3",
+        "patientgender": "Male",
+        "patientdateofbirth": "1943-07-15 05:39:50.943",
+        "patientrace": "White",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "12.53"
+    },
+    {
+        "patientid": "08139A24-2172-4E05-8D76-8ADA7EF71AF6",
+        "patientgender": "Male",
+        "patientdateofbirth": "1962-11-22 08:12:59.400",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "7.83"
+    },
+    {
+        "patientid": "BE5014CF-22D4-4BE7-A621-001224FDF0C4",
+        "patientgender": "Female",
+        "patientdateofbirth": "1966-11-13 22:22:16.737",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.87"
+    },
+    {
+        "patientid": "A25800D6-0314-4F0F-A82A-0ADD41658BE8",
+        "patientgender": "Female",
+        "patientdateofbirth": "1975-05-16 02:35:56.770",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "86.35"
+    },
+    {
+        "patientid": "BECC4E23-E39F-419E-B129-7E00F6FBEA88",
+        "patientgender": "Female",
+        "patientdateofbirth": "1988-02-28 11:09:40.363",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.18"
+    },
+    {
+        "patientid": "0E707202-A546-4EF9-A69D-4A7926133E42",
+        "patientgender": "Female",
+        "patientdateofbirth": "1943-01-06 08:45:04.623",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.28"
+    },
+    {
+        "patientid": "1DD0CC95-7033-4777-BE89-5290260D06B3",
+        "patientgender": "Female",
+        "patientdateofbirth": "1960-01-18 16:03:17.690",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "16.07"
+    },
+    {
+        "patientid": "5F9ADB42-4439-4ED6-BC76-5CD4BBA2E589",
+        "patientgender": "Male",
+        "patientdateofbirth": "1975-10-26 02:18:42.283",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.14"
+    },
+    {
+        "patientid": "9C0C6627-08E0-43F0-AC8C-8482AC3AAC0F",
+        "patientgender": "Male",
+        "patientdateofbirth": "1941-08-05 20:37:17.930",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "16.61"
+    },
+    {
+        "patientid": "C95CFA73-74EB-4A13-8B24-2E77801A3899",
+        "patientgender": "Male",
+        "patientdateofbirth": "1966-08-08 22:46:19.257",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "6.22"
+    },
+    {
+        "patientid": "2850204E-A349-4D1E-9719-F5AAF65FF7E7",
+        "patientgender": "Female",
+        "patientdateofbirth": "1986-04-19 06:23:21.153",
+        "patientrace": "White",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "17.96"
+    },
+    {
+        "patientid": "C891721B-9703-45AF-9A32-1535CADE45F9",
+        "patientgender": "Female",
+        "patientdateofbirth": "1966-01-01 20:48:56.007",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "19.77"
+    },
+    {
+        "patientid": "0C32E1E0-EA8F-48F0-84CA-CF290AE0C372",
+        "patientgender": "Male",
+        "patientdateofbirth": "1959-12-04 00:28:59.717",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "7.94"
+    },
+    {
+        "patientid": "DDC97796-B776-4B5B-9587-54A0B9DEF34A",
+        "patientgender": "Female",
+        "patientdateofbirth": "1956-01-10 13:14:17.410",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "18.25"
+    },
+    {
+        "patientid": "185A97BE-F186-4169-B2BE-3B2B923D594F",
+        "patientgender": "Female",
+        "patientdateofbirth": "1925-09-28 00:14:56.530",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "17.1"
+    },
+    {
+        "patientid": "0187430D-0930-4E61-9FD5-8706A8E493CE",
+        "patientgender": "Female",
+        "patientdateofbirth": "1947-01-21 02:55:41.960",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.34"
+    },
+    {
+        "patientid": "AA75639D-ABA2-4536-8CD9-A4E9E0009A7F",
+        "patientgender": "Female",
+        "patientdateofbirth": "1982-12-13 08:07:21.867",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "93.54"
+    },
+    {
+        "patientid": "5A6A3955-338F-4CB3-922D-6C53E57CAD18",
+        "patientgender": "Male",
+        "patientdateofbirth": "1955-11-24 18:07:50.870",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.9"
+    },
+    {
+        "patientid": "7AF51F2F-74BB-4A4F-8966-F0BBCE5A7098",
+        "patientgender": "Male",
+        "patientdateofbirth": "1932-10-09 13:25:43.977",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "12.23"
+    },
+    {
+        "patientid": "334F5FC6-B796-4A49-B85F-4BE041FE4B64",
+        "patientgender": "Female",
+        "patientdateofbirth": "1963-03-10 23:56:01.500",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "11.51"
+    },
+    {
+        "patientid": "17E17720-F650-4817-97F0-3BFFC8C98480",
+        "patientgender": "Female",
+        "patientdateofbirth": "1955-12-12 21:05:06.267",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "14.48"
+    },
+    {
+        "patientid": "5158CA62-931A-49D0-867D-97AB3A924C5D",
+        "patientgender": "Male",
+        "patientdateofbirth": "1925-11-30 22:05:19.927",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "16.46"
+    },
+    {
+        "patientid": "0BE63465-FBB2-4894-A96E-43EEA294445A",
+        "patientgender": "Male",
+        "patientdateofbirth": "1954-02-19 17:31:29.993",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "14.32"
+    },
+    {
+        "patientid": "DDE61DB8-E5C3-4597-8865-A0930B9B6339",
+        "patientgender": "Male",
+        "patientdateofbirth": "1932-03-14 09:13:43.193",
+        "patientrace": "White",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.19"
+    },
+    {
+        "patientid": "995E136F-2E95-4EB3-ABB1-BAFD1E019EE7",
+        "patientgender": "Male",
+        "patientdateofbirth": "1986-08-25 20:32:09.533",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.25"
+    },
+    {
+        "patientid": "93A2BC5A-A037-4335-9384-3E3BCD0C05DF",
+        "patientgender": "Female",
+        "patientdateofbirth": "1939-04-03 07:26:55.570",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.38"
+    },
+    {
+        "patientid": "9D5F5A39-6794-4973-892D-C085256622A5",
+        "patientgender": "Male",
+        "patientdateofbirth": "1931-01-10 04:32:02.157",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "12.4"
+    },
+    {
+        "patientid": "F3CA9B51-60B9-4962-9D4B-5D8D035575A7",
+        "patientgender": "Male",
+        "patientdateofbirth": "1933-06-27 22:56:19.833",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "13.36"
+    },
+    {
+        "patientid": "E264F8EB-53D4-4B69-8876-87DB7E5A8606",
+        "patientgender": "Male",
+        "patientdateofbirth": "1957-03-13 15:14:22.660",
+        "patientrace": "White",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "80.17"
+    },
+    {
+        "patientid": "D84B36C3-FCF1-4BDA-AA8D-3FB063998D78",
+        "patientgender": "Male",
+        "patientdateofbirth": "1969-08-18 09:24:10.157",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "16.17"
+    },
+    {
+        "patientid": "918F895D-0455-428A-B2CD-209E3B1F485D",
+        "patientgender": "Male",
+        "patientdateofbirth": "1922-08-12 09:30:30.387",
+        "patientrace": "White",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.58"
+    },
+    {
+        "patientid": "8D81286C-8527-47B7-9E74-8E5CEB32BDE3",
+        "patientgender": "Female",
+        "patientdateofbirth": "1986-12-07 00:46:22.550",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "3.14"
+    },
+    {
+        "patientid": "92C1D695-8B52-4447-A5C0-8420AFE89963",
+        "patientgender": "Male",
+        "patientdateofbirth": "1969-10-06 21:28:26.773",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "85.41"
+    },
+    {
+        "patientid": "00039D6B-6008-46B9-BCB3-1FB108E739A3",
+        "patientgender": "Male",
+        "patientdateofbirth": "1973-01-25 15:25:13.727",
+        "patientrace": "White",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "18.98"
+    },
+    {
+        "patientid": "241F9811-E6CB-4E9B-9707-7630267BD994",
+        "patientgender": "Male",
+        "patientdateofbirth": "1932-04-27 07:32:20.683",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.67"
+    },
+    {
+        "patientid": "4C382ED5-5A0D-45E1-B2ED-DBA18C87C086",
+        "patientgender": "Female",
+        "patientdateofbirth": "1959-06-11 18:08:06.643",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "16.6"
+    },
+    {
+        "patientid": "46DABE13-E96D-403C-9786-F6A9D107E643",
+        "patientgender": "Male",
+        "patientdateofbirth": "1924-02-08 18:25:53.543",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.46"
+    },
+    {
+        "patientid": "DFB79A2F-FD02-4433-89B9-9603A60E551B",
+        "patientgender": "Male",
+        "patientdateofbirth": "1966-06-07 04:48:03.703",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.24"
+    },
+    {
+        "patientid": "CE5DB92E-5242-4048-B3C5-63C141E4296C",
+        "patientgender": "Female",
+        "patientdateofbirth": "1960-05-15 14:09:46.210",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "8"
+    },
+    {
+        "patientid": "32D3F520-4273-40DF-810F-2C9E76A79464",
+        "patientgender": "Female",
+        "patientdateofbirth": "1946-04-30 15:12:11.367",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "84.64"
+    },
+    {
+        "patientid": "157076F5-AE71-4E14-92BC-54C8C58FE424",
+        "patientgender": "Female",
+        "patientdateofbirth": "1970-11-14 16:23:57.490",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.31"
+    },
+    {
+        "patientid": "D7C0CD18-7D91-4EC3-9EC8-6564BAC450BB",
+        "patientgender": "Female",
+        "patientdateofbirth": "1980-01-10 14:32:59.733",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.1"
+    },
+    {
+        "patientid": "F0DF6EB8-C748-4F62-8271-1FA4E49F11D3",
+        "patientgender": "Female",
+        "patientdateofbirth": "1958-02-22 19:25:16.847",
+        "patientrace": "White",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.23"
+    },
+    {
+        "patientid": "3085403F-B8D8-472C-8335-606D09566EFF",
+        "patientgender": "Male",
+        "patientdateofbirth": "1973-03-17 05:32:20.120",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.52"
+    },
+    {
+        "patientid": "A440CCAB-3880-4098-A75D-AB362DECE60B",
+        "patientgender": "Male",
+        "patientdateofbirth": "1962-10-15 22:01:08.333",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "95.37"
+    },
+    {
+        "patientid": "1F9DBA64-356D-457F-AB6F-9EDEFD0CBFAA",
+        "patientgender": "Female",
+        "patientdateofbirth": "1921-05-17 03:32:19.463",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "14.05"
+    },
+    {
+        "patientid": "8CAA3BC8-5FFB-40E8-B9E3-30B9DEF819A8",
+        "patientgender": "Male",
+        "patientdateofbirth": "1969-08-14 11:18:20.067",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.39"
+    },
+    {
+        "patientid": "540F8860-0F80-472B-9B65-BF08AE9133B4",
+        "patientgender": "Male",
+        "patientdateofbirth": "1940-04-21 09:20:24.320",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.75"
+    },
+    {
+        "patientid": "88B6A933-A6C6-470E-8662-F412DD52B357",
+        "patientgender": "Male",
+        "patientdateofbirth": "1984-12-11 16:53:43.163",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "12.27"
+    },
+    {
+        "patientid": "9147A0D9-479F-40A1-9E0A-06A87BA92384",
+        "patientgender": "Male",
+        "patientdateofbirth": "1988-07-13 23:16:03.830",
+        "patientrace": "White",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "12.64"
+    },
+    {
+        "patientid": "91075549-042F-4698-86AE-3E7C40C0C4C8",
+        "patientgender": "Male",
+        "patientdateofbirth": "1980-03-10 23:24:06.820",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.87"
+    },
+    {
+        "patientid": "1DEE5623-0C7F-4032-8C55-553E7A1D51C7",
+        "patientgender": "Female",
+        "patientdateofbirth": "1969-11-11 17:35:27.103",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.35"
+    },
+    {
+        "patientid": "E4415B44-1974-41DC-9BD6-7353868969A5",
+        "patientgender": "Male",
+        "patientdateofbirth": "1948-08-27 02:47:26.427",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "10.51"
+    },
+    {
+        "patientid": "C2EA5D5A-5DA1-4CB7-8A73-3AAC5DE38535",
+        "patientgender": "Female",
+        "patientdateofbirth": "1968-07-23 08:06:58.387",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.75"
+    },
+    {
+        "patientid": "1DE708ED-D106-42C9-B857-15783816FB14",
+        "patientgender": "Female",
+        "patientdateofbirth": "1964-09-19 00:38:58.277",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.56"
+    },
+    {
+        "patientid": "5F758A6C-6213-4317-BB85-E6ED31A83279",
+        "patientgender": "Female",
+        "patientdateofbirth": "1981-10-11 00:29:16.837",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "12.91"
+    },
+    {
+        "patientid": "01259319-0766-43FE-8EA9-6130772267E9",
+        "patientgender": "Male",
+        "patientdateofbirth": "1951-10-15 00:01:14.427",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "10.3"
+    },
+    {
+        "patientid": "32CAF5D3-B6A5-4E43-8856-BB7735C86A70",
+        "patientgender": "Female",
+        "patientdateofbirth": "1967-05-04 13:37:29.273",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "14.22"
+    },
+    {
+        "patientid": "14ABBC6B-ADA8-4F44-BD44-12AC8F81E8A4",
+        "patientgender": "Male",
+        "patientdateofbirth": "1942-01-25 03:29:11.980",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.2"
+    },
+    {
+        "patientid": "97E4D32E-C519-4214-A93C-3EC30CDF9E5F",
+        "patientgender": "Female",
+        "patientdateofbirth": "1973-02-09 11:31:35.127",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.36"
+    },
+    {
+        "patientid": "A6A80FC7-9BC2-4E06-B074-B8CF12F41E83",
+        "patientgender": "Female",
+        "patientdateofbirth": "1929-09-14 02:40:41.340",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.26"
+    },
+    {
+        "patientid": "97A9BE5E-E99D-4282-8D64-A01E88602E45",
+        "patientgender": "Male",
+        "patientdateofbirth": "1944-02-09 14:10:06.100",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.76"
+    },
+    {
+        "patientid": "7C563CA7-FE7A-4EE5-94A5-94FFF7AB188A",
+        "patientgender": "Female",
+        "patientdateofbirth": "1961-03-18 12:56:54.997",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "12.92"
+    },
+    {
+        "patientid": "E1A65D39-4C35-4412-815A-F9B0D74DCA8B",
+        "patientgender": "Female",
+        "patientdateofbirth": "1944-01-22 23:43:06.747",
+        "patientrace": "White",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "15.37"
+    },
+    {
+        "patientid": "4356A396-FAC2-421D-95E0-2F2BB1ECF98B",
+        "patientgender": "Female",
+        "patientdateofbirth": "1950-11-07 07:54:18.173",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.34"
+    },
+    {
+        "patientid": "23889CB1-E516-49D8-B035-6BAA57801CF7",
+        "patientgender": "Female",
+        "patientdateofbirth": "1928-01-25 22:32:11.977",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.91"
+    },
+    {
+        "patientid": "B471D618-9E90-408F-AA52-BF0FBC4A2305",
+        "patientgender": "Female",
+        "patientdateofbirth": "1956-05-01 11:22:29.353",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "15.28"
+    },
+    {
+        "patientid": "3DC9FBB9-B6A8-492E-BF76-D65B1A07B612",
+        "patientgender": "Male",
+        "patientdateofbirth": "1954-12-26 19:46:03.490",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "18.74"
+    },
+    {
+        "patientid": "006EAD80-B1E8-43E7-A811-F5F70D3C3378",
+        "patientgender": "Female",
+        "patientdateofbirth": "1978-10-22 20:13:03.153",
+        "patientrace": "White",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "5.32"
+    },
+    {
+        "patientid": "0BE1D00C-C1CD-4501-8279-0C69D8809C0F",
+        "patientgender": "Male",
+        "patientdateofbirth": "1932-06-27 14:28:26.230",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.5"
+    },
+    {
+        "patientid": "593880B9-E265-497C-A590-9D4FC1736B60",
+        "patientgender": "Male",
+        "patientdateofbirth": "1924-08-20 06:42:48.877",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "16.4"
+    },
+    {
+        "patientid": "5BBB50FD-4B95-41FE-81B9-D85A5A40C4FC",
+        "patientgender": "Female",
+        "patientdateofbirth": "1965-10-21 23:15:09.527",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "7.31"
+    },
+    {
+        "patientid": "5E817076-3AA1-4F63-8070-788E1B851595",
+        "patientgender": "Female",
+        "patientdateofbirth": "1966-08-02 09:07:51.770",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.84"
+    },
+    {
+        "patientid": "7A0F5D64-5A50-40A6-A5F0-6151A9335CE0",
+        "patientgender": "Female",
+        "patientdateofbirth": "1947-09-16 23:05:39.770",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "14.89"
+    },
+    {
+        "patientid": "139B3702-717C-4EDE-B981-E6AF5C961EEB",
+        "patientgender": "Female",
+        "patientdateofbirth": "1942-08-31 08:43:49.020",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "15.36"
+    },
+    {
+        "patientid": "0D19AFCA-7149-41E5-99F6-04B78500498E",
+        "patientgender": "Male",
+        "patientdateofbirth": "1953-10-14 13:38:44.450",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "84.04"
+    },
+    {
+        "patientid": "C45FB27E-BF07-4A15-9BA1-E9414B5F183E",
+        "patientgender": "Male",
+        "patientdateofbirth": "1965-10-01 05:15:40.163",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.19"
+    },
+    {
+        "patientid": "03D7C625-E832-4E47-95EB-8BA999D3910D",
+        "patientgender": "Male",
+        "patientdateofbirth": "1942-03-17 02:30:46.600",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "97.4"
+    },
+    {
+        "patientid": "4746D5A3-E900-4FF1-81A4-CA990B4DA5AD",
+        "patientgender": "Male",
+        "patientdateofbirth": "1943-09-02 05:27:48.327",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "16.13"
+    },
+    {
+        "patientid": "8B4F1A45-88B7-4C61-9F89-E2E5200EFB08",
+        "patientgender": "Male",
+        "patientdateofbirth": "1954-09-24 23:24:25.110",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "4.08"
+    },
+    {
+        "patientid": "D51DCC75-3012-4114-BDE6-F38C7200D370",
+        "patientgender": "Female",
+        "patientdateofbirth": "1977-12-20 09:48:09.447",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.71"
+    },
+    {
+        "patientid": "E859D832-3DB4-4C5F-9146-5C19BF04723B",
+        "patientgender": "Female",
+        "patientdateofbirth": "1923-12-19 07:28:56.000",
+        "patientrace": "White",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.95"
+    },
+    {
+        "patientid": "0655AEFB-E12C-4FDC-8A15-F750E017B0BE",
+        "patientgender": "Male",
+        "patientdateofbirth": "1964-05-15 14:44:38.190",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.73"
+    },
+    {
+        "patientid": "FF173D01-D6A8-4519-A590-C22BA7944C27",
+        "patientgender": "Female",
+        "patientdateofbirth": "1953-07-14 18:48:20.370",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.74"
+    },
+    {
+        "patientid": "A9EAE463-F6CE-421B-9313-2849F63C5365",
+        "patientgender": "Male",
+        "patientdateofbirth": "1956-06-03 10:15:10.253",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.1"
+    },
+    {
+        "patientid": "82F9481A-5CE9-461D-97AC-052088E57667",
+        "patientgender": "Male",
+        "patientdateofbirth": "1957-11-12 10:41:17.723",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "8"
+    },
+    {
+        "patientid": "FCF88408-78C4-4AB2-95B8-40854D375DBB",
+        "patientgender": "Female",
+        "patientdateofbirth": "1953-10-08 03:38:38.150",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.39"
+    },
+    {
+        "patientid": "A9126F2D-B727-43BC-B6AC-4B7CF5D0FA87",
+        "patientgender": "Female",
+        "patientdateofbirth": "1953-02-20 00:11:29.300",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "0.81"
+    },
+    {
+        "patientid": "3A7B3FB3-5680-4F17-968A-10EEB2B111FE",
+        "patientgender": "Female",
+        "patientdateofbirth": "1940-08-13 19:13:42.687",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "96.26"
+    },
+    {
+        "patientid": "C492A6D2-4D4A-43A3-89AB-BD3EE9782BA5",
+        "patientgender": "Female",
+        "patientdateofbirth": "1969-06-29 16:11:32.457",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.45"
+    },
+    {
+        "patientid": "19CFB306-9B3B-4090-ABE3-A161EEE04236",
+        "patientgender": "Female",
+        "patientdateofbirth": "1952-08-10 17:42:55.530",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "93.07"
+    },
+    {
+        "patientid": "E8CEF4D1-E2C9-45E9-9EB6-4A4209A4BA3C",
+        "patientgender": "Male",
+        "patientdateofbirth": "1928-03-21 00:48:50.533",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.8"
+    },
+    {
+        "patientid": "3E16E27F-A8A6-4979-BBDF-F87D478D0FC4",
+        "patientgender": "Female",
+        "patientdateofbirth": "1949-10-11 09:59:59.437",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.62"
+    },
+    {
+        "patientid": "4C69E956-E2D5-4D11-92E2-FCDE27DF76FB",
+        "patientgender": "Female",
+        "patientdateofbirth": "1983-07-21 22:24:21.220",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.95"
+    },
+    {
+        "patientid": "C2665355-0FAC-48A9-8A2A-7FD777016824",
+        "patientgender": "Female",
+        "patientdateofbirth": "1926-12-26 23:33:43.357",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "15.66"
+    },
+    {
+        "patientid": "337F1EDA-7397-4AF8-8E97-DC4482F23BCF",
+        "patientgender": "Male",
+        "patientdateofbirth": "1988-10-21 20:20:37.067",
+        "patientrace": "White",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.8"
+    },
+    {
+        "patientid": "3B5AE96E-4DA8-4A1B-8FDF-EA9D474FF462",
+        "patientgender": "Male",
+        "patientdateofbirth": "1950-10-18 02:12:58.067",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "15.77"
+    },
+    {
+        "patientid": "628E1C7B-9E9B-4346-8404-B78596817D68",
+        "patientgender": "Male",
+        "patientdateofbirth": "1941-01-12 13:20:39.563",
+        "patientrace": "White",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.35"
+    },
+    {
+        "patientid": "15E85105-E472-41FA-B585-1A3D4AC40E86",
+        "patientgender": "Male",
+        "patientdateofbirth": "1934-07-20 16:20:55.297",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.52"
+    },
+    {
+        "patientid": "B3050B5F-13FF-466F-A4A0-36D19DAA445B",
+        "patientgender": "Female",
+        "patientdateofbirth": "1968-10-22 06:31:48.990",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.41"
+    },
+    {
+        "patientid": "18E8059E-4878-4AC5-9147-3E2529E3882E",
+        "patientgender": "Female",
+        "patientdateofbirth": "1976-05-31 19:00:28.720",
+        "patientrace": "White",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.44"
+    },
+    {
+        "patientid": "04DE7EA7-10D4-484C-8E77-0972EE3B51E0",
+        "patientgender": "Female",
+        "patientdateofbirth": "1955-04-29 08:43:24.723",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "9.08"
+    },
+    {
+        "patientid": "20B8A631-F9BD-4287-85B1-21B6F046F127",
+        "patientgender": "Female",
+        "patientdateofbirth": "1938-04-12 05:54:35.157",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.27"
+    },
+    {
+        "patientid": "035F4B6B-3091-4402-B5FB-ADB45C53CC3A",
+        "patientgender": "Female",
+        "patientdateofbirth": "1974-10-24 06:39:17.073",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "9.53"
+    },
+    {
+        "patientid": "9BA8EAA1-CFEA-47A1-ABF7-721A9C821FA3",
+        "patientgender": "Female",
+        "patientdateofbirth": "1976-10-08 19:04:48.800",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.36"
+    },
+    {
+        "patientid": "293773F6-4CAA-4742-A509-766C938B1FF8",
+        "patientgender": "Male",
+        "patientdateofbirth": "1961-01-19 20:00:54.357",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "16.23"
+    },
+    {
+        "patientid": "A4C45D89-01A6-461C-AE97-BE637926703A",
+        "patientgender": "Female",
+        "patientdateofbirth": "1930-07-19 03:51:51.353",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.84"
+    },
+    {
+        "patientid": "3621A1C2-473A-4FC0-AFA3-95FAC6B8E14C",
+        "patientgender": "Female",
+        "patientdateofbirth": "1953-01-17 03:22:47.757",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.51"
+    },
+    {
+        "patientid": "E57E5776-8285-472B-8B83-F184F06D93C3",
+        "patientgender": "Male",
+        "patientdateofbirth": "1955-08-26 01:51:54.420",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "17.21"
+    },
+    {
+        "patientid": "003DEE61-9469-4FDD-9425-E20D61205C3A",
+        "patientgender": "Male",
+        "patientdateofbirth": "1970-12-22 20:13:18.630",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.51"
+    },
+    {
+        "patientid": "24504997-DE9F-4C23-98CD-2F9139AA31E9",
+        "patientgender": "Female",
+        "patientdateofbirth": "1972-09-27 19:26:57.200",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "99.61"
+    },
+    {
+        "patientid": "F971F7CC-78DA-4C5B-B129-F41B9DFA9835",
+        "patientgender": "Female",
+        "patientdateofbirth": "1969-09-16 16:21:44.910",
+        "patientrace": "White",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.92"
+    },
+    {
+        "patientid": "27102CD9-1C6A-47C6-A087-18C107A9533C",
+        "patientgender": "Male",
+        "patientdateofbirth": "1944-02-24 10:45:28.007",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.56"
+    },
+    {
+        "patientid": "2B41C5D9-5A1C-41A7-9764-5D04079AFC2F",
+        "patientgender": "Female",
+        "patientdateofbirth": "1951-10-07 12:29:44.130",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "17.02"
+    },
+    {
+        "patientid": "63EA6C60-93E2-4BDF-97CB-FE11577E46DE",
+        "patientgender": "Female",
+        "patientdateofbirth": "1931-01-17 06:03:45.423",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "12.07"
+    },
+    {
+        "patientid": "194C6767-794F-4B01-844E-40C07719CEF8",
+        "patientgender": "Male",
+        "patientdateofbirth": "1962-07-21 00:32:18.083",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.52"
+    },
+    {
+        "patientid": "8504A3FC-48F9-4B23-AC03-875F2E27EA5B",
+        "patientgender": "Female",
+        "patientdateofbirth": "1944-11-25 18:28:23.627",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.57"
+    },
+    {
+        "patientid": "1BDD1E4E-BB1B-44E8-B934-F975FED30A67",
+        "patientgender": "Female",
+        "patientdateofbirth": "1976-01-13 08:45:15.903",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "96.8"
+    },
+    {
+        "patientid": "6C1A8269-30CC-425D-8C30-F6C2C40C1A60",
+        "patientgender": "Female",
+        "patientdateofbirth": "1951-10-23 18:41:24.260",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "11.8"
+    },
+    {
+        "patientid": "1F62803D-62CB-471D-B884-F8EE9B9E5C2A",
+        "patientgender": "Female",
+        "patientdateofbirth": "1963-04-30 12:41:14.233",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Widowed",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "3.93"
+    },
+    {
+        "patientid": "B362AF98-B00E-48E2-81C3-52FE7C7415B7",
+        "patientgender": "Female",
+        "patientdateofbirth": "1983-11-07 03:45:06.350",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "91.09"
+    },
+    {
+        "patientid": "0C4C498E-C11E-4416-9A4F-F4E972394696",
+        "patientgender": "Male",
+        "patientdateofbirth": "1921-07-27 01:52:50.970",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "16.62"
+    },
+    {
+        "patientid": "515317AD-9FD9-4C57-9DAA-789E18F2FDE8",
+        "patientgender": "Male",
+        "patientdateofbirth": "1977-11-28 18:16:02.797",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.14"
+    },
+    {
+        "patientid": "B4DD7345-249C-4AED-97D3-156B99CCCE15",
+        "patientgender": "Female",
+        "patientdateofbirth": "1961-04-12 15:35:13.243",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.99"
+    },
+    {
+        "patientid": "177E9908-E629-42CC-8DF6-545DE229734B",
+        "patientgender": "Female",
+        "patientdateofbirth": "1970-05-16 10:10:13.650",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "7.34"
+    },
+    {
+        "patientid": "D71109FC-E66E-4EA9-A471-D2881D55636A",
+        "patientgender": "Female",
+        "patientdateofbirth": "1957-07-26 18:04:17.750",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.2"
+    },
+    {
+        "patientid": "60721381-67A8-41F5-ABDC-D6A386409D50",
+        "patientgender": "Male",
+        "patientdateofbirth": "1988-01-23 20:24:48.423",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "2.95"
+    },
+    {
+        "patientid": "9AA4BFE1-5BEF-4825-B000-49AE6D8396F3",
+        "patientgender": "Male",
+        "patientdateofbirth": "1988-11-21 23:19:39.280",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.86"
+    },
+    {
+        "patientid": "40D66DD7-20A3-47E8-9D32-F75540DEE086",
+        "patientgender": "Female",
+        "patientdateofbirth": "1948-02-20 23:37:01.563",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "16.38"
+    },
+    {
+        "patientid": "F4B0A719-6215-426B-A7A6-74E73772A412",
+        "patientgender": "Female",
+        "patientdateofbirth": "1923-02-24 14:18:41.763",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "19.7"
+    },
+    {
+        "patientid": "620A1185-8081-4389-9C49-AB075E1E860F",
+        "patientgender": "Female",
+        "patientdateofbirth": "1963-09-29 19:00:17.257",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.12"
+    },
+    {
+        "patientid": "F1777498-C7C0-44E1-A7DA-9F9E5EE67D7B",
+        "patientgender": "Male",
+        "patientdateofbirth": "1970-02-22 18:38:15.233",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.71"
+    },
+    {
+        "patientid": "89C853A6-A089-4740-8703-9C15A2289C13",
+        "patientgender": "Male",
+        "patientdateofbirth": "1958-07-07 15:53:29.443",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "16.58"
+    },
+    {
+        "patientid": "FB3FA0ED-0452-4435-882A-CFF1CE679517",
+        "patientgender": "Female",
+        "patientdateofbirth": "1976-07-26 05:27:42.233",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "8.02"
+    },
+    {
+        "patientid": "36DE691A-A198-4FBF-B670-D9A06A59BE6C",
+        "patientgender": "Male",
+        "patientdateofbirth": "1959-08-22 22:15:46.360",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "17.07"
+    },
+    {
+        "patientid": "40BCD206-1A7D-4A59-B479-9D9FAE290A90",
+        "patientgender": "Female",
+        "patientdateofbirth": "1931-11-08 11:23:52.817",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.45"
+    },
+    {
+        "patientid": "ED8C3502-D251-4090-B3B4-37CA8FC171DB",
+        "patientgender": "Male",
+        "patientdateofbirth": "1924-02-04 21:39:57.667",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "83.41"
+    },
+    {
+        "patientid": "E7B4FDBE-A38B-47D2-996F-96E8B099102A",
+        "patientgender": "Male",
+        "patientdateofbirth": "1920-05-30 17:15:17.613",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "11.55"
+    },
+    {
+        "patientid": "12BD6DCB-7B01-46AC-B744-85407F6C792C",
+        "patientgender": "Male",
+        "patientdateofbirth": "1965-01-19 20:57:57.607",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "19.6"
+    },
+    {
+        "patientid": "52531F48-2154-460B-8D6B-031E711CBA22",
+        "patientgender": "Female",
+        "patientdateofbirth": "1989-09-22 14:33:10.093",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.57"
+    },
+    {
+        "patientid": "2E7B9132-028C-43FC-8172-6930FB6125FB",
+        "patientgender": "Female",
+        "patientdateofbirth": "1972-05-31 10:33:07.130",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "85.79"
+    },
+    {
+        "patientid": "F3F10BA5-DC9F-404A-B089-819B0A0786F0",
+        "patientgender": "Female",
+        "patientdateofbirth": "1983-02-03 06:46:26.033",
+        "patientrace": "White",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "17.35"
+    },
+    {
+        "patientid": "5A439C06-3FAD-4E3C-8ADC-AF332FAE5067",
+        "patientgender": "Male",
+        "patientdateofbirth": "1931-09-08 03:40:36.633",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "17.91"
+    },
+    {
+        "patientid": "EBFC28C9-23C3-4AB1-8D27-C31E92F83484",
+        "patientgender": "Female",
+        "patientdateofbirth": "1963-09-09 03:50:55.223",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "99.8"
+    },
+    {
+        "patientid": "88A9E82E-48E4-4149-B7C1-220BCEB81B2B",
+        "patientgender": "Male",
+        "patientdateofbirth": "1970-02-27 21:35:06.713",
+        "patientrace": "White",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.51"
+    },
+    {
+        "patientid": "DF5B2844-355E-4E68-BDA7-D319D6500D0E",
+        "patientgender": "Male",
+        "patientdateofbirth": "1953-03-28 16:53:54.477",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.77"
+    },
+    {
+        "patientid": "791484CF-0844-4527-825F-68C7D02568AD",
+        "patientgender": "Male",
+        "patientdateofbirth": "1963-06-27 08:24:45.673",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.05"
+    },
+    {
+        "patientid": "502783A2-BFD3-4970-ABC1-445618CE5478",
+        "patientgender": "Male",
+        "patientdateofbirth": "1979-07-14 00:46:04.577",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "10.33"
+    },
+    {
+        "patientid": "CB31ECDE-CA21-4406-8061-B6DB91352408",
+        "patientgender": "Female",
+        "patientdateofbirth": "1921-11-22 11:06:14.283",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.56"
+    },
+    {
+        "patientid": "E62E2AAA-9B45-4129-B127-79E481161EAA",
+        "patientgender": "Female",
+        "patientdateofbirth": "1968-12-10 18:00:57.740",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.27"
+    },
+    {
+        "patientid": "F6367FD2-F1EA-48A3-BBA9-53DFF8C86A8B",
+        "patientgender": "Female",
+        "patientdateofbirth": "1967-05-14 18:33:26.380",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "80.67"
+    },
+    {
+        "patientid": "9E3E18F9-2FBF-445A-9603-45092664FC20",
+        "patientgender": "Female",
+        "patientdateofbirth": "1953-02-16 21:03:48.100",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.77"
+    },
+    {
+        "patientid": "685C27B2-151A-4004-A9EE-3E34E00CF80D",
+        "patientgender": "Male",
+        "patientdateofbirth": "1943-05-18 05:32:06.110",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.2"
+    },
+    {
+        "patientid": "B94F3A7E-7CFA-4040-A74C-AD9DF2A22075",
+        "patientgender": "Female",
+        "patientdateofbirth": "1977-05-03 13:56:12.423",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.55"
+    },
+    {
+        "patientid": "BE8D19C8-A787-435D-A2E0-F49F5D3F8628",
+        "patientgender": "Female",
+        "patientdateofbirth": "1978-08-20 22:22:19.073",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "12.87"
+    },
+    {
+        "patientid": "01D7C8EA-087B-454F-9210-D71EAE7EB641",
+        "patientgender": "Female",
+        "patientdateofbirth": "1977-11-11 10:57:41.500",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.56"
+    },
+    {
+        "patientid": "D562395F-9BBF-4EEE-880B-9F23158F6398",
+        "patientgender": "Male",
+        "patientdateofbirth": "1959-11-16 22:22:53.940",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "16.36"
+    },
+    {
+        "patientid": "BFA29F28-9D11-49A7-8A3F-7B14C7D2DF7B",
+        "patientgender": "Male",
+        "patientdateofbirth": "1966-01-22 09:21:22.887",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "17.37"
+    },
+    {
+        "patientid": "8B6B489C-040E-4668-A3E1-98773A8A4A9C",
+        "patientgender": "Female",
+        "patientdateofbirth": "1969-07-09 14:42:20.773",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.45"
+    },
+    {
+        "patientid": "A3323D31-C059-4E07-A76C-81B562407292",
+        "patientgender": "Male",
+        "patientdateofbirth": "1933-05-30 01:43:50.210",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.84"
+    },
+    {
+        "patientid": "1F839030-45F0-4E24-96BD-687EA242FF1D",
+        "patientgender": "Male",
+        "patientdateofbirth": "1942-10-18 10:52:59.097",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "16.68"
+    },
+    {
+        "patientid": "0FC534DC-3724-41F2-B89E-CA4031090C56",
+        "patientgender": "Male",
+        "patientdateofbirth": "1960-09-18 01:09:07.000",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.44"
+    },
+    {
+        "patientid": "596B98F5-887D-4DF1-BB98-73DBF4F52142",
+        "patientgender": "Male",
+        "patientdateofbirth": "1938-06-04 16:36:10.417",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.11"
+    },
+    {
+        "patientid": "6213B759-BEF5-4EB8-9C4E-1485556F18C3",
+        "patientgender": "Female",
+        "patientdateofbirth": "1932-11-26 11:12:42.830",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "13.14"
+    },
+    {
+        "patientid": "581D3D40-949C-48FA-8399-B3D510B69CF7",
+        "patientgender": "Female",
+        "patientdateofbirth": "1955-08-05 08:48:50.520",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.39"
+    },
+    {
+        "patientid": "4A1D79F5-FC5D-4827-B8F8-AB9442BD7FA5",
+        "patientgender": "Female",
+        "patientdateofbirth": "1983-02-13 06:14:17.027",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.1"
+    },
+    {
+        "patientid": "DB9F4CFF-5576-44BD-BD3C-79DD5528C7A6",
+        "patientgender": "Female",
+        "patientdateofbirth": "1955-06-22 21:03:51.830",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "16.67"
+    },
+    {
+        "patientid": "C117E275-21F5-49AB-822B-6E4047FB034C",
+        "patientgender": "Male",
+        "patientdateofbirth": "1966-06-09 15:20:43.390",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "15.12"
+    },
+    {
+        "patientid": "F35FC0A6-0CBC-4FCB-BA71-3FF530FF8FEB",
+        "patientgender": "Male",
+        "patientdateofbirth": "1947-05-13 12:05:44.810",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "82.58"
+    },
+    {
+        "patientid": "4B1EFA6A-6623-4120-B340-625FF3F5A8EE",
+        "patientgender": "Male",
+        "patientdateofbirth": "1977-07-25 16:52:07.310",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "12.06"
+    },
+    {
+        "patientid": "E26FE41E-3B05-4491-A52B-F9716D6FA425",
+        "patientgender": "Female",
+        "patientdateofbirth": "1969-10-27 10:33:52.043",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "16.82"
+    },
+    {
+        "patientid": "173662EC-3F59-46E2-A436-25761E35DC10",
+        "patientgender": "Female",
+        "patientdateofbirth": "1965-12-12 22:35:32.960",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.88"
+    },
+    {
+        "patientid": "F88C8B5D-D5D5-4573-9B43-483BF7FD7740",
+        "patientgender": "Female",
+        "patientdateofbirth": "1925-04-13 22:47:54.373",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.01"
+    },
+    {
+        "patientid": "1FE3221C-C75E-4823-BE0A-DF79EEB97BFE",
+        "patientgender": "Male",
+        "patientdateofbirth": "1920-12-08 13:46:26.830",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "12.76"
+    },
+    {
+        "patientid": "B10C3FA0-C040-462E-B812-9AB3F3BF106E",
+        "patientgender": "Female",
+        "patientdateofbirth": "1934-08-03 08:01:16.050",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.32"
+    },
+    {
+        "patientid": "FAC62A9F-8C2D-44E7-9B8C-889E218F6343",
+        "patientgender": "Female",
+        "patientdateofbirth": "1941-10-11 07:43:26.677",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "16.63"
+    },
+    {
+        "patientid": "07894A12-218E-4A41-95FD-F1AE5C21DD30",
+        "patientgender": "Female",
+        "patientdateofbirth": "1934-03-02 23:13:14.823",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.21"
+    },
+    {
+        "patientid": "90C99B09-CB14-4C37-AD1E-EB9E8523E73C",
+        "patientgender": "Female",
+        "patientdateofbirth": "1924-06-06 19:05:56.963",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "12.18"
+    },
+    {
+        "patientid": "86CD88F0-88A6-43E1-9D2F-5DBDD1C7F773",
+        "patientgender": "Male",
+        "patientdateofbirth": "1962-07-29 04:50:24.480",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "18.68"
+    },
+    {
+        "patientid": "0A7102AA-FF06-4A64-8245-7448B0DF2115",
+        "patientgender": "Male",
+        "patientdateofbirth": "1976-02-04 21:37:09.497",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "3.94"
+    },
+    {
+        "patientid": "0E6AB59E-DB6F-44F8-91B0-7425D27DB985",
+        "patientgender": "Female",
+        "patientdateofbirth": "1965-03-08 07:38:17.063",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.9"
+    },
+    {
+        "patientid": "AA40ABC2-683D-47E9-BBC2-8BEB7CF5CAC3",
+        "patientgender": "Female",
+        "patientdateofbirth": "1958-07-02 22:45:35.703",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.18"
+    },
+    {
+        "patientid": "60A2EC32-C7E2-407F-BED4-758A20C71EC6",
+        "patientgender": "Female",
+        "patientdateofbirth": "1939-10-13 19:56:08.660",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.21"
+    },
+    {
+        "patientid": "EF4C1DB5-1A31-458C-B6EA-32EE995EDC1E",
+        "patientgender": "Male",
+        "patientdateofbirth": "1961-06-19 12:34:29.190",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "3.32"
+    },
+    {
+        "patientid": "3760DE97-4BDD-452C-B353-93F48E06F750",
+        "patientgender": "Female",
+        "patientdateofbirth": "1966-08-07 23:05:11.010",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.08"
+    },
+    {
+        "patientid": "4D553B31-7AE4-47C8-8324-5C84EC0006A9",
+        "patientgender": "Female",
+        "patientdateofbirth": "1957-07-17 20:07:49.010",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "12.53"
+    },
+    {
+        "patientid": "D9A9951C-D6FB-4E15-8122-F2923ABE6C06",
+        "patientgender": "Female",
+        "patientdateofbirth": "1945-05-11 09:50:39.663",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "18.56"
+    },
+    {
+        "patientid": "4924E2F1-2D7A-468C-AD62-0162AF165145",
+        "patientgender": "Male",
+        "patientdateofbirth": "1970-03-31 05:58:43.193",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "95.18"
+    },
+    {
+        "patientid": "1173BEBC-81ED-41CD-B0CB-1875673E139B",
+        "patientgender": "Female",
+        "patientdateofbirth": "1936-05-22 05:36:24.273",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "13.29"
+    },
+    {
+        "patientid": "0DDE4EF4-FA00-4665-A18C-10FDA6E83B6D",
+        "patientgender": "Female",
+        "patientdateofbirth": "1977-05-03 01:22:35.017",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "12.31"
+    },
+    {
+        "patientid": "5FE24A05-22AB-48EB-A574-C328788AA757",
+        "patientgender": "Male",
+        "patientdateofbirth": "1953-04-03 14:47:06.387",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.21"
+    },
+    {
+        "patientid": "5B2DE72F-2D5D-416E-B4A3-B378E458E169",
+        "patientgender": "Female",
+        "patientdateofbirth": "1981-11-07 11:37:12.237",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "3.77"
+    },
+    {
+        "patientid": "990033AC-22E2-4DBE-94A3-4496C85B3A65",
+        "patientgender": "Male",
+        "patientdateofbirth": "1935-04-08 11:57:39.030",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.06"
+    },
+    {
+        "patientid": "6F6A9306-2D3C-434B-8C52-DC805BDA8984",
+        "patientgender": "Male",
+        "patientdateofbirth": "1968-12-14 18:30:12.433",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.24"
+    },
+    {
+        "patientid": "E3564E9E-0D14-4252-904F-5AA68225577E",
+        "patientgender": "Male",
+        "patientdateofbirth": "1977-03-16 17:30:47.707",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.49"
+    },
+    {
+        "patientid": "7A98E608-CDF8-4ACE-A48F-46C5E6D75395",
+        "patientgender": "Female",
+        "patientdateofbirth": "1973-05-21 18:54:15.610",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.88"
+    },
+    {
+        "patientid": "2E374F50-9F1E-4969-A2F3-DE8C0DE15297",
+        "patientgender": "Female",
+        "patientdateofbirth": "1982-09-13 08:26:43.370",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.45"
+    },
+    {
+        "patientid": "CB81774E-8621-4A69-A30C-776EA1298569",
+        "patientgender": "Female",
+        "patientdateofbirth": "1971-03-20 12:17:58.523",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "0.17"
+    },
+    {
+        "patientid": "35CEB7EA-9FB8-402B-9399-52A4666CEE52",
+        "patientgender": "Female",
+        "patientdateofbirth": "1928-09-11 07:35:52.693",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.03"
+    },
+    {
+        "patientid": "1ECAAA98-8A57-42AF-A3EA-A3380234F98E",
+        "patientgender": "Male",
+        "patientdateofbirth": "1970-06-28 05:11:10.023",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "0.53"
+    },
+    {
+        "patientid": "64221E34-ABE4-4F64-AD77-C6A86561A485",
+        "patientgender": "Female",
+        "patientdateofbirth": "1959-06-27 03:58:23.410",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "15.69"
+    },
+    {
+        "patientid": "CDFB2E68-89ED-4F22-BACE-B90415DCE74B",
+        "patientgender": "Female",
+        "patientdateofbirth": "1931-07-30 07:01:44.703",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "12.95"
+    },
+    {
+        "patientid": "C77BBF7B-3962-4ECB-90FD-087E0F8A749E",
+        "patientgender": "Female",
+        "patientdateofbirth": "1979-06-07 07:02:19.503",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.17"
+    },
+    {
+        "patientid": "C1EC4D28-C1E7-4E77-ADC8-826528ADE95F",
+        "patientgender": "Female",
+        "patientdateofbirth": "1922-05-26 17:37:48.977",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "14.59"
+    },
+    {
+        "patientid": "D86EA83A-2249-4817-B477-A206927F2168",
+        "patientgender": "Male",
+        "patientdateofbirth": "1973-03-24 05:39:49.093",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.27"
+    },
+    {
+        "patientid": "C109C414-27A0-428F-AE95-C3EE92A7F4A8",
+        "patientgender": "Male",
+        "patientdateofbirth": "1981-01-10 22:35:10.417",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "8.22"
+    },
+    {
+        "patientid": "FDD6499B-D138-41ED-A0C3-C73546F56B2E",
+        "patientgender": "Female",
+        "patientdateofbirth": "1978-03-18 21:31:54.757",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "16.43"
+    },
+    {
+        "patientid": "69A0281A-E51D-4D74-93AF-BD3F117B1F38",
+        "patientgender": "Female",
+        "patientdateofbirth": "1948-11-28 09:05:31.807",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "82.48"
+    },
+    {
+        "patientid": "7A839991-0761-4669-890E-B2E1FD18450B",
+        "patientgender": "Female",
+        "patientdateofbirth": "1964-05-22 11:12:54.767",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.75"
+    },
+    {
+        "patientid": "C15F6F79-E908-43EF-A1D0-42D067307608",
+        "patientgender": "Male",
+        "patientdateofbirth": "1960-09-02 11:12:26.420",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "3.77"
+    },
+    {
+        "patientid": "A73B563B-301C-4845-AEB5-46929172067C",
+        "patientgender": "Male",
+        "patientdateofbirth": "1983-10-28 17:28:58.943",
+        "patientrace": "White",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "80.93"
+    },
+    {
+        "patientid": "E9E9A530-5912-491D-9ADE-A66FEC1A9131",
+        "patientgender": "Male",
+        "patientdateofbirth": "1956-01-22 18:48:15.517",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "17.66"
+    },
+    {
+        "patientid": "A333E808-E593-419F-ACF4-468E77FC521A",
+        "patientgender": "Male",
+        "patientdateofbirth": "1979-01-30 17:24:18.753",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.79"
+    },
+    {
+        "patientid": "0F5CF7FD-E808-4160-A797-FCB01340C332",
+        "patientgender": "Female",
+        "patientdateofbirth": "1930-08-27 17:47:41.017",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "10.58"
+    },
+    {
+        "patientid": "35E2AEBC-AD1A-4D9C-A917-E620C43FAC2E",
+        "patientgender": "Female",
+        "patientdateofbirth": "1970-06-30 10:23:45.383",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "15.36"
+    },
+    {
+        "patientid": "C3E5709F-D935-45D6-A59C-D64013E42C3F",
+        "patientgender": "Male",
+        "patientdateofbirth": "1933-09-20 15:33:38.827",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "19.56"
+    },
+    {
+        "patientid": "8F4555DD-EECE-498F-B6C9-4011C0790D50",
+        "patientgender": "Male",
+        "patientdateofbirth": "1954-04-28 02:57:21.153",
+        "patientrace": "White",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "12.07"
+    },
+    {
+        "patientid": "3C073FC8-2F2C-428B-8C09-987D8E59A68A",
+        "patientgender": "Female",
+        "patientdateofbirth": "1953-10-19 16:08:23.813",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.94"
+    },
+    {
+        "patientid": "EBD44ED6-9491-484D-A6AF-4561B09B618B",
+        "patientgender": "Male",
+        "patientdateofbirth": "1968-04-16 00:07:12.880",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "84.66"
+    },
+    {
+        "patientid": "A71D21FD-69BE-4D58-A3C7-487EE350BF12",
+        "patientgender": "Female",
+        "patientdateofbirth": "1968-04-07 06:30:21.087",
+        "patientrace": "White",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.7"
+    },
+    {
+        "patientid": "E0D316F3-A500-4DA8-B19F-63B2CA2F44A3",
+        "patientgender": "Female",
+        "patientdateofbirth": "1924-11-05 20:20:06.723",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "0.2"
+    },
+    {
+        "patientid": "1C4D0EC1-A2EB-483A-A3BC-38D3D4E189C8",
+        "patientgender": "Female",
+        "patientdateofbirth": "1947-01-18 17:47:19.863",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "91.91"
+    },
+    {
+        "patientid": "40879B05-ADC7-4D81-938F-5FF75CA1034C",
+        "patientgender": "Female",
+        "patientdateofbirth": "1930-10-23 04:23:51.937",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "88.46"
+    },
+    {
+        "patientid": "D57B8D63-A0FD-475F-94D0-2069C2D55CD1",
+        "patientgender": "Female",
+        "patientdateofbirth": "1981-06-02 16:12:01.090",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.16"
+    },
+    {
+        "patientid": "AAD1A2A9-5ACB-474E-B2CF-B2A10EA10D8F",
+        "patientgender": "Female",
+        "patientdateofbirth": "1967-08-03 22:30:28.993",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "8.46"
+    },
+    {
+        "patientid": "A9BC9A3E-0847-489F-8503-D2806F4AD2D1",
+        "patientgender": "Female",
+        "patientdateofbirth": "1963-03-14 03:36:21.230",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "18.41"
+    },
+    {
+        "patientid": "739C9A74-9902-4546-A922-8149049E8A2A",
+        "patientgender": "Female",
+        "patientdateofbirth": "1947-04-07 17:22:36.497",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "8.85"
+    },
+    {
+        "patientid": "433D33A1-E2AD-489D-BD90-931B7C5827AA",
+        "patientgender": "Male",
+        "patientdateofbirth": "1974-05-12 21:28:34.120",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.42"
+    },
+    {
+        "patientid": "794376FF-F481-497E-96A0-84D92518C754",
+        "patientgender": "Male",
+        "patientdateofbirth": "1954-04-29 10:44:01.360",
+        "patientrace": "White",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.87"
+    },
+    {
+        "patientid": "C456F63C-AB88-4AF6-AFE3-62DF9B0679AB",
+        "patientgender": "Male",
+        "patientdateofbirth": "1959-11-12 12:11:12.517",
+        "patientrace": "White",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "12.75"
+    },
+    {
+        "patientid": "1E6C4C4F-306F-44F2-9AC0-F5FFD1C4D8A0",
+        "patientgender": "Male",
+        "patientdateofbirth": "1972-10-03 22:16:08.417",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.92"
+    },
+    {
+        "patientid": "39435322-C996-4E56-9B1E-70BAF408230F",
+        "patientgender": "Female",
+        "patientdateofbirth": "1922-01-25 14:01:01.257",
+        "patientrace": "White",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "6.7"
+    },
+    {
+        "patientid": "CE63F6C7-17F1-46DE-9C19-97FFBC738B92",
+        "patientgender": "Male",
+        "patientdateofbirth": "1942-10-11 15:46:34.313",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "8.33"
+    },
+    {
+        "patientid": "DAB66A8B-42ED-4BF2-8E08-48C4F31B5ED4",
+        "patientgender": "Female",
+        "patientdateofbirth": "1949-03-10 02:52:15.317",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.46"
+    },
+    {
+        "patientid": "B7BBF68F-8D05-4D49-9E62-73E2770BEB73",
+        "patientgender": "Male",
+        "patientdateofbirth": "1964-03-24 21:37:48.227",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.82"
+    },
+    {
+        "patientid": "F2BD82BB-C574-44A6-982A-4B60B936B2AB",
+        "patientgender": "Female",
+        "patientdateofbirth": "1970-05-21 13:22:39.317",
+        "patientrace": "White",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "83.13"
+    },
+    {
+        "patientid": "D231D532-9114-47E6-9A91-0C8FE25B1502",
+        "patientgender": "Male",
+        "patientdateofbirth": "1966-04-12 00:46:33.953",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "14.19"
+    },
+    {
+        "patientid": "FB08F512-4BB6-4E9E-AC2C-651CFEEA737B",
+        "patientgender": "Female",
+        "patientdateofbirth": "1948-01-05 13:09:15.997",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "14.19"
+    },
+    {
+        "patientid": "BCCC57BA-9119-4BA5-AB28-540FF80B0DE6",
+        "patientgender": "Female",
+        "patientdateofbirth": "1965-08-22 08:35:54.533",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "12.07"
+    },
+    {
+        "patientid": "445AFD32-BEB7-419F-9A99-A8D0EC2EE6EF",
+        "patientgender": "Female",
+        "patientdateofbirth": "1929-10-11 09:30:55.323",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "82.66"
+    },
+    {
+        "patientid": "6C2F231D-EA3E-478F-8019-208441E24800",
+        "patientgender": "Female",
+        "patientdateofbirth": "1945-06-10 17:14:57.067",
+        "patientrace": "White",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.13"
+    },
+    {
+        "patientid": "2AC52AEE-C9B8-4775-AB73-4697A0A20572",
+        "patientgender": "Male",
+        "patientdateofbirth": "1952-06-18 03:38:58.153",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "11.42"
+    },
+    {
+        "patientid": "E9D8FCD1-0424-4013-9A29-69CD3AE17412",
+        "patientgender": "Male",
+        "patientdateofbirth": "1969-11-08 14:07:51.477",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.08"
+    },
+    {
+        "patientid": "9E33DABB-B0A9-4E15-9735-44B2CBF83C07",
+        "patientgender": "Female",
+        "patientdateofbirth": "1979-05-27 15:33:48.220",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.13"
+    },
+    {
+        "patientid": "60A8F812-07B2-45F4-B57C-C054DCF3FE26",
+        "patientgender": "Male",
+        "patientdateofbirth": "1960-07-29 07:04:25.637",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "19.99"
+    },
+    {
+        "patientid": "90B21A93-4CDC-4142-AA1B-470A95A9A6AE",
+        "patientgender": "Female",
+        "patientdateofbirth": "1969-05-03 06:44:25.840",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "12.85"
+    },
+    {
+        "patientid": "7E95F49D-0577-4D8E-9616-C53A4849420B",
+        "patientgender": "Male",
+        "patientdateofbirth": "1951-02-15 04:05:17.497",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.73"
+    },
+    {
+        "patientid": "23D48839-3F65-47A3-AF6D-2B51A17873C7",
+        "patientgender": "Female",
+        "patientdateofbirth": "1967-06-15 23:58:02.600",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.25"
+    },
+    {
+        "patientid": "0DA12913-F8DB-4274-8D27-DE9F212FFAA3",
+        "patientgender": "Female",
+        "patientdateofbirth": "1972-01-17 18:34:53.577",
+        "patientrace": "White",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.93"
+    },
+    {
+        "patientid": "208BFC46-A0C2-44C6-BA61-CE86A7CCE216",
+        "patientgender": "Female",
+        "patientdateofbirth": "1952-11-15 14:18:57.587",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "0.56"
+    },
+    {
+        "patientid": "309502F3-74B4-4A07-9DFC-20C566133FF6",
+        "patientgender": "Male",
+        "patientdateofbirth": "1985-08-28 22:16:29.003",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "12.38"
+    },
+    {
+        "patientid": "6C47DA60-CBEC-4FDB-B477-B50E865A3D8D",
+        "patientgender": "Male",
+        "patientdateofbirth": "1959-06-18 16:44:15.513",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.68"
+    },
+    {
+        "patientid": "4C4D7E45-3136-45DF-8AAD-8EE444B010D5",
+        "patientgender": "Male",
+        "patientdateofbirth": "1964-02-02 07:43:14.067",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.14"
+    },
+    {
+        "patientid": "20E18161-66F9-4389-AA7F-667867D73F2F",
+        "patientgender": "Female",
+        "patientdateofbirth": "1947-07-20 16:40:11.467",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "89.87"
+    },
+    {
+        "patientid": "5C24EA51-C326-4A4F-9B49-677D4B2BAE05",
+        "patientgender": "Male",
+        "patientdateofbirth": "1956-06-03 08:17:51.650",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "1.73"
+    },
+    {
+        "patientid": "31DA6CCC-7D79-4635-A15F-C45AE9F0DAC8",
+        "patientgender": "Female",
+        "patientdateofbirth": "1965-10-10 09:12:10.783",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.49"
+    },
+    {
+        "patientid": "1B46B73E-7674-479A-941A-CC7A7CBEDB86",
+        "patientgender": "Male",
+        "patientdateofbirth": "1927-01-27 01:11:16.850",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.3"
+    },
+    {
+        "patientid": "A2C9A944-D91D-41F7-A484-43C6A83AEC17",
+        "patientgender": "Female",
+        "patientdateofbirth": "1965-12-29 15:15:58.080",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "12.17"
+    },
+    {
+        "patientid": "D5AC4C41-555E-4E8D-8AFF-918C5FF9EDE8",
+        "patientgender": "Female",
+        "patientdateofbirth": "1937-09-17 12:42:22.847",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.94"
+    },
+    {
+        "patientid": "BE90691E-0E8B-4AB6-857C-2AE110362725",
+        "patientgender": "Male",
+        "patientdateofbirth": "1944-09-15 22:53:30.637",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.31"
+    },
+    {
+        "patientid": "A96BA18E-804B-4386-808F-A54D1C95CD39",
+        "patientgender": "Female",
+        "patientdateofbirth": "1960-08-19 16:19:12.863",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.96"
+    },
+    {
+        "patientid": "E2CE05E2-5289-4539-AB7C-6A6F2E314AC4",
+        "patientgender": "Male",
+        "patientdateofbirth": "1962-07-17 03:08:06.217",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "91.71"
+    },
+    {
+        "patientid": "AD6CFB12-8D70-4984-AE4E-1497A9577C55",
+        "patientgender": "Male",
+        "patientdateofbirth": "1960-01-19 12:09:39.313",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "4.51"
+    },
+    {
+        "patientid": "BA06348B-9C87-4661-AF6E-7CC37BFD1168",
+        "patientgender": "Male",
+        "patientdateofbirth": "1984-12-12 15:45:36.837",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "18.47"
+    },
+    {
+        "patientid": "DFB1C36A-69A2-4067-A410-FCDCCD0D2021",
+        "patientgender": "Male",
+        "patientdateofbirth": "1959-06-06 11:11:08.833",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.03"
+    },
+    {
+        "patientid": "7F2287A8-1C24-4DE8-8EF7-C36C4E0EE02C",
+        "patientgender": "Male",
+        "patientdateofbirth": "1939-03-27 23:38:21.693",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.33"
+    },
+    {
+        "patientid": "060322A7-6C77-4203-891C-EFD34D693B28",
+        "patientgender": "Male",
+        "patientdateofbirth": "1971-05-14 00:19:54.090",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "10.34"
+    },
+    {
+        "patientid": "8164672D-FA7A-45D9-9A8D-82D5D9A51B01",
+        "patientgender": "Male",
+        "patientdateofbirth": "1961-12-04 14:01:52.143",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.33"
+    },
+    {
+        "patientid": "3CC031BE-4C63-42F5-9615-E8B6A7C3C6FA",
+        "patientgender": "Female",
+        "patientdateofbirth": "1943-09-25 11:23:35.133",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "11.48"
+    },
+    {
+        "patientid": "F93980ED-4102-479F-B4FC-C4565CC7761C",
+        "patientgender": "Female",
+        "patientdateofbirth": "1925-05-21 15:11:03.107",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "19.24"
+    },
+    {
+        "patientid": "0FA3BB17-DCEA-41D4-8974-00A1BA05B42F",
+        "patientgender": "Male",
+        "patientdateofbirth": "1969-04-01 09:04:13.093",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Widowed",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.95"
+    },
+    {
+        "patientid": "9CDFC148-B102-4AE9-B151-1422072976E8",
+        "patientgender": "Female",
+        "patientdateofbirth": "1973-01-29 05:51:52.540",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "12.58"
+    },
+    {
+        "patientid": "68B8371D-F1D4-4C44-9300-498A3AF854A9",
+        "patientgender": "Female",
+        "patientdateofbirth": "1965-05-13 14:39:25.560",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "11.31"
+    },
+    {
+        "patientid": "73BDB9FA-3C3E-410B-8B68-43C194BE926C",
+        "patientgender": "Male",
+        "patientdateofbirth": "1955-02-12 09:07:55.977",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.9"
+    },
+    {
+        "patientid": "DECE9D36-8054-4F30-8DCD-7844B0BFD8C5",
+        "patientgender": "Male",
+        "patientdateofbirth": "1966-05-23 08:35:54.207",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.92"
+    },
+    {
+        "patientid": "5F9DC16A-A34B-4D38-9141-9A4D2BF248C5",
+        "patientgender": "Male",
+        "patientdateofbirth": "1953-06-02 20:53:31.357",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "81.12"
+    },
+    {
+        "patientid": "963A316B-DE2F-4267-8692-C11C72CECE48",
+        "patientgender": "Male",
+        "patientdateofbirth": "1968-08-01 05:55:07.263",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.34"
+    },
+    {
+        "patientid": "DD761C31-7441-4D57-9B01-F7EA23D55B37",
+        "patientgender": "Female",
+        "patientdateofbirth": "1976-09-17 19:12:55.733",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "16.47"
+    },
+    {
+        "patientid": "4960EF06-48BA-4654-8B8F-B4A86756E80C",
+        "patientgender": "Male",
+        "patientdateofbirth": "1966-03-04 12:21:33.140",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.75"
+    },
+    {
+        "patientid": "AEB90D3E-081A-418C-9DA8-F8DE55F723E1",
+        "patientgender": "Male",
+        "patientdateofbirth": "1967-10-13 00:04:11.493",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.53"
+    },
+    {
+        "patientid": "14D4896D-0D45-44D9-9632-CF43BBD99117",
+        "patientgender": "Female",
+        "patientdateofbirth": "1946-02-05 03:27:30.767",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "7.95"
+    },
+    {
+        "patientid": "8E8E50E0-4819-4982-BEA3-D5EFE98984C3",
+        "patientgender": "Female",
+        "patientdateofbirth": "1982-05-17 18:31:55.363",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "16.17"
+    },
+    {
+        "patientid": "FE3C45FC-3B0D-48C6-9E8C-9C995247679D",
+        "patientgender": "Female",
+        "patientdateofbirth": "1963-03-12 13:14:23.893",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "94.4"
+    },
+    {
+        "patientid": "08AB9A29-3D8E-4B52-A65C-ECC76C71E49B",
+        "patientgender": "Male",
+        "patientdateofbirth": "1962-04-02 14:47:46.533",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.74"
+    },
+    {
+        "patientid": "0662485C-4EBF-452E-B35D-FBF17EB476C1",
+        "patientgender": "Male",
+        "patientdateofbirth": "1941-05-14 22:05:46.673",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.16"
+    },
+    {
+        "patientid": "D02FA5A4-9490-4272-8E86-C5F34A3A498C",
+        "patientgender": "Female",
+        "patientdateofbirth": "1962-12-22 04:38:18.787",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "96.16"
+    },
+    {
+        "patientid": "02EC9329-43C2-449E-9F8B-39AAFC0218F0",
+        "patientgender": "Female",
+        "patientdateofbirth": "1972-03-06 10:53:46.050",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "16.71"
+    },
+    {
+        "patientid": "93CA32B5-52AD-46DB-A9B2-0E0CD2927515",
+        "patientgender": "Female",
+        "patientdateofbirth": "1964-08-17 05:29:00.257",
+        "patientrace": "White",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.96"
+    },
+    {
+        "patientid": "AD462B7E-A1A2-4E82-9BAC-C7B7A45B690E",
+        "patientgender": "Female",
+        "patientdateofbirth": "1963-08-16 16:08:24.433",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "8"
+    },
+    {
+        "patientid": "299B329B-4380-4EDF-8327-6B7E4D347EED",
+        "patientgender": "Female",
+        "patientdateofbirth": "1937-10-10 15:33:02.943",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "88.92"
+    },
+    {
+        "patientid": "3E668913-44AF-4383-B03F-09A05AC0C837",
+        "patientgender": "Female",
+        "patientdateofbirth": "1942-04-22 22:46:15.960",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "89.57"
+    },
+    {
+        "patientid": "7D28AAFC-45F0-444F-B7F7-49C298DDD48C",
+        "patientgender": "Male",
+        "patientdateofbirth": "1958-08-09 12:04:49.913",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "19.27"
+    },
+    {
+        "patientid": "E6067469-7CFE-4F11-8539-232E929594D6",
+        "patientgender": "Female",
+        "patientdateofbirth": "1943-09-16 03:19:08.923",
+        "patientrace": "White",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.92"
+    },
+    {
+        "patientid": "B0CFBAFB-DA69-42AD-8F17-3C1D324A7CFF",
+        "patientgender": "Female",
+        "patientdateofbirth": "1943-11-18 21:38:33.503",
+        "patientrace": "White",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "Unknown",
+        "patientpopulationpercentagebelowpoverty": "14.29"
+    },
+    {
+        "patientid": "778E15AA-162F-449C-B36F-C1226B191416",
+        "patientgender": "Female",
+        "patientdateofbirth": "1987-04-30 21:53:24.713",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "13.7"
+    },
+    {
+        "patientid": "7B0709B7-A30F-4E4C-AB82-D8482353FCA7",
+        "patientgender": "Male",
+        "patientdateofbirth": "1976-10-25 06:30:17.457",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "19.6"
+    },
+    {
+        "patientid": "44E85FCF-477E-4ED0-9928-5B926A0BD460",
+        "patientgender": "Male",
+        "patientdateofbirth": "1939-04-04 02:56:03.857",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "12.38"
+    },
+    {
+        "patientid": "1F6E66BA-F67E-49CA-997D-FC17B3E5E15C",
+        "patientgender": "Female",
+        "patientdateofbirth": "1955-02-06 03:13:33.363",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "14.12"
+    },
+    {
+        "patientid": "63AAFD11-BA8F-4D82-8373-B1D71B7F0B7C",
+        "patientgender": "Male",
+        "patientdateofbirth": "1968-01-11 09:13:22.917",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.26"
+    },
+    {
+        "patientid": "9A5DA354-BB54-4F78-8708-F02BED381124",
+        "patientgender": "Male",
+        "patientdateofbirth": "1961-09-16 10:43:08.020",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.43"
+    },
+    {
+        "patientid": "A98E3B4B-6CDE-43D8-BCF1-94DCA5D45701",
+        "patientgender": "Male",
+        "patientdateofbirth": "1925-12-30 10:44:43.247",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "14.69"
+    },
+    {
+        "patientid": "9A3E4516-8BCE-46DE-938E-076F8541FE77",
+        "patientgender": "Female",
+        "patientdateofbirth": "1943-10-24 18:51:47.910",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "15.13"
+    },
+    {
+        "patientid": "BD5381B8-56ED-40F2-87B2-71D03FC1B0FE",
+        "patientgender": "Female",
+        "patientdateofbirth": "1949-04-08 00:02:10.543",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "12.52"
+    },
+    {
+        "patientid": "051ABBCD-2CDA-4E6D-B95E-D43B454341F7",
+        "patientgender": "Female",
+        "patientdateofbirth": "1966-02-01 19:21:41.077",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.67"
+    },
+    {
+        "patientid": "0B55C12E-3D71-4EAD-8652-4389194593C4",
+        "patientgender": "Male",
+        "patientdateofbirth": "1956-02-07 09:57:32.303",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "13.73"
+    },
+    {
+        "patientid": "43BB6E83-15CF-4E08-A4FE-B58376E2F2D5",
+        "patientgender": "Female",
+        "patientdateofbirth": "1933-10-31 01:57:18.723",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.71"
+    },
+    {
+        "patientid": "B04F13E5-7DCD-436A-A434-73BBACBDA482",
+        "patientgender": "Female",
+        "patientdateofbirth": "1930-01-01 09:58:04.763",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "11.76"
+    },
+    {
+        "patientid": "BC5A6363-B892-4C44-BD80-F076C00F9192",
+        "patientgender": "Female",
+        "patientdateofbirth": "1929-12-22 14:07:37.193",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Icelandic",
+        "patientpopulationpercentagebelowpoverty": "16.7"
+    },
+    {
+        "patientid": "6ADDA55F-4FCC-4BA1-8EFB-94CE2BE8882B",
+        "patientgender": "Male",
+        "patientdateofbirth": "1951-02-15 21:33:42.360",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.85"
+    },
+    {
+        "patientid": "C364E8C0-9A9E-48E1-87F7-D9872DD87B03",
+        "patientgender": "Female",
+        "patientdateofbirth": "1954-10-17 17:21:09.607",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "88.55"
+    },
+    {
+        "patientid": "AB6F3B01-2077-48D8-B281-616C05B9D1FA",
+        "patientgender": "Male",
+        "patientdateofbirth": "1934-04-20 05:27:48.297",
+        "patientrace": "White",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "6.91"
+    },
+    {
+        "patientid": "D0712D93-3DB2-4EF5-A829-099DA4EF9583",
+        "patientgender": "Male",
+        "patientdateofbirth": "1970-04-28 00:29:00.887",
+        "patientrace": "White",
+        "patientmaritalstatus": "Unknown",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "10.47"
+    },
+    {
+        "patientid": "16AFB7A5-2380-479B-BB23-842C19F5FDDA",
+        "patientgender": "Male",
+        "patientdateofbirth": "1925-12-07 10:28:43.317",
+        "patientrace": "Asian",
+        "patientmaritalstatus": "Divorced",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "16.02"
+    },
+    {
+        "patientid": "46CD8986-0EC2-4437-90C9-EF7C41916296",
+        "patientgender": "Female",
+        "patientdateofbirth": "1981-08-10 20:41:37.553",
+        "patientrace": "African American",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "88.52"
+    },
+    {
+        "patientid": "AF8CE02F-562A-4363-BF4F-789CFE56D435",
+        "patientgender": "Male",
+        "patientdateofbirth": "1930-08-24 01:42:27.183",
+        "patientrace": "White",
+        "patientmaritalstatus": "Separated",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "15.15"
+    },
+    {
+        "patientid": "C1766B7C-2D95-41BC-9466-000CB6A72E54",
+        "patientgender": "Female",
+        "patientdateofbirth": "1948-05-04 14:21:04.830",
+        "patientrace": "Unknown",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "18.17"
+    },
+    {
+        "patientid": "30D444C4-364D-4ACB-89FB-8493D7190945",
+        "patientgender": "Male",
+        "patientdateofbirth": "1942-12-24 15:09:38.813",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "18.52"
+    },
+    {
+        "patientid": "F9C95259-1304-4198-97D3-38C47B43DEB8",
+        "patientgender": "Male",
+        "patientdateofbirth": "1945-11-25 14:23:08.217",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "2.3"
+    },
+    {
+        "patientid": "EE565511-FD6B-4EFB-88FE-772095D6D31C",
+        "patientgender": "Male",
+        "patientdateofbirth": "1959-07-04 09:20:50.113",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "Spanish",
+        "patientpopulationpercentagebelowpoverty": "11.77"
+    },
+    {
+        "patientid": "E5CF3D64-71E5-4835-B7F7-D2A79642ED6A",
+        "patientgender": "Male",
+        "patientdateofbirth": "1920-09-03 14:33:35.217",
+        "patientrace": "White",
+        "patientmaritalstatus": "Married",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "17.73"
+    },
+    {
+        "patientid": "F1A6EA3C-8B87-480C-9D09-3178635945B0",
+        "patientgender": "Female",
+        "patientdateofbirth": "1986-12-24 19:46:07.343",
+        "patientrace": "White",
+        "patientmaritalstatus": "Single",
+        "patientlanguage": "English",
+        "patientpopulationpercentagebelowpoverty": "91.61"
+    }
+]

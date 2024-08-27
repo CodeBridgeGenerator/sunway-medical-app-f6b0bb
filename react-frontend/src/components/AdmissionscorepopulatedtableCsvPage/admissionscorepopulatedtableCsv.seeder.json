@@ -1,0 +1,2996 @@
+[
+    {
+        "patientid": "9380F9E3-1927-42F3-9731-03A74D4E4C6B",
+        "admissionid": "5",
+        "admissionstartdate": "2011-03-23 00:14:52.237",
+        "admissionenddate": "2011-03-28 01:57:56.467"
+    },
+    {
+        "patientid": "0A89658C-C739-45CA-9BF1-CBDDDFB922C0",
+        "admissionid": "1",
+        "admissionstartdate": "1974-02-10 00:04:28.357",
+        "admissionenddate": "1974-02-16 21:04:43.333"
+    },
+    {
+        "patientid": "0A89658C-C739-45CA-9BF1-CBDDDFB922C0",
+        "admissionid": "2",
+        "admissionstartdate": "1991-05-22 15:08:52.743",
+        "admissionenddate": "1991-05-29 12:30:08.737"
+    },
+    {
+        "patientid": "0A89658C-C739-45CA-9BF1-CBDDDFB922C0",
+        "admissionid": "3",
+        "admissionstartdate": "1995-02-26 08:01:26.477",
+        "admissionenddate": "1995-02-28 16:45:04.407"
+    },
+    {
+        "patientid": "0A89658C-C739-45CA-9BF1-CBDDDFB922C0",
+        "admissionid": "4",
+        "admissionstartdate": "2005-03-17 04:51:15.747",
+        "admissionenddate": "2005-04-04 04:04:14.160"
+    },
+    {
+        "patientid": "0A89658C-C739-45CA-9BF1-CBDDDFB922C0",
+        "admissionid": "5",
+        "admissionstartdate": "2008-04-12 23:17:33.217",
+        "admissionenddate": "2008-04-16 03:22:35.737"
+    },
+    {
+        "patientid": "EB1C36B1-0697-4145-95EE-0B0C44943339",
+        "admissionid": "1",
+        "admissionstartdate": "1995-12-04 16:01:07.700",
+        "admissionenddate": "1995-12-17 22:59:46.223"
+    },
+    {
+        "patientid": "EB1C36B1-0697-4145-95EE-0B0C44943339",
+        "admissionid": "2",
+        "admissionstartdate": "2001-08-02 05:05:13.547",
+        "admissionenddate": "2001-08-16 02:35:48.323"
+    },
+    {
+        "patientid": "EB1C36B1-0697-4145-95EE-0B0C44943339",
+        "admissionid": "3",
+        "admissionstartdate": "2009-11-15 09:31:16.750",
+        "admissionenddate": "2009-12-01 06:49:13.053"
+    },
+    {
+        "patientid": "F5F37898-D271-4D68-9C0E-18B1184411C6",
+        "admissionid": "1",
+        "admissionstartdate": "1989-03-15 16:32:19.170",
+        "admissionenddate": "1989-03-19 07:04:55.640"
+    },
+    {
+        "patientid": "F5F37898-D271-4D68-9C0E-18B1184411C6",
+        "admissionid": "2",
+        "admissionstartdate": "1995-05-21 22:41:23.023",
+        "admissionenddate": "1995-06-07 22:01:59.490"
+    },
+    {
+        "patientid": "F5F37898-D271-4D68-9C0E-18B1184411C6",
+        "admissionid": "3",
+        "admissionstartdate": "2009-07-14 01:08:07.993",
+        "admissionenddate": "2009-08-02 08:45:04.273"
+    },
+    {
+        "patientid": "C5C23AC4-4EB8-4018-A8A2-40DBC15EFD5E",
+        "admissionid": "1",
+        "admissionstartdate": "1978-07-03 11:00:55.443",
+        "admissionenddate": "1978-07-05 12:03:03.497"
+    },
+    {
+        "patientid": "C5C23AC4-4EB8-4018-A8A2-40DBC15EFD5E",
+        "admissionid": "2",
+        "admissionstartdate": "1990-05-12 09:53:59.113",
+        "admissionenddate": "1990-05-31 19:22:51.410"
+    },
+    {
+        "patientid": "C5C23AC4-4EB8-4018-A8A2-40DBC15EFD5E",
+        "admissionid": "3",
+        "admissionstartdate": "2001-08-17 03:50:08.517",
+        "admissionenddate": "2001-08-29 08:39:12.550"
+    },
+    {
+        "patientid": "C5C23AC4-4EB8-4018-A8A2-40DBC15EFD5E",
+        "admissionid": "4",
+        "admissionstartdate": "2007-04-29 03:30:48.637",
+        "admissionenddate": "2007-05-06 13:02:01.940"
+    },
+    {
+        "patientid": "C5C23AC4-4EB8-4018-A8A2-40DBC15EFD5E",
+        "admissionid": "5",
+        "admissionstartdate": "2011-05-15 15:29:35.910",
+        "admissionenddate": "2011-05-29 08:22:55.290"
+    },
+    {
+        "patientid": "7832533D-09BF-48C3-9B7A-7C2A7E57C298",
+        "admissionid": "1",
+        "admissionstartdate": "1987-03-13 16:36:59.710",
+        "admissionenddate": "1987-03-16 05:13:46.820"
+    },
+    {
+        "patientid": "7832533D-09BF-48C3-9B7A-7C2A7E57C298",
+        "admissionid": "2",
+        "admissionstartdate": "2006-10-18 12:18:14.547",
+        "admissionenddate": "2006-11-04 10:04:25.357"
+    },
+    {
+        "patientid": "7832533D-09BF-48C3-9B7A-7C2A7E57C298",
+        "admissionid": "3",
+        "admissionstartdate": "2012-06-14 02:55:44.067",
+        "admissionenddate": "2012-07-01 15:25:43.240"
+    },
+    {
+        "patientid": "76B3ACF5-A6E0-4310-8AC6-338F8095E392",
+        "admissionid": "1",
+        "admissionstartdate": "2000-11-29 20:45:32.817",
+        "admissionenddate": "2000-12-02 00:08:12.063"
+    },
+    {
+        "patientid": "76B3ACF5-A6E0-4310-8AC6-338F8095E392",
+        "admissionid": "2",
+        "admissionstartdate": "2004-05-25 07:08:56.623",
+        "admissionenddate": "2004-06-03 15:18:19.600"
+    },
+    {
+        "patientid": "76B3ACF5-A6E0-4310-8AC6-338F8095E392",
+        "admissionid": "3",
+        "admissionstartdate": "2006-03-27 23:13:09.903",
+        "admissionenddate": "2006-04-09 00:51:14.427"
+    },
+    {
+        "patientid": "76B3ACF5-A6E0-4310-8AC6-338F8095E392",
+        "admissionid": "4",
+        "admissionstartdate": "2010-01-05 10:46:53.080",
+        "admissionenddate": "2010-01-24 02:08:29.720"
+    },
+    {
+        "patientid": "3919169F-275E-4AAA-8917-A411C048DFA4",
+        "admissionid": "1",
+        "admissionstartdate": "1983-09-05 14:52:22.963",
+        "admissionenddate": "1983-09-22 10:32:52.977"
+    },
+    {
+        "patientid": "3919169F-275E-4AAA-8917-A411C048DFA4",
+        "admissionid": "2",
+        "admissionstartdate": "2008-03-09 23:36:09.000",
+        "admissionenddate": "2008-03-12 17:49:59.417"
+    },
+    {
+        "patientid": "1D18D433-7E1A-4751-9ADA-899579513F8B",
+        "admissionid": "1",
+        "admissionstartdate": "1971-04-28 23:13:58.500",
+        "admissionenddate": "1971-05-18 02:24:59.907"
+    },
+    {
+        "patientid": "1D18D433-7E1A-4751-9ADA-899579513F8B",
+        "admissionid": "2",
+        "admissionstartdate": "2004-11-24 05:55:34.120",
+        "admissionenddate": "2004-12-11 06:36:10.267"
+    },
+    {
+        "patientid": "1D18D433-7E1A-4751-9ADA-899579513F8B",
+        "admissionid": "3",
+        "admissionstartdate": "2007-12-03 00:54:39.540",
+        "admissionenddate": "2007-12-18 04:45:56.133"
+    },
+    {
+        "patientid": "1D18D433-7E1A-4751-9ADA-899579513F8B",
+        "admissionid": "4",
+        "admissionstartdate": "2008-12-12 22:20:18.357",
+        "admissionenddate": "2008-12-22 21:01:11.130"
+    },
+    {
+        "patientid": "072BB806-098E-4B48-A0EC-AF9D2F503D23",
+        "admissionid": "1",
+        "admissionstartdate": "1954-08-03 00:11:39.723",
+        "admissionenddate": "1954-08-08 17:27:25.540"
+    },
+    {
+        "patientid": "072BB806-098E-4B48-A0EC-AF9D2F503D23",
+        "admissionid": "2",
+        "admissionstartdate": "1985-03-20 13:39:41.200",
+        "admissionenddate": "1985-04-09 11:58:10.240"
+    },
+    {
+        "patientid": "072BB806-098E-4B48-A0EC-AF9D2F503D23",
+        "admissionid": "3",
+        "admissionstartdate": "1996-01-18 08:45:57.260",
+        "admissionenddate": "1996-01-21 23:29:49.733"
+    },
+    {
+        "patientid": "072BB806-098E-4B48-A0EC-AF9D2F503D23",
+        "admissionid": "4",
+        "admissionstartdate": "2002-01-25 23:02:47.743",
+        "admissionenddate": "2002-02-07 08:45:52.480"
+    },
+    {
+        "patientid": "072BB806-098E-4B48-A0EC-AF9D2F503D23",
+        "admissionid": "5",
+        "admissionstartdate": "2008-09-04 13:37:00.587",
+        "admissionenddate": "2008-09-11 23:21:11.760"
+    },
+    {
+        "patientid": "BBF4715C-A86D-44FB-AC36-2F04380332DE",
+        "admissionid": "1",
+        "admissionstartdate": "1993-07-17 03:38:16.823",
+        "admissionenddate": "1993-08-04 06:57:10.870"
+    },
+    {
+        "patientid": "BBF4715C-A86D-44FB-AC36-2F04380332DE",
+        "admissionid": "2",
+        "admissionstartdate": "2010-04-22 08:49:06.220",
+        "admissionenddate": "2010-05-06 00:53:40.293"
+    },
+    {
+        "patientid": "323C3621-EB9A-4C0F-8819-01AB9DAA6B3F",
+        "admissionid": "1",
+        "admissionstartdate": "1946-07-06 15:47:01.067",
+        "admissionenddate": "1946-07-13 04:19:20.837"
+    },
+    {
+        "patientid": "323C3621-EB9A-4C0F-8819-01AB9DAA6B3F",
+        "admissionid": "2",
+        "admissionstartdate": "1982-09-30 19:08:06.973",
+        "admissionenddate": "1982-10-09 21:37:14.597"
+    },
+    {
+        "patientid": "323C3621-EB9A-4C0F-8819-01AB9DAA6B3F",
+        "admissionid": "3",
+        "admissionstartdate": "2005-07-04 12:53:45.000",
+        "admissionenddate": "2005-07-15 20:33:16.763"
+    },
+    {
+        "patientid": "323C3621-EB9A-4C0F-8819-01AB9DAA6B3F",
+        "admissionid": "4",
+        "admissionstartdate": "2008-11-18 18:35:15.040",
+        "admissionenddate": "2008-11-28 07:33:08.033"
+    },
+    {
+        "patientid": "1E97A77E-8690-461B-A27C-325C2173E006",
+        "admissionid": "1",
+        "admissionstartdate": "1969-05-02 15:51:06.490",
+        "admissionenddate": "1969-05-16 18:29:14.653"
+    },
+    {
+        "patientid": "1E97A77E-8690-461B-A27C-325C2173E006",
+        "admissionid": "2",
+        "admissionstartdate": "2001-04-11 16:53:53.040",
+        "admissionenddate": "2001-04-21 22:08:30.553"
+    },
+    {
+        "patientid": "1E97A77E-8690-461B-A27C-325C2173E006",
+        "admissionid": "3",
+        "admissionstartdate": "2003-07-15 04:21:21.237",
+        "admissionenddate": "2003-07-30 20:11:59.363"
+    },
+    {
+        "patientid": "1E97A77E-8690-461B-A27C-325C2173E006",
+        "admissionid": "4",
+        "admissionstartdate": "2011-07-18 00:49:35.707",
+        "admissionenddate": "2011-07-23 10:45:04.977"
+    },
+    {
+        "patientid": "F5696415-B4D6-4D1B-A1AA-2E73509B448B",
+        "admissionid": "1",
+        "admissionstartdate": "1989-04-18 03:53:53.933",
+        "admissionenddate": "1989-04-20 16:04:42.267"
+    },
+    {
+        "patientid": "F5696415-B4D6-4D1B-A1AA-2E73509B448B",
+        "admissionid": "2",
+        "admissionstartdate": "2004-05-05 00:51:59.570",
+        "admissionenddate": "2004-05-15 11:31:24.690"
+    },
+    {
+        "patientid": "F5696415-B4D6-4D1B-A1AA-2E73509B448B",
+        "admissionid": "3",
+        "admissionstartdate": "2012-06-07 03:13:12.813",
+        "admissionenddate": "2012-06-12 13:01:18.583"
+    },
+    {
+        "patientid": "63E8EF7A-3214-44D9-831F-E4CE84CFEF38",
+        "admissionid": "1",
+        "admissionstartdate": "1963-03-25 15:16:16.120",
+        "admissionenddate": "1963-04-01 20:57:59.277"
+    },
+    {
+        "patientid": "63E8EF7A-3214-44D9-831F-E4CE84CFEF38",
+        "admissionid": "2",
+        "admissionstartdate": "1964-03-25 17:40:33.510",
+        "admissionenddate": "1964-03-29 21:42:58.800"
+    },
+    {
+        "patientid": "63E8EF7A-3214-44D9-831F-E4CE84CFEF38",
+        "admissionid": "3",
+        "admissionstartdate": "1974-04-02 11:52:15.293",
+        "admissionenddate": "1974-04-22 01:59:40.230"
+    },
+    {
+        "patientid": "63E8EF7A-3214-44D9-831F-E4CE84CFEF38",
+        "admissionid": "4",
+        "admissionstartdate": "1986-10-06 16:19:07.530",
+        "admissionenddate": "1986-10-14 14:03:36.193"
+    },
+    {
+        "patientid": "63E8EF7A-3214-44D9-831F-E4CE84CFEF38",
+        "admissionid": "5",
+        "admissionstartdate": "2010-12-14 04:54:47.760",
+        "admissionenddate": "2011-01-02 02:32:39.923"
+    },
+    {
+        "patientid": "BD69534B-02A1-4295-A7C3-4DE0B5A79D75",
+        "admissionid": "1",
+        "admissionstartdate": "1991-09-19 14:36:56.477",
+        "admissionenddate": "1991-09-29 22:07:49.227"
+    },
+    {
+        "patientid": "BD69534B-02A1-4295-A7C3-4DE0B5A79D75",
+        "admissionid": "2",
+        "admissionstartdate": "1997-04-02 05:29:54.737",
+        "admissionenddate": "1997-04-14 04:50:03.563"
+    },
+    {
+        "patientid": "BD69534B-02A1-4295-A7C3-4DE0B5A79D75",
+        "admissionid": "3",
+        "admissionstartdate": "2001-11-08 08:02:17.827",
+        "admissionenddate": "2001-11-27 20:37:43.833"
+    },
+    {
+        "patientid": "BD69534B-02A1-4295-A7C3-4DE0B5A79D75",
+        "admissionid": "4",
+        "admissionstartdate": "2012-10-08 18:48:27.687",
+        "admissionenddate": "2012-10-22 22:51:34.617"
+    },
+    {
+        "patientid": "56852DD1-11A4-4AF3-A96C-37AB2EA8E44E",
+        "admissionid": "1",
+        "admissionstartdate": "1991-12-22 23:06:48.320",
+        "admissionenddate": "1992-01-03 03:10:41.693"
+    },
+    {
+        "patientid": "56852DD1-11A4-4AF3-A96C-37AB2EA8E44E",
+        "admissionid": "2",
+        "admissionstartdate": "2010-03-31 09:28:28.957",
+        "admissionenddate": "2010-04-17 17:15:20.547"
+    },
+    {
+        "patientid": "C2B10257-3F18-4E9E-811A-B94CEE17755D",
+        "admissionid": "1",
+        "admissionstartdate": "1956-10-19 20:09:29.870",
+        "admissionenddate": "1956-11-07 14:39:22.840"
+    },
+    {
+        "patientid": "C2B10257-3F18-4E9E-811A-B94CEE17755D",
+        "admissionid": "2",
+        "admissionstartdate": "2007-05-22 17:45:41.387",
+        "admissionenddate": "2007-06-04 10:58:26.247"
+    },
+    {
+        "patientid": "C2B10257-3F18-4E9E-811A-B94CEE17755D",
+        "admissionid": "3",
+        "admissionstartdate": "2011-07-08 12:52:19.677",
+        "admissionenddate": "2011-07-17 23:19:23.513"
+    },
+    {
+        "patientid": "717AFC0A-54BD-479A-B9E7-06EE3E43B087",
+        "admissionid": "1",
+        "admissionstartdate": "1982-07-06 19:57:23.600",
+        "admissionenddate": "1982-07-24 13:15:05.117"
+    },
+    {
+        "patientid": "717AFC0A-54BD-479A-B9E7-06EE3E43B087",
+        "admissionid": "2",
+        "admissionstartdate": "1990-07-21 03:07:19.360",
+        "admissionenddate": "1990-07-30 04:25:32.647"
+    },
+    {
+        "patientid": "717AFC0A-54BD-479A-B9E7-06EE3E43B087",
+        "admissionid": "3",
+        "admissionstartdate": "2006-08-07 20:22:22.213",
+        "admissionenddate": "2006-08-18 22:03:01.317"
+    },
+    {
+        "patientid": "717AFC0A-54BD-479A-B9E7-06EE3E43B087",
+        "admissionid": "4",
+        "admissionstartdate": "2011-07-11 05:05:23.583",
+        "admissionenddate": "2011-07-17 18:44:04.703"
+    },
+    {
+        "patientid": "7E3DD54F-C29B-442A-BC91-F748E3D6280E",
+        "admissionid": "1",
+        "admissionstartdate": "1965-09-25 12:30:23.897",
+        "admissionenddate": "1965-10-08 21:18:37.127"
+    },
+    {
+        "patientid": "7E3DD54F-C29B-442A-BC91-F748E3D6280E",
+        "admissionid": "2",
+        "admissionstartdate": "1980-07-19 12:23:33.173",
+        "admissionenddate": "1980-07-29 23:27:46.617"
+    },
+    {
+        "patientid": "7E3DD54F-C29B-442A-BC91-F748E3D6280E",
+        "admissionid": "3",
+        "admissionstartdate": "1983-09-28 08:37:41.813",
+        "admissionenddate": "1983-09-30 12:53:25.603"
+    },
+    {
+        "patientid": "7E3DD54F-C29B-442A-BC91-F748E3D6280E",
+        "admissionid": "4",
+        "admissionstartdate": "2005-09-20 15:39:48.537",
+        "admissionenddate": "2005-10-06 21:54:14.187"
+    },
+    {
+        "patientid": "7E3DD54F-C29B-442A-BC91-F748E3D6280E",
+        "admissionid": "5",
+        "admissionstartdate": "2007-10-08 10:44:43.260",
+        "admissionenddate": "2007-10-23 13:09:36.990"
+    },
+    {
+        "patientid": "7E3DD54F-C29B-442A-BC91-F748E3D6280E",
+        "admissionid": "6",
+        "admissionstartdate": "2010-05-31 21:13:16.547",
+        "admissionenddate": "2010-06-08 02:53:58.503"
+    },
+    {
+        "patientid": "B803D6C6-2F74-4DF3-A856-5F7F86D5B1D7",
+        "admissionid": "1",
+        "admissionstartdate": "2008-08-14 11:53:46.210",
+        "admissionenddate": "2008-08-28 20:50:33.683"
+    },
+    {
+        "patientid": "5B279D45-3728-4C3C-9E5E-C15E694014C7",
+        "admissionid": "1",
+        "admissionstartdate": "1986-01-13 21:45:30.760",
+        "admissionenddate": "1986-02-02 03:45:55.947"
+    },
+    {
+        "patientid": "5B279D45-3728-4C3C-9E5E-C15E694014C7",
+        "admissionid": "2",
+        "admissionstartdate": "1998-11-17 06:24:29.933",
+        "admissionenddate": "1998-11-26 21:48:49.367"
+    },
+    {
+        "patientid": "5B279D45-3728-4C3C-9E5E-C15E694014C7",
+        "admissionid": "3",
+        "admissionstartdate": "2003-06-08 14:50:07.833",
+        "admissionenddate": "2003-06-22 00:00:55.740"
+    },
+    {
+        "patientid": "5B279D45-3728-4C3C-9E5E-C15E694014C7",
+        "admissionid": "4",
+        "admissionstartdate": "2003-09-25 14:13:40.950",
+        "admissionenddate": "2003-09-29 04:08:40.473"
+    },
+    {
+        "patientid": "5B279D45-3728-4C3C-9E5E-C15E694014C7",
+        "admissionid": "5",
+        "admissionstartdate": "2005-10-17 15:04:04.957",
+        "admissionenddate": "2005-10-30 14:26:01.633"
+    },
+    {
+        "patientid": "5B279D45-3728-4C3C-9E5E-C15E694014C7",
+        "admissionid": "6",
+        "admissionstartdate": "2007-08-04 14:03:13.957",
+        "admissionenddate": "2007-08-22 22:35:13.657"
+    },
+    {
+        "patientid": "5B279D45-3728-4C3C-9E5E-C15E694014C7",
+        "admissionid": "7",
+        "admissionstartdate": "2011-05-04 02:51:37.040",
+        "admissionenddate": "2011-05-06 23:45:55.687"
+    },
+    {
+        "patientid": "5DE21D97-E457-4EB6-B3D6-FE9AF1C1A556",
+        "admissionid": "1",
+        "admissionstartdate": "1982-03-29 11:21:50.450",
+        "admissionenddate": "1982-04-14 16:19:49.173"
+    },
+    {
+        "patientid": "5DE21D97-E457-4EB6-B3D6-FE9AF1C1A556",
+        "admissionid": "2",
+        "admissionstartdate": "2005-04-01 02:12:42.087",
+        "admissionenddate": "2005-04-16 16:14:19.510"
+    },
+    {
+        "patientid": "5DE21D97-E457-4EB6-B3D6-FE9AF1C1A556",
+        "admissionid": "3",
+        "admissionstartdate": "2011-05-11 17:12:23.530",
+        "admissionenddate": "2011-05-14 08:53:54.283"
+    },
+    {
+        "patientid": "C565DDC5-3529-4B9C-B8AB-11A0B5D8EC07",
+        "admissionid": "1",
+        "admissionstartdate": "1984-05-31 04:52:14.733",
+        "admissionenddate": "1984-06-08 11:04:39.580"
+    },
+    {
+        "patientid": "C565DDC5-3529-4B9C-B8AB-11A0B5D8EC07",
+        "admissionid": "2",
+        "admissionstartdate": "1994-10-28 18:29:01.033",
+        "admissionenddate": "1994-11-09 04:54:01.990"
+    },
+    {
+        "patientid": "C565DDC5-3529-4B9C-B8AB-11A0B5D8EC07",
+        "admissionid": "3",
+        "admissionstartdate": "2002-05-06 08:03:12.897",
+        "admissionenddate": "2002-05-23 19:03:02.473"
+    },
+    {
+        "patientid": "C565DDC5-3529-4B9C-B8AB-11A0B5D8EC07",
+        "admissionid": "4",
+        "admissionstartdate": "2003-06-21 02:49:01.583",
+        "admissionenddate": "2003-07-01 15:00:47.157"
+    },
+    {
+        "patientid": "C565DDC5-3529-4B9C-B8AB-11A0B5D8EC07",
+        "admissionid": "5",
+        "admissionstartdate": "2009-09-27 15:05:22.737",
+        "admissionenddate": "2009-10-02 17:28:34.997"
+    },
+    {
+        "patientid": "2DA013E4-7B89-4760-A69A-71906B581EDF",
+        "admissionid": "1",
+        "admissionstartdate": "1960-08-10 14:41:34.830",
+        "admissionenddate": "1960-08-20 13:43:06.827"
+    },
+    {
+        "patientid": "2DA013E4-7B89-4760-A69A-71906B581EDF",
+        "admissionid": "2",
+        "admissionstartdate": "1987-07-15 19:01:35.250",
+        "admissionenddate": "1987-08-03 22:16:45.477"
+    },
+    {
+        "patientid": "2DA013E4-7B89-4760-A69A-71906B581EDF",
+        "admissionid": "3",
+        "admissionstartdate": "2008-07-16 14:44:44.837",
+        "admissionenddate": "2008-07-24 01:59:41.580"
+    },
+    {
+        "patientid": "3F0C823A-099E-4DD3-8C65-54B203564658",
+        "admissionid": "1",
+        "admissionstartdate": "2015-08-22 09:50:58.877",
+        "admissionenddate": "2015-08-29 15:03:00.710"
+    },
+    {
+        "patientid": "D9498B2B-52D4-476B-A9C2-636F84B03F5D",
+        "admissionid": "1",
+        "admissionstartdate": "1985-01-21 01:10:34.307",
+        "admissionenddate": "1985-01-25 11:34:26.670"
+    },
+    {
+        "patientid": "D9498B2B-52D4-476B-A9C2-636F84B03F5D",
+        "admissionid": "2",
+        "admissionstartdate": "1991-06-10 22:00:29.203",
+        "admissionenddate": "1991-06-18 02:09:44.807"
+    },
+    {
+        "patientid": "D9498B2B-52D4-476B-A9C2-636F84B03F5D",
+        "admissionid": "3",
+        "admissionstartdate": "2000-04-27 23:34:33.880",
+        "admissionenddate": "2000-05-12 15:17:27.427"
+    },
+    {
+        "patientid": "D9498B2B-52D4-476B-A9C2-636F84B03F5D",
+        "admissionid": "4",
+        "admissionstartdate": "2003-03-26 00:06:33.973",
+        "admissionenddate": "2003-03-31 09:33:23.730"
+    },
+    {
+        "patientid": "D9498B2B-52D4-476B-A9C2-636F84B03F5D",
+        "admissionid": "5",
+        "admissionstartdate": "2006-05-22 02:33:34.243",
+        "admissionenddate": "2006-06-05 18:05:23.593"
+    },
+    {
+        "patientid": "D9498B2B-52D4-476B-A9C2-636F84B03F5D",
+        "admissionid": "6",
+        "admissionstartdate": "2007-03-14 08:24:35.837",
+        "admissionenddate": "2007-03-25 02:25:02.617"
+    },
+    {
+        "patientid": "D9498B2B-52D4-476B-A9C2-636F84B03F5D",
+        "admissionid": "7",
+        "admissionstartdate": "2012-11-20 15:12:51.587",
+        "admissionenddate": "2012-12-06 01:19:35.757"
+    },
+    {
+        "patientid": "521195E4-6EE8-4BAC-92BF-48F0529D6DDC",
+        "admissionid": "1",
+        "admissionstartdate": "1948-12-19 09:34:36.593",
+        "admissionenddate": "1949-01-05 22:28:23.237"
+    },
+    {
+        "patientid": "521195E4-6EE8-4BAC-92BF-48F0529D6DDC",
+        "admissionid": "2",
+        "admissionstartdate": "1954-09-20 08:54:20.770",
+        "admissionenddate": "1954-10-04 23:52:06.187"
+    },
+    {
+        "patientid": "521195E4-6EE8-4BAC-92BF-48F0529D6DDC",
+        "admissionid": "3",
+        "admissionstartdate": "1989-06-02 05:53:35.800",
+        "admissionenddate": "1989-06-21 08:38:45.567"
+    },
+    {
+        "patientid": "521195E4-6EE8-4BAC-92BF-48F0529D6DDC",
+        "admissionid": "4",
+        "admissionstartdate": "1989-10-10 03:49:42.017",
+        "admissionenddate": "1989-10-20 11:22:24.843"
+    },
+    {
+        "patientid": "521195E4-6EE8-4BAC-92BF-48F0529D6DDC",
+        "admissionid": "5",
+        "admissionstartdate": "2002-02-24 22:28:13.857",
+        "admissionenddate": "2002-03-08 21:32:00.217"
+    },
+    {
+        "patientid": "521195E4-6EE8-4BAC-92BF-48F0529D6DDC",
+        "admissionid": "6",
+        "admissionstartdate": "2006-11-10 11:55:06.010",
+        "admissionenddate": "2006-11-13 08:46:13.047"
+    },
+    {
+        "patientid": "521195E4-6EE8-4BAC-92BF-48F0529D6DDC",
+        "admissionid": "7",
+        "admissionstartdate": "2010-01-11 17:56:24.023",
+        "admissionenddate": "2010-01-28 04:20:03.010"
+    },
+    {
+        "patientid": "9E6E0CEA-4505-41E7-8CAA-FEFDDEDF7F8D",
+        "admissionid": "1",
+        "admissionstartdate": "2006-11-02 11:16:40.683",
+        "admissionenddate": "2006-11-17 17:34:01.430"
+    },
+    {
+        "patientid": "9E6E0CEA-4505-41E7-8CAA-FEFDDEDF7F8D",
+        "admissionid": "2",
+        "admissionstartdate": "2008-04-05 14:19:50.163",
+        "admissionenddate": "2008-04-14 07:27:23.653"
+    },
+    {
+        "patientid": "1AE91A01-BB3F-49B4-A895-71A19911B5E6",
+        "admissionid": "1",
+        "admissionstartdate": "1981-11-09 00:49:29.710",
+        "admissionenddate": "1981-11-19 06:31:59.363"
+    },
+    {
+        "patientid": "1AE91A01-BB3F-49B4-A895-71A19911B5E6",
+        "admissionid": "2",
+        "admissionstartdate": "1999-09-04 00:43:00.217",
+        "admissionenddate": "1999-09-17 18:04:36.410"
+    },
+    {
+        "patientid": "1AE91A01-BB3F-49B4-A895-71A19911B5E6",
+        "admissionid": "3",
+        "admissionstartdate": "2010-06-17 18:01:07.547",
+        "admissionenddate": "2010-06-25 08:23:02.820"
+    },
+    {
+        "patientid": "26E23D12-62F3-4356-811C-02DCF7FE2B09",
+        "admissionid": "1",
+        "admissionstartdate": "1986-03-09 09:20:36.230",
+        "admissionenddate": "1986-03-23 06:35:59.387"
+    },
+    {
+        "patientid": "26E23D12-62F3-4356-811C-02DCF7FE2B09",
+        "admissionid": "2",
+        "admissionstartdate": "1994-03-20 03:00:48.887",
+        "admissionenddate": "1994-03-26 03:39:03.043"
+    },
+    {
+        "patientid": "26E23D12-62F3-4356-811C-02DCF7FE2B09",
+        "admissionid": "3",
+        "admissionstartdate": "2004-04-30 16:50:53.487",
+        "admissionenddate": "2004-05-09 20:39:47.723"
+    },
+    {
+        "patientid": "26E23D12-62F3-4356-811C-02DCF7FE2B09",
+        "admissionid": "4",
+        "admissionstartdate": "2007-06-15 07:25:54.737",
+        "admissionenddate": "2007-06-20 08:56:55.423"
+    },
+    {
+        "patientid": "26E23D12-62F3-4356-811C-02DCF7FE2B09",
+        "admissionid": "5",
+        "admissionstartdate": "2008-07-16 06:27:32.350",
+        "admissionenddate": "2008-07-24 13:25:11.443"
+    },
+    {
+        "patientid": "59CCEEA1-F8AC-4E5A-81A7-2E8725CEE356",
+        "admissionid": "1",
+        "admissionstartdate": "1985-03-24 13:22:02.340",
+        "admissionenddate": "1985-04-07 06:20:02.133"
+    },
+    {
+        "patientid": "59CCEEA1-F8AC-4E5A-81A7-2E8725CEE356",
+        "admissionid": "2",
+        "admissionstartdate": "2009-03-16 00:12:36.233",
+        "admissionenddate": "2009-03-20 05:22:22.073"
+    },
+    {
+        "patientid": "66AEAAAE-56C5-4E70-AC98-0D17F479DD2F",
+        "admissionid": "1",
+        "admissionstartdate": "1960-10-18 10:07:24.107",
+        "admissionenddate": "1960-11-06 19:30:16.907"
+    },
+    {
+        "patientid": "66AEAAAE-56C5-4E70-AC98-0D17F479DD2F",
+        "admissionid": "2",
+        "admissionstartdate": "1975-05-02 06:38:09.747",
+        "admissionenddate": "1975-05-17 06:13:33.617"
+    },
+    {
+        "patientid": "66AEAAAE-56C5-4E70-AC98-0D17F479DD2F",
+        "admissionid": "3",
+        "admissionstartdate": "1998-01-27 20:40:55.787",
+        "admissionenddate": "1998-02-11 00:00:18.613"
+    },
+    {
+        "patientid": "66AEAAAE-56C5-4E70-AC98-0D17F479DD2F",
+        "admissionid": "4",
+        "admissionstartdate": "2010-11-10 06:31:35.923",
+        "admissionenddate": "2010-11-18 19:14:22.817"
+    },
+    {
+        "patientid": "F7CF0FE9-AFCD-49EF-BFB3-E42302FFA0D3",
+        "admissionid": "1",
+        "admissionstartdate": "1971-05-29 15:10:05.753",
+        "admissionenddate": "1971-06-08 06:25:29.223"
+    },
+    {
+        "patientid": "F7CF0FE9-AFCD-49EF-BFB3-E42302FFA0D3",
+        "admissionid": "2",
+        "admissionstartdate": "2004-06-02 06:20:44.340",
+        "admissionenddate": "2004-06-14 18:46:36.413"
+    },
+    {
+        "patientid": "F7CF0FE9-AFCD-49EF-BFB3-E42302FFA0D3",
+        "admissionid": "3",
+        "admissionstartdate": "2008-07-20 15:34:45.070",
+        "admissionenddate": "2008-08-05 00:19:06.990"
+    },
+    {
+        "patientid": "C3935FBC-DBBA-4844-BBE4-A175FA508454",
+        "admissionid": "1",
+        "admissionstartdate": "1980-03-18 15:52:25.993",
+        "admissionenddate": "1980-03-30 01:40:18.587"
+    },
+    {
+        "patientid": "C3935FBC-DBBA-4844-BBE4-A175FA508454",
+        "admissionid": "2",
+        "admissionstartdate": "1985-12-16 13:09:32.530",
+        "admissionenddate": "1986-01-02 21:43:09.737"
+    },
+    {
+        "patientid": "C3935FBC-DBBA-4844-BBE4-A175FA508454",
+        "admissionid": "3",
+        "admissionstartdate": "1987-06-30 01:31:58.857",
+        "admissionenddate": "1987-07-16 01:35:40.173"
+    },
+    {
+        "patientid": "C3935FBC-DBBA-4844-BBE4-A175FA508454",
+        "admissionid": "4",
+        "admissionstartdate": "2007-01-05 00:39:46.640",
+        "admissionenddate": "2007-01-23 20:26:31.963"
+    },
+    {
+        "patientid": "C3935FBC-DBBA-4844-BBE4-A175FA508454",
+        "admissionid": "5",
+        "admissionstartdate": "2010-12-11 11:48:13.453",
+        "admissionenddate": "2010-12-27 16:29:14.817"
+    },
+    {
+        "patientid": "1CA33F6F-2E84-4C99-AF6A-D40F7B4DB27F",
+        "admissionid": "1",
+        "admissionstartdate": "2000-03-20 15:28:40.670",
+        "admissionenddate": "2000-03-25 01:29:50.753"
+    },
+    {
+        "patientid": "1CA33F6F-2E84-4C99-AF6A-D40F7B4DB27F",
+        "admissionid": "2",
+        "admissionstartdate": "2002-09-30 01:26:57.940",
+        "admissionenddate": "2002-10-06 18:19:29.310"
+    },
+    {
+        "patientid": "1CA33F6F-2E84-4C99-AF6A-D40F7B4DB27F",
+        "admissionid": "3",
+        "admissionstartdate": "2011-07-14 19:41:44.820",
+        "admissionenddate": "2011-07-19 19:01:39.143"
+    },
+    {
+        "patientid": "81606388-2471-42A4-A6F1-1868AE25CFC3",
+        "admissionid": "1",
+        "admissionstartdate": "2010-09-07 17:00:30.723",
+        "admissionenddate": "2010-09-23 02:42:44.193"
+    },
+    {
+        "patientid": "E3120DE9-3361-40CF-A618-265C769E75A2",
+        "admissionid": "1",
+        "admissionstartdate": "2005-09-16 06:28:07.683",
+        "admissionenddate": "2005-09-20 02:05:09.230"
+    },
+    {
+        "patientid": "E3120DE9-3361-40CF-A618-265C769E75A2",
+        "admissionid": "2",
+        "admissionstartdate": "2010-07-24 08:18:13.143",
+        "admissionenddate": "2010-08-11 15:45:16.497"
+    },
+    {
+        "patientid": "5C043111-3F94-44BC-A889-97D44ACCC7F6",
+        "admissionid": "1",
+        "admissionstartdate": "1994-07-15 17:12:49.033",
+        "admissionenddate": "1994-08-02 00:30:55.890"
+    },
+    {
+        "patientid": "5C043111-3F94-44BC-A889-97D44ACCC7F6",
+        "admissionid": "2",
+        "admissionstartdate": "1995-06-26 14:54:20.197",
+        "admissionenddate": "1995-07-01 00:53:18.937"
+    },
+    {
+        "patientid": "5C043111-3F94-44BC-A889-97D44ACCC7F6",
+        "admissionid": "3",
+        "admissionstartdate": "2003-06-21 15:43:07.183",
+        "admissionenddate": "2003-07-03 23:38:51.203"
+    },
+    {
+        "patientid": "5C043111-3F94-44BC-A889-97D44ACCC7F6",
+        "admissionid": "4",
+        "admissionstartdate": "2007-12-29 10:34:04.717",
+        "admissionenddate": "2008-01-16 04:04:39.747"
+    },
+    {
+        "patientid": "0A10A379-05B1-438B-84A0-18B4D1AE2615",
+        "admissionid": "1",
+        "admissionstartdate": "2009-02-10 23:08:25.953",
+        "admissionenddate": "2009-03-02 02:59:10.637"
+    },
+    {
+        "patientid": "4BE9DA70-090C-45D9-BB34-C9FE07883BD9",
+        "admissionid": "1",
+        "admissionstartdate": "2015-06-17 03:29:18.387",
+        "admissionenddate": "2015-06-30 05:04:46.620"
+    },
+    {
+        "patientid": "DED90E65-5B8E-497C-9A17-0679C1DA3B6D",
+        "admissionid": "1",
+        "admissionstartdate": "1964-04-23 00:37:53.077",
+        "admissionenddate": "1964-05-07 01:42:50.493"
+    },
+    {
+        "patientid": "DED90E65-5B8E-497C-9A17-0679C1DA3B6D",
+        "admissionid": "2",
+        "admissionstartdate": "1972-11-20 21:14:38.493",
+        "admissionenddate": "1972-11-24 09:47:19.880"
+    },
+    {
+        "patientid": "DED90E65-5B8E-497C-9A17-0679C1DA3B6D",
+        "admissionid": "3",
+        "admissionstartdate": "1996-10-18 03:35:04.980",
+        "admissionenddate": "1996-10-21 16:20:57.297"
+    },
+    {
+        "patientid": "DED90E65-5B8E-497C-9A17-0679C1DA3B6D",
+        "admissionid": "4",
+        "admissionstartdate": "2002-08-15 02:53:39.897",
+        "admissionenddate": "2002-08-31 01:19:42.837"
+    },
+    {
+        "patientid": "DED90E65-5B8E-497C-9A17-0679C1DA3B6D",
+        "admissionid": "5",
+        "admissionstartdate": "2005-11-29 22:08:15.523",
+        "admissionenddate": "2005-12-10 17:20:00.473"
+    },
+    {
+        "patientid": "DED90E65-5B8E-497C-9A17-0679C1DA3B6D",
+        "admissionid": "6",
+        "admissionstartdate": "2011-07-28 17:30:29.950",
+        "admissionenddate": "2011-08-08 04:03:07.910"
+    },
+    {
+        "patientid": "67744717-0461-45C5-B85A-D7355EFAF6A1",
+        "admissionid": "1",
+        "admissionstartdate": "1990-04-28 23:33:34.047",
+        "admissionenddate": "1990-05-11 16:26:46.220"
+    },
+    {
+        "patientid": "67744717-0461-45C5-B85A-D7355EFAF6A1",
+        "admissionid": "2",
+        "admissionstartdate": "2001-10-30 19:08:10.367",
+        "admissionenddate": "2001-11-02 05:13:36.177"
+    },
+    {
+        "patientid": "67744717-0461-45C5-B85A-D7355EFAF6A1",
+        "admissionid": "3",
+        "admissionstartdate": "2008-02-05 10:10:20.393",
+        "admissionenddate": "2008-02-08 07:14:43.420"
+    },
+    {
+        "patientid": "BCEA6D68-6998-453F-B630-1E373B754660",
+        "admissionid": "1",
+        "admissionstartdate": "1972-10-20 01:36:40.147",
+        "admissionenddate": "1972-10-28 20:44:40.560"
+    },
+    {
+        "patientid": "BCEA6D68-6998-453F-B630-1E373B754660",
+        "admissionid": "2",
+        "admissionstartdate": "1975-12-26 12:00:39.470",
+        "admissionenddate": "1976-01-10 05:44:06.740"
+    },
+    {
+        "patientid": "BCEA6D68-6998-453F-B630-1E373B754660",
+        "admissionid": "3",
+        "admissionstartdate": "1988-09-12 12:55:09.910",
+        "admissionenddate": "1988-09-20 08:50:16.503"
+    },
+    {
+        "patientid": "BCEA6D68-6998-453F-B630-1E373B754660",
+        "admissionid": "4",
+        "admissionstartdate": "2008-04-08 15:59:24.127",
+        "admissionenddate": "2008-04-27 05:35:50.463"
+    },
+    {
+        "patientid": "ABDB8CCC-E9C2-4BC2-B370-822EF1182256",
+        "admissionid": "1",
+        "admissionstartdate": "1990-12-21 08:52:22.317",
+        "admissionenddate": "1990-12-26 19:15:52.797"
+    },
+    {
+        "patientid": "ABDB8CCC-E9C2-4BC2-B370-822EF1182256",
+        "admissionid": "2",
+        "admissionstartdate": "2001-03-08 05:49:42.113",
+        "admissionenddate": "2001-03-24 06:18:18.350"
+    },
+    {
+        "patientid": "ABDB8CCC-E9C2-4BC2-B370-822EF1182256",
+        "admissionid": "3",
+        "admissionstartdate": "2005-06-15 19:11:41.010",
+        "admissionenddate": "2005-07-05 06:37:02.397"
+    },
+    {
+        "patientid": "ABDB8CCC-E9C2-4BC2-B370-822EF1182256",
+        "admissionid": "4",
+        "admissionstartdate": "2007-02-18 01:41:19.417",
+        "admissionenddate": "2007-03-02 12:49:47.390"
+    },
+    {
+        "patientid": "ABDB8CCC-E9C2-4BC2-B370-822EF1182256",
+        "admissionid": "5",
+        "admissionstartdate": "2011-04-14 13:31:02.777",
+        "admissionenddate": "2011-04-19 22:24:22.387"
+    },
+    {
+        "patientid": "0C41FC5D-B379-425D-94F3-F79EC4421D35",
+        "admissionid": "1",
+        "admissionstartdate": "1992-09-30 18:44:36.323",
+        "admissionenddate": "1992-10-16 19:29:15.327"
+    },
+    {
+        "patientid": "0C41FC5D-B379-425D-94F3-F79EC4421D35",
+        "admissionid": "2",
+        "admissionstartdate": "1995-10-25 04:06:41.713",
+        "admissionenddate": "1995-11-10 08:48:36.510"
+    },
+    {
+        "patientid": "0C41FC5D-B379-425D-94F3-F79EC4421D35",
+        "admissionid": "3",
+        "admissionstartdate": "2008-08-04 03:14:33.070",
+        "admissionenddate": "2008-08-22 03:43:15.360"
+    },
+    {
+        "patientid": "54A126A4-7314-45EB-ADC3-B9CAED73A9AC",
+        "admissionid": "1",
+        "admissionstartdate": "1982-08-07 23:44:56.817",
+        "admissionenddate": "1982-08-22 10:22:55.210"
+    },
+    {
+        "patientid": "54A126A4-7314-45EB-ADC3-B9CAED73A9AC",
+        "admissionid": "2",
+        "admissionstartdate": "1984-04-08 01:51:37.473",
+        "admissionenddate": "1984-04-20 12:06:47.660"
+    },
+    {
+        "patientid": "54A126A4-7314-45EB-ADC3-B9CAED73A9AC",
+        "admissionid": "3",
+        "admissionstartdate": "2003-02-18 17:56:52.253",
+        "admissionenddate": "2003-03-08 05:39:51.813"
+    },
+    {
+        "patientid": "54A126A4-7314-45EB-ADC3-B9CAED73A9AC",
+        "admissionid": "4",
+        "admissionstartdate": "2003-11-10 05:32:50.260",
+        "admissionenddate": "2003-11-20 07:17:27.470"
+    },
+    {
+        "patientid": "54A126A4-7314-45EB-ADC3-B9CAED73A9AC",
+        "admissionid": "5",
+        "admissionstartdate": "2006-10-03 10:39:40.743",
+        "admissionenddate": "2006-10-12 07:26:55.377"
+    },
+    {
+        "patientid": "54A126A4-7314-45EB-ADC3-B9CAED73A9AC",
+        "admissionid": "6",
+        "admissionstartdate": "2008-04-19 20:13:50.310",
+        "admissionenddate": "2008-05-01 14:09:42.173"
+    },
+    {
+        "patientid": "69329A18-3C46-4121-A1B1-1A8F1CA481EB",
+        "admissionid": "1",
+        "admissionstartdate": "1967-02-06 06:15:41.343",
+        "admissionenddate": "1967-02-23 12:52:44.137"
+    },
+    {
+        "patientid": "69329A18-3C46-4121-A1B1-1A8F1CA481EB",
+        "admissionid": "2",
+        "admissionstartdate": "1982-02-18 19:28:21.130",
+        "admissionenddate": "1982-03-08 03:17:40.180"
+    },
+    {
+        "patientid": "69329A18-3C46-4121-A1B1-1A8F1CA481EB",
+        "admissionid": "3",
+        "admissionstartdate": "1990-10-23 00:02:40.093",
+        "admissionenddate": "1990-11-06 03:48:48.470"
+    },
+    {
+        "patientid": "69329A18-3C46-4121-A1B1-1A8F1CA481EB",
+        "admissionid": "4",
+        "admissionstartdate": "2007-09-27 14:54:55.360",
+        "admissionenddate": "2007-10-02 15:21:56.220"
+    },
+    {
+        "patientid": "69329A18-3C46-4121-A1B1-1A8F1CA481EB",
+        "admissionid": "5",
+        "admissionstartdate": "2009-05-24 23:46:51.747",
+        "admissionenddate": "2009-06-05 14:41:57.043"
+    },
+    {
+        "patientid": "FB32DDCD-3B9B-4369-9367-C83A9DF567BA",
+        "admissionid": "1",
+        "admissionstartdate": "2002-11-25 16:31:33.863",
+        "admissionenddate": "2002-12-12 13:25:30.273"
+    },
+    {
+        "patientid": "FB32DDCD-3B9B-4369-9367-C83A9DF567BA",
+        "admissionid": "2",
+        "admissionstartdate": "2005-07-04 21:48:29.637",
+        "admissionenddate": "2005-07-23 01:15:28.283"
+    },
+    {
+        "patientid": "FB32DDCD-3B9B-4369-9367-C83A9DF567BA",
+        "admissionid": "3",
+        "admissionstartdate": "2012-03-07 16:01:57.517",
+        "admissionenddate": "2012-03-15 09:53:07.777"
+    },
+    {
+        "patientid": "D26DF18A-684F-4708-9BA3-75B1D3D49F06",
+        "admissionid": "1",
+        "admissionstartdate": "1976-09-08 08:32:14.167",
+        "admissionenddate": "1976-09-24 09:45:38.243"
+    },
+    {
+        "patientid": "D26DF18A-684F-4708-9BA3-75B1D3D49F06",
+        "admissionid": "2",
+        "admissionstartdate": "2009-05-16 01:46:36.760",
+        "admissionenddate": "2009-06-03 16:02:46.923"
+    },
+    {
+        "patientid": "02FA2A41-E4F9-4EE7-A768-01D223074C93",
+        "admissionid": "2",
+        "admissionstartdate": "2011-09-25 21:42:01.787",
+        "admissionenddate": "2011-09-30 19:09:38.700"
+    },
+    {
+        "patientid": "9CDAF3F5-FBB3-4182-A94E-A1758749F9F3",
+        "admissionid": "1",
+        "admissionstartdate": "1985-06-01 16:00:56.307",
+        "admissionenddate": "1985-06-07 09:54:32.970"
+    },
+    {
+        "patientid": "9CDAF3F5-FBB3-4182-A94E-A1758749F9F3",
+        "admissionid": "2",
+        "admissionstartdate": "2012-03-20 12:04:42.103",
+        "admissionenddate": "2012-03-24 12:43:53.423"
+    },
+    {
+        "patientid": "8940AC38-15F6-4B93-84AC-386AE5D2BD6C",
+        "admissionid": "1",
+        "admissionstartdate": "1951-01-28 13:23:20.883",
+        "admissionenddate": "1951-02-10 00:20:07.470"
+    },
+    {
+        "patientid": "8940AC38-15F6-4B93-84AC-386AE5D2BD6C",
+        "admissionid": "2",
+        "admissionstartdate": "1968-05-12 04:27:12.847",
+        "admissionenddate": "1968-05-20 07:02:14.557"
+    },
+    {
+        "patientid": "8940AC38-15F6-4B93-84AC-386AE5D2BD6C",
+        "admissionid": "3",
+        "admissionstartdate": "1973-08-30 17:05:35.123",
+        "admissionenddate": "1973-09-18 19:22:16.210"
+    },
+    {
+        "patientid": "8940AC38-15F6-4B93-84AC-386AE5D2BD6C",
+        "admissionid": "4",
+        "admissionstartdate": "1992-01-27 00:22:04.753",
+        "admissionenddate": "1992-02-05 19:55:36.577"
+    },
+    {
+        "patientid": "8940AC38-15F6-4B93-84AC-386AE5D2BD6C",
+        "admissionid": "5",
+        "admissionstartdate": "2001-05-16 08:44:03.383",
+        "admissionenddate": "2001-06-03 21:43:10.103"
+    },
+    {
+        "patientid": "8940AC38-15F6-4B93-84AC-386AE5D2BD6C",
+        "admissionid": "6",
+        "admissionstartdate": "2011-01-07 20:11:10.663",
+        "admissionenddate": "2011-01-13 15:13:11.707"
+    },
+    {
+        "patientid": "9D1DBDC9-5D5A-42FE-8334-828EB52FC25B",
+        "admissionid": "1",
+        "admissionstartdate": "2007-01-22 08:27:13.647",
+        "admissionenddate": "2007-02-02 03:01:00.147"
+    },
+    {
+        "patientid": "9D1DBDC9-5D5A-42FE-8334-828EB52FC25B",
+        "admissionid": "2",
+        "admissionstartdate": "2010-03-03 11:06:01.403",
+        "admissionenddate": "2010-03-21 16:01:52.807"
+    },
+    {
+        "patientid": "B5C4365B-3BC2-486E-9854-8AC7F76F4601",
+        "admissionid": "1",
+        "admissionstartdate": "1979-08-17 14:36:52.850",
+        "admissionenddate": "1979-08-20 19:07:14.790"
+    },
+    {
+        "patientid": "B5C4365B-3BC2-486E-9854-8AC7F76F4601",
+        "admissionid": "2",
+        "admissionstartdate": "1993-06-08 01:12:32.753",
+        "admissionenddate": "1993-06-13 05:53:29.590"
+    },
+    {
+        "patientid": "B5C4365B-3BC2-486E-9854-8AC7F76F4601",
+        "admissionid": "3",
+        "admissionstartdate": "2010-06-12 03:18:09.770",
+        "admissionenddate": "2010-06-22 07:06:35.143"
+    },
+    {
+        "patientid": "428304A5-7CF4-4B0E-9B6B-F6D4C34F7EF6",
+        "admissionid": "1",
+        "admissionstartdate": "1986-08-05 19:49:57.550",
+        "admissionenddate": "1986-08-15 21:05:40.537"
+    },
+    {
+        "patientid": "428304A5-7CF4-4B0E-9B6B-F6D4C34F7EF6",
+        "admissionid": "2",
+        "admissionstartdate": "2001-07-17 16:56:07.923",
+        "admissionenddate": "2001-07-22 07:26:00.323"
+    },
+    {
+        "patientid": "428304A5-7CF4-4B0E-9B6B-F6D4C34F7EF6",
+        "admissionid": "3",
+        "admissionstartdate": "2012-10-05 01:25:00.587",
+        "admissionenddate": "2012-10-21 00:35:41.580"
+    },
+    {
+        "patientid": "5217AC01-E2C0-4976-A07B-6BC11DF02971",
+        "admissionid": "1",
+        "admissionstartdate": "1987-09-20 19:33:18.237",
+        "admissionenddate": "1987-09-26 01:29:07.867"
+    },
+    {
+        "patientid": "5217AC01-E2C0-4976-A07B-6BC11DF02971",
+        "admissionid": "2",
+        "admissionstartdate": "1993-05-11 17:17:14.567",
+        "admissionenddate": "1993-05-24 04:36:12.877"
+    },
+    {
+        "patientid": "5217AC01-E2C0-4976-A07B-6BC11DF02971",
+        "admissionid": "3",
+        "admissionstartdate": "2011-02-04 20:10:01.853",
+        "admissionenddate": "2011-02-13 11:05:51.587"
+    },
+    {
+        "patientid": "37B17D45-5F54-4522-8C69-F1F639DCE151",
+        "admissionid": "1",
+        "admissionstartdate": "1982-07-04 09:28:16.917",
+        "admissionenddate": "1982-07-17 11:02:32.580"
+    },
+    {
+        "patientid": "37B17D45-5F54-4522-8C69-F1F639DCE151",
+        "admissionid": "2",
+        "admissionstartdate": "2003-09-03 15:20:05.720",
+        "admissionenddate": "2003-09-09 01:04:45.070"
+    },
+    {
+        "patientid": "37B17D45-5F54-4522-8C69-F1F639DCE151",
+        "admissionid": "3",
+        "admissionstartdate": "2007-05-19 00:01:46.250",
+        "admissionenddate": "2007-05-22 06:27:33.200"
+    },
+    {
+        "patientid": "37B17D45-5F54-4522-8C69-F1F639DCE151",
+        "admissionid": "4",
+        "admissionstartdate": "2008-06-26 01:22:38.710",
+        "admissionenddate": "2008-06-30 11:28:32.000"
+    },
+    {
+        "patientid": "59BCAFCA-807B-45E0-A820-1CA56A2CD504",
+        "admissionid": "1",
+        "admissionstartdate": "1982-10-15 07:25:13.673",
+        "admissionenddate": "1982-10-25 12:15:43.560"
+    },
+    {
+        "patientid": "59BCAFCA-807B-45E0-A820-1CA56A2CD504",
+        "admissionid": "2",
+        "admissionstartdate": "1988-11-08 01:42:56.507",
+        "admissionenddate": "1988-11-23 00:16:06.413"
+    },
+    {
+        "patientid": "59BCAFCA-807B-45E0-A820-1CA56A2CD504",
+        "admissionid": "3",
+        "admissionstartdate": "2010-12-20 07:01:09.090",
+        "admissionenddate": "2011-01-04 03:10:05.967"
+    },
+    {
+        "patientid": "2537B84E-01E7-44E2-9538-6E35E3CD3B41",
+        "admissionid": "1",
+        "admissionstartdate": "1990-02-06 12:13:15.120",
+        "admissionenddate": "1990-02-09 15:43:19.490"
+    },
+    {
+        "patientid": "2537B84E-01E7-44E2-9538-6E35E3CD3B41",
+        "admissionid": "2",
+        "admissionstartdate": "2011-10-07 07:02:55.663",
+        "admissionenddate": "2011-10-09 16:26:01.293"
+    },
+    {
+        "patientid": "26E0E5AF-9D6D-44BC-BEA3-8CC7057D2F0A",
+        "admissionid": "1",
+        "admissionstartdate": "1980-07-31 20:45:32.023",
+        "admissionenddate": "1980-08-17 03:46:45.143"
+    },
+    {
+        "patientid": "26E0E5AF-9D6D-44BC-BEA3-8CC7057D2F0A",
+        "admissionid": "2",
+        "admissionstartdate": "1988-07-09 00:00:09.650",
+        "admissionenddate": "1988-07-27 09:41:12.553"
+    },
+    {
+        "patientid": "26E0E5AF-9D6D-44BC-BEA3-8CC7057D2F0A",
+        "admissionid": "3",
+        "admissionstartdate": "2008-03-04 21:52:12.777",
+        "admissionenddate": "2008-03-21 20:57:16.640"
+    },
+    {
+        "patientid": "A7F8B460-47C6-4D03-925A-6230EFFBFE35",
+        "admissionid": "1",
+        "admissionstartdate": "1999-02-09 11:25:41.423",
+        "admissionenddate": "1999-02-28 23:55:57.857"
+    },
+    {
+        "patientid": "A7F8B460-47C6-4D03-925A-6230EFFBFE35",
+        "admissionid": "2",
+        "admissionstartdate": "2012-08-06 10:17:29.707",
+        "admissionenddate": "2012-08-20 20:52:18.083"
+    },
+    {
+        "patientid": "098EA95C-1736-484C-A0FD-A8DECC1C20F3",
+        "admissionid": "1",
+        "admissionstartdate": "1996-12-17 19:53:28.803",
+        "admissionenddate": "1996-12-24 13:28:15.523"
+    },
+    {
+        "patientid": "098EA95C-1736-484C-A0FD-A8DECC1C20F3",
+        "admissionid": "2",
+        "admissionstartdate": "2008-02-23 23:43:04.443",
+        "admissionenddate": "2008-03-01 10:20:29.987"
+    },
+    {
+        "patientid": "C570D07C-2A02-417A-AC7B-D29EF8201BEF",
+        "admissionid": "1",
+        "admissionstartdate": "1980-02-17 04:30:14.030",
+        "admissionenddate": "1980-02-25 15:18:22.940"
+    },
+    {
+        "patientid": "C570D07C-2A02-417A-AC7B-D29EF8201BEF",
+        "admissionid": "2",
+        "admissionstartdate": "1995-08-18 18:49:47.620",
+        "admissionenddate": "1995-09-06 01:51:33.187"
+    },
+    {
+        "patientid": "C570D07C-2A02-417A-AC7B-D29EF8201BEF",
+        "admissionid": "3",
+        "admissionstartdate": "1999-04-09 20:30:06.660",
+        "admissionenddate": "1999-04-12 07:34:11.320"
+    },
+    {
+        "patientid": "C570D07C-2A02-417A-AC7B-D29EF8201BEF",
+        "admissionid": "4",
+        "admissionstartdate": "2008-06-26 16:40:23.320",
+        "admissionenddate": "2008-07-04 20:48:05.090"
+    },
+    {
+        "patientid": "26D48433-D64B-4E46-BE9D-F1862E449D9A",
+        "admissionid": "1",
+        "admissionstartdate": "1960-01-11 09:24:58.097",
+        "admissionenddate": "1960-01-26 14:47:22.947"
+    },
+    {
+        "patientid": "26D48433-D64B-4E46-BE9D-F1862E449D9A",
+        "admissionid": "2",
+        "admissionstartdate": "1993-10-07 03:05:47.020",
+        "admissionenddate": "1993-10-14 22:36:06.223"
+    },
+    {
+        "patientid": "26D48433-D64B-4E46-BE9D-F1862E449D9A",
+        "admissionid": "3",
+        "admissionstartdate": "1998-07-22 23:34:14.467",
+        "admissionenddate": "1998-08-09 05:16:07.573"
+    },
+    {
+        "patientid": "26D48433-D64B-4E46-BE9D-F1862E449D9A",
+        "admissionid": "4",
+        "admissionstartdate": "2001-11-29 16:50:17.817",
+        "admissionenddate": "2001-12-06 11:35:28.080"
+    },
+    {
+        "patientid": "26D48433-D64B-4E46-BE9D-F1862E449D9A",
+        "admissionid": "5",
+        "admissionstartdate": "2010-03-18 14:23:21.593",
+        "admissionenddate": "2010-03-28 15:59:07.623"
+    },
+    {
+        "patientid": "2F9674A1-6D45-4F98-B3B8-575DD12D1192",
+        "admissionid": "1",
+        "admissionstartdate": "1988-12-05 22:54:20.493",
+        "admissionenddate": "1988-12-11 13:30:57.057"
+    },
+    {
+        "patientid": "2F9674A1-6D45-4F98-B3B8-575DD12D1192",
+        "admissionid": "2",
+        "admissionstartdate": "2007-11-18 11:39:52.033",
+        "admissionenddate": "2007-11-22 10:37:20.923"
+    },
+    {
+        "patientid": "2F9674A1-6D45-4F98-B3B8-575DD12D1192",
+        "admissionid": "3",
+        "admissionstartdate": "2008-07-16 01:20:27.470",
+        "admissionenddate": "2008-07-19 22:46:26.113"
+    },
+    {
+        "patientid": "86678D57-8659-4B27-98CD-1FE85C95D7DE",
+        "admissionid": "1",
+        "admissionstartdate": "1951-01-17 11:27:12.450",
+        "admissionenddate": "1951-02-04 00:00:11.443"
+    },
+    {
+        "patientid": "86678D57-8659-4B27-98CD-1FE85C95D7DE",
+        "admissionid": "2",
+        "admissionstartdate": "1976-10-23 18:37:07.273",
+        "admissionenddate": "1976-11-02 08:54:05.467"
+    },
+    {
+        "patientid": "86678D57-8659-4B27-98CD-1FE85C95D7DE",
+        "admissionid": "3",
+        "admissionstartdate": "1980-06-15 06:13:52.470",
+        "admissionenddate": "1980-06-26 07:13:49.177"
+    },
+    {
+        "patientid": "86678D57-8659-4B27-98CD-1FE85C95D7DE",
+        "admissionid": "4",
+        "admissionstartdate": "1987-05-24 13:08:42.897",
+        "admissionenddate": "1987-06-05 12:24:17.037"
+    },
+    {
+        "patientid": "86678D57-8659-4B27-98CD-1FE85C95D7DE",
+        "admissionid": "5",
+        "admissionstartdate": "2006-11-03 02:50:35.587",
+        "admissionenddate": "2006-11-22 06:28:50.870"
+    },
+    {
+        "patientid": "86678D57-8659-4B27-98CD-1FE85C95D7DE",
+        "admissionid": "6",
+        "admissionstartdate": "2009-05-30 04:11:55.920",
+        "admissionenddate": "2009-06-11 04:56:10.167"
+    },
+    {
+        "patientid": "41BF2E95-C210-477F-9C44-520693DFF204",
+        "admissionid": "1",
+        "admissionstartdate": "1995-05-28 08:03:40.113",
+        "admissionenddate": "1995-06-01 13:15:18.343"
+    },
+    {
+        "patientid": "41BF2E95-C210-477F-9C44-520693DFF204",
+        "admissionid": "2",
+        "admissionstartdate": "2010-06-27 20:53:48.320",
+        "admissionenddate": "2010-07-16 10:28:36.567"
+    },
+    {
+        "patientid": "9E75A141-BB50-4437-9D36-A95AF26B2239",
+        "admissionid": "1",
+        "admissionstartdate": "1980-05-28 13:12:48.150",
+        "admissionenddate": "1980-06-07 16:25:14.323"
+    },
+    {
+        "patientid": "9E75A141-BB50-4437-9D36-A95AF26B2239",
+        "admissionid": "2",
+        "admissionstartdate": "2006-10-25 18:12:31.087",
+        "admissionenddate": "2006-11-05 22:00:59.407"
+    },
+    {
+        "patientid": "9E75A141-BB50-4437-9D36-A95AF26B2239",
+        "admissionid": "3",
+        "admissionstartdate": "2008-07-19 07:55:16.687",
+        "admissionenddate": "2008-07-29 23:00:54.980"
+    },
+    {
+        "patientid": "6B10BC1E-14F5-4F41-ACC6-CC801456A23D",
+        "admissionid": "1",
+        "admissionstartdate": "1969-02-27 11:33:55.537",
+        "admissionenddate": "1969-03-18 04:12:01.123"
+    },
+    {
+        "patientid": "6B10BC1E-14F5-4F41-ACC6-CC801456A23D",
+        "admissionid": "2",
+        "admissionstartdate": "2001-10-22 17:29:47.497",
+        "admissionenddate": "2001-11-06 10:07:11.177"
+    },
+    {
+        "patientid": "6B10BC1E-14F5-4F41-ACC6-CC801456A23D",
+        "admissionid": "3",
+        "admissionstartdate": "2012-05-16 10:32:27.587",
+        "admissionenddate": "2012-05-26 23:24:22.977"
+    },
+    {
+        "patientid": "D08C05C9-CD71-4BD6-A298-73FF5DE43C45",
+        "admissionid": "1",
+        "admissionstartdate": "1990-01-10 00:19:40.020",
+        "admissionenddate": "1990-01-20 22:42:27.987"
+    },
+    {
+        "patientid": "D08C05C9-CD71-4BD6-A298-73FF5DE43C45",
+        "admissionid": "2",
+        "admissionstartdate": "2000-08-12 10:33:35.400",
+        "admissionenddate": "2000-08-18 00:39:25.547"
+    },
+    {
+        "patientid": "D08C05C9-CD71-4BD6-A298-73FF5DE43C45",
+        "admissionid": "3",
+        "admissionstartdate": "2003-07-14 22:27:29.167",
+        "admissionenddate": "2003-07-23 12:28:15.477"
+    },
+    {
+        "patientid": "D08C05C9-CD71-4BD6-A298-73FF5DE43C45",
+        "admissionid": "4",
+        "admissionstartdate": "2004-06-11 21:53:46.027",
+        "admissionenddate": "2004-06-20 02:38:35.580"
+    },
+    {
+        "patientid": "D08C05C9-CD71-4BD6-A298-73FF5DE43C45",
+        "admissionid": "5",
+        "admissionstartdate": "2009-09-06 08:20:18.230",
+        "admissionenddate": "2009-09-12 19:46:27.350"
+    },
+    {
+        "patientid": "D03C790F-27C1-470B-953B-B47DDAC5DDB4",
+        "admissionid": "1",
+        "admissionstartdate": "1961-12-21 16:59:16.803",
+        "admissionenddate": "1962-01-01 09:05:31.853"
+    },
+    {
+        "patientid": "D03C790F-27C1-470B-953B-B47DDAC5DDB4",
+        "admissionid": "2",
+        "admissionstartdate": "1988-08-28 10:17:15.083",
+        "admissionenddate": "1988-08-31 21:59:45.463"
+    },
+    {
+        "patientid": "D03C790F-27C1-470B-953B-B47DDAC5DDB4",
+        "admissionid": "3",
+        "admissionstartdate": "2002-05-26 02:17:57.530",
+        "admissionenddate": "2002-06-02 09:39:44.410"
+    },
+    {
+        "patientid": "D03C790F-27C1-470B-953B-B47DDAC5DDB4",
+        "admissionid": "4",
+        "admissionstartdate": "2007-01-14 06:29:09.200",
+        "admissionenddate": "2007-01-28 08:42:24.197"
+    },
+    {
+        "patientid": "D03C790F-27C1-470B-953B-B47DDAC5DDB4",
+        "admissionid": "5",
+        "admissionstartdate": "2007-03-24 14:26:55.777",
+        "admissionenddate": "2007-04-06 20:12:34.740"
+    },
+    {
+        "patientid": "D03C790F-27C1-470B-953B-B47DDAC5DDB4",
+        "admissionid": "6",
+        "admissionstartdate": "2010-08-30 02:27:20.877",
+        "admissionenddate": "2010-09-06 18:09:29.353"
+    },
+    {
+        "patientid": "A606C1A5-BA4B-4A2B-BE19-A0A70E381E66",
+        "admissionid": "1",
+        "admissionstartdate": "1998-06-11 14:40:26.887",
+        "admissionenddate": "1998-06-19 15:26:51.083"
+    },
+    {
+        "patientid": "A606C1A5-BA4B-4A2B-BE19-A0A70E381E66",
+        "admissionid": "2",
+        "admissionstartdate": "2002-10-26 02:04:38.090",
+        "admissionenddate": "2002-11-08 04:01:06.333"
+    },
+    {
+        "patientid": "A606C1A5-BA4B-4A2B-BE19-A0A70E381E66",
+        "admissionid": "3",
+        "admissionstartdate": "2011-04-14 00:45:27.910",
+        "admissionenddate": "2011-04-22 00:38:07.790"
+    },
+    {
+        "patientid": "1423B7E8-1915-4C6F-969D-9018D9715EAE",
+        "admissionid": "1",
+        "admissionstartdate": "1962-10-12 12:29:43.920",
+        "admissionenddate": "1962-10-23 07:16:18.990"
+    },
+    {
+        "patientid": "1423B7E8-1915-4C6F-969D-9018D9715EAE",
+        "admissionid": "2",
+        "admissionstartdate": "1996-10-28 17:02:30.453",
+        "admissionenddate": "1996-11-06 19:28:19.777"
+    },
+    {
+        "patientid": "1423B7E8-1915-4C6F-969D-9018D9715EAE",
+        "admissionid": "3",
+        "admissionstartdate": "2005-11-18 02:29:51.417",
+        "admissionenddate": "2005-12-03 09:16:07.893"
+    },
+    {
+        "patientid": "1423B7E8-1915-4C6F-969D-9018D9715EAE",
+        "admissionid": "4",
+        "admissionstartdate": "2009-08-25 04:15:57.230",
+        "admissionenddate": "2009-08-31 21:44:14.620"
+    },
+    {
+        "patientid": "33AF05CA-A437-4854-90C4-82A9370651BE",
+        "admissionid": "1",
+        "admissionstartdate": "1961-03-11 05:57:58.910",
+        "admissionenddate": "1961-03-17 01:21:59.643"
+    },
+    {
+        "patientid": "33AF05CA-A437-4854-90C4-82A9370651BE",
+        "admissionid": "2",
+        "admissionstartdate": "1977-12-18 09:51:36.207",
+        "admissionenddate": "1978-01-05 04:33:01.820"
+    },
+    {
+        "patientid": "33AF05CA-A437-4854-90C4-82A9370651BE",
+        "admissionid": "3",
+        "admissionstartdate": "1979-02-02 15:33:59.420",
+        "admissionenddate": "1979-02-13 21:01:25.687"
+    },
+    {
+        "patientid": "33AF05CA-A437-4854-90C4-82A9370651BE",
+        "admissionid": "4",
+        "admissionstartdate": "1989-08-19 17:04:59.277",
+        "admissionenddate": "1989-08-23 13:18:48.477"
+    },
+    {
+        "patientid": "33AF05CA-A437-4854-90C4-82A9370651BE",
+        "admissionid": "5",
+        "admissionstartdate": "1994-07-12 12:21:27.813",
+        "admissionenddate": "1994-07-20 10:10:14.130"
+    },
+    {
+        "patientid": "33AF05CA-A437-4854-90C4-82A9370651BE",
+        "admissionid": "6",
+        "admissionstartdate": "2012-09-30 13:40:40.573",
+        "admissionenddate": "2012-10-06 00:41:08.573"
+    },
+    {
+        "patientid": "8C2C7775-1999-4A29-88E1-278FB712F449",
+        "admissionid": "1",
+        "admissionstartdate": "1993-03-01 00:50:26.657",
+        "admissionenddate": "1993-03-08 05:33:41.487"
+    },
+    {
+        "patientid": "8C2C7775-1999-4A29-88E1-278FB712F449",
+        "admissionid": "2",
+        "admissionstartdate": "2002-12-08 09:47:51.277",
+        "admissionenddate": "2002-12-11 17:07:23.473"
+    },
+    {
+        "patientid": "8C2C7775-1999-4A29-88E1-278FB712F449",
+        "admissionid": "3",
+        "admissionstartdate": "2009-10-22 01:23:15.350",
+        "admissionenddate": "2009-10-29 19:15:07.563"
+    },
+    {
+        "patientid": "C71A50BA-9A0D-4E73-B51F-73A570B21331",
+        "admissionid": "1",
+        "admissionstartdate": "1964-07-25 10:08:22.787",
+        "admissionenddate": "1964-08-09 06:44:04.303"
+    },
+    {
+        "patientid": "C71A50BA-9A0D-4E73-B51F-73A570B21331",
+        "admissionid": "2",
+        "admissionstartdate": "1995-12-01 02:28:00.770",
+        "admissionenddate": "1995-12-05 08:20:11.750"
+    },
+    {
+        "patientid": "C71A50BA-9A0D-4E73-B51F-73A570B21331",
+        "admissionid": "3",
+        "admissionstartdate": "2011-04-22 12:45:35.503",
+        "admissionenddate": "2011-05-05 15:52:19.610"
+    },
+    {
+        "patientid": "07BA93A1-FE95-4465-980B-B5F3A18DD488",
+        "admissionid": "1",
+        "admissionstartdate": "1979-05-14 23:23:13.147",
+        "admissionenddate": "1979-05-30 15:34:00.667"
+    },
+    {
+        "patientid": "07BA93A1-FE95-4465-980B-B5F3A18DD488",
+        "admissionid": "2",
+        "admissionstartdate": "1981-08-15 13:02:00.153",
+        "admissionenddate": "1981-08-19 17:54:49.090"
+    },
+    {
+        "patientid": "07BA93A1-FE95-4465-980B-B5F3A18DD488",
+        "admissionid": "3",
+        "admissionstartdate": "1999-07-21 17:04:41.733",
+        "admissionenddate": "1999-08-07 23:43:21.170"
+    },
+    {
+        "patientid": "07BA93A1-FE95-4465-980B-B5F3A18DD488",
+        "admissionid": "4",
+        "admissionstartdate": "2011-12-21 09:44:37.607",
+        "admissionenddate": "2012-01-06 12:42:34.110"
+    },
+    {
+        "patientid": "BD416EB5-9CCB-4CC0-A44B-67E15F1C7379",
+        "admissionid": "1",
+        "admissionstartdate": "1987-06-12 21:01:17.303",
+        "admissionenddate": "1987-06-20 07:12:13.757"
+    },
+    {
+        "patientid": "BD416EB5-9CCB-4CC0-A44B-67E15F1C7379",
+        "admissionid": "2",
+        "admissionstartdate": "2007-12-11 05:50:59.843",
+        "admissionenddate": "2007-12-17 06:39:01.343"
+    },
+    {
+        "patientid": "BD416EB5-9CCB-4CC0-A44B-67E15F1C7379",
+        "admissionid": "3",
+        "admissionstartdate": "2009-09-22 07:28:02.473",
+        "admissionenddate": "2009-09-26 22:49:35.200"
+    },
+    {
+        "patientid": "831D1344-6766-4B2C-8C3C-56B30B40B84A",
+        "admissionid": "1",
+        "admissionstartdate": "1957-12-08 13:39:13.243",
+        "admissionenddate": "1957-12-11 23:35:17.183"
+    },
+    {
+        "patientid": "831D1344-6766-4B2C-8C3C-56B30B40B84A",
+        "admissionid": "2",
+        "admissionstartdate": "1958-03-09 18:29:04.530",
+        "admissionenddate": "1958-03-25 05:11:53.573"
+    },
+    {
+        "patientid": "831D1344-6766-4B2C-8C3C-56B30B40B84A",
+        "admissionid": "3",
+        "admissionstartdate": "1965-03-02 23:32:51.813",
+        "admissionenddate": "1965-03-22 10:46:33.023"
+    },
+    {
+        "patientid": "831D1344-6766-4B2C-8C3C-56B30B40B84A",
+        "admissionid": "4",
+        "admissionstartdate": "1995-04-19 01:47:17.123",
+        "admissionenddate": "1995-05-02 13:29:49.383"
+    },
+    {
+        "patientid": "831D1344-6766-4B2C-8C3C-56B30B40B84A",
+        "admissionid": "5",
+        "admissionstartdate": "2002-09-20 22:38:57.450",
+        "admissionenddate": "2002-10-10 18:23:39.907"
+    },
+    {
+        "patientid": "831D1344-6766-4B2C-8C3C-56B30B40B84A",
+        "admissionid": "6",
+        "admissionstartdate": "2012-12-17 16:26:00.760",
+        "admissionenddate": "2012-12-30 13:50:39.570"
+    },
+    {
+        "patientid": "CD9D8EA7-1FD5-4367-A8B4-4CE395F84FB5",
+        "admissionid": "1",
+        "admissionstartdate": "1991-11-13 08:57:55.370",
+        "admissionenddate": "1991-11-19 16:28:28.677"
+    },
+    {
+        "patientid": "CD9D8EA7-1FD5-4367-A8B4-4CE395F84FB5",
+        "admissionid": "2",
+        "admissionstartdate": "2009-12-09 04:20:20.683",
+        "admissionenddate": "2009-12-25 18:42:23.313"
+    },
+    {
+        "patientid": "F3D3EA10-A2CD-4C74-9AF4-0CF692B0772F",
+        "admissionid": "1",
+        "admissionstartdate": "1985-11-16 00:17:34.007",
+        "admissionenddate": "1985-11-24 15:25:03.137"
+    },
+    {
+        "patientid": "F3D3EA10-A2CD-4C74-9AF4-0CF692B0772F",
+        "admissionid": "2",
+        "admissionstartdate": "1994-05-03 14:27:38.660",
+        "admissionenddate": "1994-05-18 07:01:56.447"
+    },
+    {
+        "patientid": "F3D3EA10-A2CD-4C74-9AF4-0CF692B0772F",
+        "admissionid": "3",
+        "admissionstartdate": "2000-09-27 14:33:20.680",
+        "admissionenddate": "2000-10-04 11:30:43.997"
+    },
+    {
+        "patientid": "F3D3EA10-A2CD-4C74-9AF4-0CF692B0772F",
+        "admissionid": "4",
+        "admissionstartdate": "2006-03-29 18:14:09.370",
+        "admissionenddate": "2006-04-04 03:16:44.673"
+    },
+    {
+        "patientid": "F3D3EA10-A2CD-4C74-9AF4-0CF692B0772F",
+        "admissionid": "5",
+        "admissionstartdate": "2009-11-05 14:00:08.223",
+        "admissionenddate": "2009-11-14 01:29:26.193"
+    },
+    {
+        "patientid": "CF33A08B-4CD5-4348-8D91-B4EBFD8DD251",
+        "admissionid": "1",
+        "admissionstartdate": "2002-07-21 13:08:37.813",
+        "admissionenddate": "2002-07-27 04:14:56.643"
+    },
+    {
+        "patientid": "CF33A08B-4CD5-4348-8D91-B4EBFD8DD251",
+        "admissionid": "2",
+        "admissionstartdate": "2009-03-13 08:38:36.660",
+        "admissionenddate": "2009-03-26 09:54:04.653"
+    },
+    {
+        "patientid": "64E21F44-8F9F-418D-8748-2FD4B7E572C1",
+        "admissionid": "1",
+        "admissionstartdate": "1989-07-15 09:01:50.087",
+        "admissionenddate": "1989-07-22 04:39:51.943"
+    },
+    {
+        "patientid": "64E21F44-8F9F-418D-8748-2FD4B7E572C1",
+        "admissionid": "2",
+        "admissionstartdate": "2006-07-15 04:17:01.727",
+        "admissionenddate": "2006-07-26 19:29:54.343"
+    },
+    {
+        "patientid": "64E21F44-8F9F-418D-8748-2FD4B7E572C1",
+        "admissionid": "3",
+        "admissionstartdate": "2011-03-28 06:58:36.063",
+        "admissionenddate": "2011-04-13 18:30:57.307"
+    },
+    {
+        "patientid": "3BAD79CE-66D8-4613-B5E0-D1716F28FE5E",
+        "admissionid": "1",
+        "admissionstartdate": "1976-05-27 08:05:36.363",
+        "admissionenddate": "1976-06-14 12:48:57.043"
+    },
+    {
+        "patientid": "3BAD79CE-66D8-4613-B5E0-D1716F28FE5E",
+        "admissionid": "2",
+        "admissionstartdate": "2012-12-08 04:22:09.140",
+        "admissionenddate": "2012-12-26 22:11:50.553"
+    },
+    {
+        "patientid": "E8CB0A3C-7A7A-4A03-A2BF-C3BA57AF9E9F",
+        "admissionid": "1",
+        "admissionstartdate": "1997-04-06 12:54:34.670",
+        "admissionenddate": "1997-04-24 16:29:48.460"
+    },
+    {
+        "patientid": "E8CB0A3C-7A7A-4A03-A2BF-C3BA57AF9E9F",
+        "admissionid": "2",
+        "admissionstartdate": "2002-09-08 17:18:17.713",
+        "admissionenddate": "2002-09-12 01:50:27.527"
+    },
+    {
+        "patientid": "E8CB0A3C-7A7A-4A03-A2BF-C3BA57AF9E9F",
+        "admissionid": "3",
+        "admissionstartdate": "2004-01-04 14:59:07.797",
+        "admissionenddate": "2004-01-24 00:16:27.100"
+    },
+    {
+        "patientid": "E8CB0A3C-7A7A-4A03-A2BF-C3BA57AF9E9F",
+        "admissionid": "4",
+        "admissionstartdate": "2005-04-16 15:19:45.477",
+        "admissionenddate": "2005-04-30 22:33:01.697"
+    },
+    {
+        "patientid": "E8CB0A3C-7A7A-4A03-A2BF-C3BA57AF9E9F",
+        "admissionid": "5",
+        "admissionstartdate": "2012-06-18 14:39:36.477",
+        "admissionenddate": "2012-07-04 01:02:20.080"
+    },
+    {
+        "patientid": "9343111E-2147-4297-A773-41BC6DC53362",
+        "admissionid": "1",
+        "admissionstartdate": "1998-09-25 20:23:52.707",
+        "admissionenddate": "1998-10-05 15:38:30.347"
+    },
+    {
+        "patientid": "9343111E-2147-4297-A773-41BC6DC53362",
+        "admissionid": "2",
+        "admissionstartdate": "2011-10-07 09:42:57.457",
+        "admissionenddate": "2011-10-20 23:40:52.773"
+    },
+    {
+        "patientid": "D601D9E7-EFD9-4509-92A9-BBEB9932D6C6",
+        "admissionid": "1",
+        "admissionstartdate": "1974-03-24 18:24:26.680",
+        "admissionenddate": "1974-04-01 14:04:31.497"
+    },
+    {
+        "patientid": "D601D9E7-EFD9-4509-92A9-BBEB9932D6C6",
+        "admissionid": "2",
+        "admissionstartdate": "1998-09-21 07:31:54.503",
+        "admissionenddate": "1998-10-08 00:16:03.437"
+    },
+    {
+        "patientid": "D601D9E7-EFD9-4509-92A9-BBEB9932D6C6",
+        "admissionid": "3",
+        "admissionstartdate": "2001-11-06 08:36:52.723",
+        "admissionenddate": "2001-11-22 03:46:01.540"
+    },
+    {
+        "patientid": "D601D9E7-EFD9-4509-92A9-BBEB9932D6C6",
+        "admissionid": "4",
+        "admissionstartdate": "2008-03-05 15:06:18.143",
+        "admissionenddate": "2008-03-15 07:52:12.220"
+    },
+    {
+        "patientid": "7A88F044-CDCD-41E8-A827-D8EFBC05A697",
+        "admissionid": "1",
+        "admissionstartdate": "2000-07-13 08:09:17.917",
+        "admissionenddate": "2000-07-29 19:20:05.360"
+    },
+    {
+        "patientid": "7A88F044-CDCD-41E8-A827-D8EFBC05A697",
+        "admissionid": "2",
+        "admissionstartdate": "2006-11-02 00:27:29.220",
+        "admissionenddate": "2006-11-17 03:09:59.077"
+    },
+    {
+        "patientid": "7A88F044-CDCD-41E8-A827-D8EFBC05A697",
+        "admissionid": "3",
+        "admissionstartdate": "2012-04-10 13:31:20.810",
+        "admissionenddate": "2012-04-15 18:09:52.177"
+    },
+    {
+        "patientid": "BDFE5EB2-9F60-4D4B-BD08-8FFC7D664834",
+        "admissionid": "1",
+        "admissionstartdate": "1993-01-08 17:51:48.430",
+        "admissionenddate": "1993-01-11 15:37:18.483"
+    },
+    {
+        "patientid": "BDFE5EB2-9F60-4D4B-BD08-8FFC7D664834",
+        "admissionid": "2",
+        "admissionstartdate": "1995-01-21 12:23:56.323",
+        "admissionenddate": "1995-02-05 09:42:43.313"
+    },
+    {
+        "patientid": "BDFE5EB2-9F60-4D4B-BD08-8FFC7D664834",
+        "admissionid": "3",
+        "admissionstartdate": "2001-09-25 01:10:53.293",
+        "admissionenddate": "2001-10-03 21:41:49.990"
+    },
+    {
+        "patientid": "BDFE5EB2-9F60-4D4B-BD08-8FFC7D664834",
+        "admissionid": "4",
+        "admissionstartdate": "2009-10-24 04:07:36.527",
+        "admissionenddate": "2009-11-03 03:56:02.303"
+    },
+    {
+        "patientid": "E40EF8AB-C9AE-435F-A9B4-7CC497AC4F14",
+        "admissionid": "1",
+        "admissionstartdate": "1960-09-22 02:51:35.227",
+        "admissionenddate": "1960-09-30 19:29:59.417"
+    },
+    {
+        "patientid": "E40EF8AB-C9AE-435F-A9B4-7CC497AC4F14",
+        "admissionid": "2",
+        "admissionstartdate": "1963-12-20 11:05:58.143",
+        "admissionenddate": "1964-01-01 15:20:29.927"
+    },
+    {
+        "patientid": "E40EF8AB-C9AE-435F-A9B4-7CC497AC4F14",
+        "admissionid": "3",
+        "admissionstartdate": "1974-12-24 17:46:24.983",
+        "admissionenddate": "1975-01-08 17:38:05.553"
+    },
+    {
+        "patientid": "E40EF8AB-C9AE-435F-A9B4-7CC497AC4F14",
+        "admissionid": "4",
+        "admissionstartdate": "1985-05-10 11:36:54.027",
+        "admissionenddate": "1985-05-28 11:29:52.190"
+    },
+    {
+        "patientid": "E40EF8AB-C9AE-435F-A9B4-7CC497AC4F14",
+        "admissionid": "5",
+        "admissionstartdate": "2011-01-11 15:30:04.863",
+        "admissionenddate": "2011-01-14 14:36:35.280"
+    },
+    {
+        "patientid": "95EA3ACB-1F18-4A10-881F-A1EAED879E48",
+        "admissionid": "1",
+        "admissionstartdate": "1944-11-30 10:00:20.300",
+        "admissionenddate": "1944-12-03 20:49:44.077"
+    },
+    {
+        "patientid": "95EA3ACB-1F18-4A10-881F-A1EAED879E48",
+        "admissionid": "2",
+        "admissionstartdate": "1994-08-10 10:12:39.297",
+        "admissionenddate": "1994-08-19 15:46:58.567"
+    },
+    {
+        "patientid": "95EA3ACB-1F18-4A10-881F-A1EAED879E48",
+        "admissionid": "3",
+        "admissionstartdate": "1997-10-28 04:56:32.867",
+        "admissionenddate": "1997-11-15 07:01:21.210"
+    },
+    {
+        "patientid": "95EA3ACB-1F18-4A10-881F-A1EAED879E48",
+        "admissionid": "4",
+        "admissionstartdate": "2008-03-24 02:47:42.020",
+        "admissionenddate": "2008-03-30 06:52:17.393"
+    },
+    {
+        "patientid": "5A64F1AA-8EFF-4408-9D1B-70986FCCDEE5",
+        "admissionid": "1",
+        "admissionstartdate": "1943-12-12 14:58:13.367",
+        "admissionenddate": "1943-12-24 17:26:50.490"
+    },
+    {
+        "patientid": "5A64F1AA-8EFF-4408-9D1B-70986FCCDEE5",
+        "admissionid": "2",
+        "admissionstartdate": "2005-09-04 06:17:27.487",
+        "admissionenddate": "2005-09-15 22:51:12.127"
+    },
+    {
+        "patientid": "5A64F1AA-8EFF-4408-9D1B-70986FCCDEE5",
+        "admissionid": "3",
+        "admissionstartdate": "2009-11-20 04:02:51.750",
+        "admissionenddate": "2009-11-29 07:52:39.117"
+    },
+    {
+        "patientid": "18B9D801-7832-4905-A68F-204A97805B97",
+        "admissionid": "1",
+        "admissionstartdate": "2008-09-18 04:26:37.323",
+        "admissionenddate": "2008-10-07 10:35:21.413"
+    },
+    {
+        "patientid": "861AF413-9BAE-4376-B753-0CD032B53F5F",
+        "admissionid": "1",
+        "admissionstartdate": "1990-03-15 20:18:54.320",
+        "admissionenddate": "1990-04-02 16:13:29.477"
+    },
+    {
+        "patientid": "861AF413-9BAE-4376-B753-0CD032B53F5F",
+        "admissionid": "2",
+        "admissionstartdate": "2004-12-09 13:34:02.757",
+        "admissionenddate": "2004-12-29 00:24:04.550"
+    },
+    {
+        "patientid": "861AF413-9BAE-4376-B753-0CD032B53F5F",
+        "admissionid": "3",
+        "admissionstartdate": "2005-07-06 20:49:29.790",
+        "admissionenddate": "2005-07-18 10:45:56.490"
+    },
+    {
+        "patientid": "861AF413-9BAE-4376-B753-0CD032B53F5F",
+        "admissionid": "4",
+        "admissionstartdate": "2012-06-17 15:02:18.423",
+        "admissionenddate": "2012-06-26 03:11:45.810"
+    },
+    {
+        "patientid": "1F56BA5E-6931-4B34-9B0D-0424257A351B",
+        "admissionid": "1",
+        "admissionstartdate": "1981-04-26 22:35:08.073",
+        "admissionenddate": "1981-05-03 14:42:13.823"
+    },
+    {
+        "patientid": "1F56BA5E-6931-4B34-9B0D-0424257A351B",
+        "admissionid": "2",
+        "admissionstartdate": "2005-04-02 14:23:18.573",
+        "admissionenddate": "2005-04-16 07:19:44.747"
+    },
+    {
+        "patientid": "1F56BA5E-6931-4B34-9B0D-0424257A351B",
+        "admissionid": "3",
+        "admissionstartdate": "2009-06-25 05:55:30.387",
+        "admissionenddate": "2009-07-12 10:12:34.230"
+    },
+    {
+        "patientid": "F00B21C8-6B5C-4114-917E-49A892E4E672",
+        "admissionid": "1",
+        "admissionstartdate": "1947-11-04 22:35:01.517",
+        "admissionenddate": "1947-11-09 00:08:53.850"
+    },
+    {
+        "patientid": "F00B21C8-6B5C-4114-917E-49A892E4E672",
+        "admissionid": "2",
+        "admissionstartdate": "2004-11-14 01:09:10.430",
+        "admissionenddate": "2004-11-24 03:26:14.410"
+    },
+    {
+        "patientid": "F00B21C8-6B5C-4114-917E-49A892E4E672",
+        "admissionid": "3",
+        "admissionstartdate": "2007-12-09 00:08:54.680",
+        "admissionenddate": "2007-12-25 09:56:50.623"
+    },
+    {
+        "patientid": "F00B21C8-6B5C-4114-917E-49A892E4E672",
+        "admissionid": "4",
+        "admissionstartdate": "2010-03-28 00:17:25.543",
+        "admissionenddate": "2010-04-01 00:59:15.493"
+    },
+    {
+        "patientid": "6AFDBE16-0D00-459D-84AB-460E3330E353",
+        "admissionid": "1",
+        "admissionstartdate": "2000-06-12 17:53:02.487",
+        "admissionenddate": "2000-06-18 11:21:19.493"
+    },
+    {
+        "patientid": "6AFDBE16-0D00-459D-84AB-460E3330E353",
+        "admissionid": "2",
+        "admissionstartdate": "2000-11-16 07:44:04.177",
+        "admissionenddate": "2000-11-20 19:33:13.740"
+    },
+    {
+        "patientid": "6AFDBE16-0D00-459D-84AB-460E3330E353",
+        "admissionid": "3",
+        "admissionstartdate": "2001-02-03 17:11:11.853",
+        "admissionenddate": "2001-02-08 12:02:21.323"
+    },
+    {
+        "patientid": "6AFDBE16-0D00-459D-84AB-460E3330E353",
+        "admissionid": "4",
+        "admissionstartdate": "2007-08-28 21:39:21.787",
+        "admissionenddate": "2007-09-06 22:18:28.373"
+    },
+    {
+        "patientid": "6AFDBE16-0D00-459D-84AB-460E3330E353",
+        "admissionid": "5",
+        "admissionstartdate": "2011-12-09 22:09:31.663",
+        "admissionenddate": "2011-12-23 20:50:02.377"
+    },
+    {
+        "patientid": "6633F954-641C-41B5-A457-4A3F913398A6",
+        "admissionid": "1",
+        "admissionstartdate": "1962-10-28 13:48:47.013",
+        "admissionenddate": "1962-11-04 08:22:05.433"
+    },
+    {
+        "patientid": "6633F954-641C-41B5-A457-4A3F913398A6",
+        "admissionid": "2",
+        "admissionstartdate": "1990-08-03 11:15:09.103",
+        "admissionenddate": "1990-08-12 12:46:47.570"
+    },
+    {
+        "patientid": "6633F954-641C-41B5-A457-4A3F913398A6",
+        "admissionid": "3",
+        "admissionstartdate": "1996-01-25 22:43:09.257",
+        "admissionenddate": "1996-02-14 04:59:46.670"
+    },
+    {
+        "patientid": "6633F954-641C-41B5-A457-4A3F913398A6",
+        "admissionid": "4",
+        "admissionstartdate": "2012-11-01 12:57:14.573",
+        "admissionenddate": "2012-11-18 08:11:26.340"
+    },
+    {
+        "patientid": "74376F32-AAEC-406F-951C-22C763B97AAF",
+        "admissionid": "1",
+        "admissionstartdate": "1968-01-14 20:26:22.007",
+        "admissionenddate": "1968-01-23 11:31:54.073"
+    },
+    {
+        "patientid": "74376F32-AAEC-406F-951C-22C763B97AAF",
+        "admissionid": "2",
+        "admissionstartdate": "1968-05-25 22:14:57.170",
+        "admissionenddate": "1968-06-13 08:54:42.720"
+    },
+    {
+        "patientid": "74376F32-AAEC-406F-951C-22C763B97AAF",
+        "admissionid": "3",
+        "admissionstartdate": "1974-08-20 02:08:51.667",
+        "admissionenddate": "1974-08-22 16:44:48.213"
+    },
+    {
+        "patientid": "74376F32-AAEC-406F-951C-22C763B97AAF",
+        "admissionid": "4",
+        "admissionstartdate": "2001-01-27 06:51:43.633",
+        "admissionenddate": "2001-02-07 16:15:36.790"
+    },
+    {
+        "patientid": "74376F32-AAEC-406F-951C-22C763B97AAF",
+        "admissionid": "5",
+        "admissionstartdate": "2005-12-08 09:47:08.947",
+        "admissionenddate": "2005-12-24 10:21:39.907"
+    },
+    {
+        "patientid": "74376F32-AAEC-406F-951C-22C763B97AAF",
+        "admissionid": "6",
+        "admissionstartdate": "2010-08-22 21:13:28.030",
+        "admissionenddate": "2010-08-27 02:04:59.467"
+    },
+    {
+        "patientid": "14FEF630-F05A-4B59-9A2F-0B16F274F625",
+        "admissionid": "1",
+        "admissionstartdate": "1963-05-30 18:54:17.583",
+        "admissionenddate": "1963-06-06 21:46:21.227"
+    },
+    {
+        "patientid": "14FEF630-F05A-4B59-9A2F-0B16F274F625",
+        "admissionid": "2",
+        "admissionstartdate": "1988-10-07 14:57:52.670",
+        "admissionenddate": "1988-10-10 15:13:09.717"
+    },
+    {
+        "patientid": "14FEF630-F05A-4B59-9A2F-0B16F274F625",
+        "admissionid": "3",
+        "admissionstartdate": "1988-11-03 17:16:23.690",
+        "admissionenddate": "1988-11-13 14:37:44.933"
+    },
+    {
+        "patientid": "AEFDC4C3-E646-4C1D-96A8-1E1AE0874FA1",
+        "admissionid": "3",
+        "admissionstartdate": "1986-01-14 10:10:28.093",
+        "admissionenddate": "1986-02-02 19:06:43.253"
+    },
+    {
+        "patientid": "AEFDC4C3-E646-4C1D-96A8-1E1AE0874FA1",
+        "admissionid": "4",
+        "admissionstartdate": "1989-06-14 17:05:15.737",
+        "admissionenddate": "1989-06-29 06:59:13.997"
+    },
+    {
+        "patientid": "AEFDC4C3-E646-4C1D-96A8-1E1AE0874FA1",
+        "admissionid": "5",
+        "admissionstartdate": "1990-06-04 13:35:18.217",
+        "admissionenddate": "1990-06-07 00:03:08.827"
+    },
+    {
+        "patientid": "AEFDC4C3-E646-4C1D-96A8-1E1AE0874FA1",
+        "admissionid": "6",
+        "admissionstartdate": "2010-08-30 20:20:08.390",
+        "admissionenddate": "2010-09-18 08:39:29.493"
+    },
+    {
+        "patientid": "565A149F-8607-4A9D-9B1A-797A34F9D58E",
+        "admissionid": "1",
+        "admissionstartdate": "1968-02-16 04:42:01.953",
+        "admissionenddate": "1968-02-28 22:44:56.103"
+    },
+    {
+        "patientid": "565A149F-8607-4A9D-9B1A-797A34F9D58E",
+        "admissionid": "2",
+        "admissionstartdate": "1969-05-14 18:04:07.740",
+        "admissionenddate": "1969-05-17 14:04:30.870"
+    },
+    {
+        "patientid": "565A149F-8607-4A9D-9B1A-797A34F9D58E",
+        "admissionid": "3",
+        "admissionstartdate": "1972-08-19 12:55:06.590",
+        "admissionenddate": "1972-08-26 17:52:51.020"
+    },
+    {
+        "patientid": "565A149F-8607-4A9D-9B1A-797A34F9D58E",
+        "admissionid": "4",
+        "admissionstartdate": "1978-09-05 17:55:31.640",
+        "admissionenddate": "1978-09-14 10:17:05.917"
+    },
+    {
+        "patientid": "565A149F-8607-4A9D-9B1A-797A34F9D58E",
+        "admissionid": "5",
+        "admissionstartdate": "2012-04-25 07:53:40.020",
+        "admissionenddate": "2012-05-07 18:13:58.500"
+    },
+    {
+        "patientid": "80544005-158E-4801-AE45-95517FBEDE39",
+        "admissionid": "1",
+        "admissionstartdate": "1996-01-07 13:11:53.097",
+        "admissionenddate": "1996-01-13 13:43:00.310"
+    },
+    {
+        "patientid": "80544005-158E-4801-AE45-95517FBEDE39",
+        "admissionid": "2",
+        "admissionstartdate": "2011-09-15 18:25:51.170",
+        "admissionenddate": "2011-09-30 16:42:24.210"
+    },
+    {
+        "patientid": "E471DB0B-F5AD-4E49-A669-FE835D663A95",
+        "admissionid": "1",
+        "admissionstartdate": "1998-11-24 22:19:45.923",
+        "admissionenddate": "1998-12-10 20:15:56.227"
+    },
+    {
+        "patientid": "E471DB0B-F5AD-4E49-A669-FE835D663A95",
+        "admissionid": "2",
+        "admissionstartdate": "2007-08-22 11:12:03.767",
+        "admissionenddate": "2007-08-28 23:44:39.817"
+    },
+    {
+        "patientid": "E471DB0B-F5AD-4E49-A669-FE835D663A95",
+        "admissionid": "3",
+        "admissionstartdate": "2009-03-26 16:32:57.317",
+        "admissionenddate": "2009-04-05 10:30:30.823"
+    },
+    {
+        "patientid": "2A3F5964-9D37-42AF-B21D-122A7ACA0182",
+        "admissionid": "1",
+        "admissionstartdate": "1965-12-28 18:11:18.117",
+        "admissionenddate": "1966-01-11 11:57:26.783"
+    },
+    {
+        "patientid": "2A3F5964-9D37-42AF-B21D-122A7ACA0182",
+        "admissionid": "2",
+        "admissionstartdate": "2011-08-09 12:51:32.483",
+        "admissionenddate": "2011-08-25 01:40:00.077"
+    },
+    {
+        "patientid": "18407B0E-F754-41C6-9F7D-A53FBDFA16B3",
+        "admissionid": "1",
+        "admissionstartdate": "1954-03-21 00:48:33.877",
+        "admissionenddate": "1954-04-06 23:18:48.360"
+    },
+    {
+        "patientid": "18407B0E-F754-41C6-9F7D-A53FBDFA16B3",
+        "admissionid": "2",
+        "admissionstartdate": "1959-02-05 15:56:44.600",
+        "admissionenddate": "1959-02-13 22:45:42.157"
+    },
+    {
+        "patientid": "18407B0E-F754-41C6-9F7D-A53FBDFA16B3",
+        "admissionid": "3",
+        "admissionstartdate": "2000-02-28 13:45:25.540",
+        "admissionenddate": "2000-03-15 16:42:47.507"
+    },
+    {
+        "patientid": "18407B0E-F754-41C6-9F7D-A53FBDFA16B3",
+        "admissionid": "4",
+        "admissionstartdate": "2002-09-09 02:52:30.970",
+        "admissionenddate": "2002-09-21 10:22:12.540"
+    },
+    {
+        "patientid": "18407B0E-F754-41C6-9F7D-A53FBDFA16B3",
+        "admissionid": "5",
+        "admissionstartdate": "2003-09-13 01:53:56.243",
+        "admissionenddate": "2003-09-25 05:55:34.700"
+    },
+    {
+        "patientid": "18407B0E-F754-41C6-9F7D-A53FBDFA16B3",
+        "admissionid": "6",
+        "admissionstartdate": "2006-06-29 06:42:05.020",
+        "admissionenddate": "2006-07-07 05:56:50.040"
+    },
+    {
+        "patientid": "18407B0E-F754-41C6-9F7D-A53FBDFA16B3",
+        "admissionid": "7",
+        "admissionstartdate": "2011-12-02 15:42:39.110",
+        "admissionenddate": "2011-12-11 17:27:17.990"
+    },
+    {
+        "patientid": "B9BA1A2D-F90F-42D8-BE24-306766E5714E",
+        "admissionid": "1",
+        "admissionstartdate": "1990-11-30 11:41:56.473",
+        "admissionenddate": "1990-12-06 23:51:09.413"
+    },
+    {
+        "patientid": "B9BA1A2D-F90F-42D8-BE24-306766E5714E",
+        "admissionid": "2",
+        "admissionstartdate": "2000-07-03 00:07:26.323",
+        "admissionenddate": "2000-07-14 16:18:10.863"
+    },
+    {
+        "patientid": "B9BA1A2D-F90F-42D8-BE24-306766E5714E",
+        "admissionid": "3",
+        "admissionstartdate": "2009-12-15 15:35:17.583",
+        "admissionenddate": "2009-12-25 19:40:45.330"
+    },
+    {
+        "patientid": "C1DE44C6-53F2-44B3-A853-57B86B7842E3",
+        "admissionid": "1",
+        "admissionstartdate": "1974-04-09 08:25:12.363",
+        "admissionenddate": "1974-04-27 06:52:24.287"
+    },
+    {
+        "patientid": "C1DE44C6-53F2-44B3-A853-57B86B7842E3",
+        "admissionid": "2",
+        "admissionstartdate": "2005-08-05 21:15:14.623",
+        "admissionenddate": "2005-08-14 17:23:41.517"
+    },
+    {
+        "patientid": "C1DE44C6-53F2-44B3-A853-57B86B7842E3",
+        "admissionid": "3",
+        "admissionstartdate": "2006-02-21 04:07:03.133",
+        "admissionenddate": "2006-03-01 11:57:23.933"
+    },
+    {
+        "patientid": "C1DE44C6-53F2-44B3-A853-57B86B7842E3",
+        "admissionid": "4",
+        "admissionstartdate": "2006-09-23 10:03:57.613",
+        "admissionenddate": "2006-10-09 14:24:00.993"
+    },
+    {
+        "patientid": "C1DE44C6-53F2-44B3-A853-57B86B7842E3",
+        "admissionid": "5",
+        "admissionstartdate": "2011-05-01 12:05:11.880",
+        "admissionenddate": "2011-05-11 21:20:27.813"
+    },
+    {
+        "patientid": "EB22788E-0A67-42F0-9808-16A9CD612B96",
+        "admissionid": "1",
+        "admissionstartdate": "1946-04-07 14:57:38.327",
+        "admissionenddate": "1946-04-20 08:59:02.673"
+    },
+    {
+        "patientid": "EB22788E-0A67-42F0-9808-16A9CD612B96",
+        "admissionid": "2",
+        "admissionstartdate": "1988-02-18 22:48:53.260",
+        "admissionenddate": "1988-02-25 21:30:20.757"
+    },
+    {
+        "patientid": "EB22788E-0A67-42F0-9808-16A9CD612B96",
+        "admissionid": "3",
+        "admissionstartdate": "1998-11-13 02:15:37.437",
+        "admissionenddate": "1998-11-19 11:53:30.643"
+    },
+    {
+        "patientid": "EB22788E-0A67-42F0-9808-16A9CD612B96",
+        "admissionid": "4",
+        "admissionstartdate": "2001-10-26 18:29:45.480",
+        "admissionenddate": "2001-11-12 04:04:27.293"
+    },
+    {
+        "patientid": "EB22788E-0A67-42F0-9808-16A9CD612B96",
+        "admissionid": "5",
+        "admissionstartdate": "2008-08-28 20:38:09.190",
+        "admissionenddate": "2008-09-03 09:01:55.947"
+    },
+    {
+        "patientid": "C8DF78D3-A9BF-4315-98D3-11616ECB10E2",
+        "admissionid": "1",
+        "admissionstartdate": "1979-04-13 13:06:44.193",
+        "admissionenddate": "1979-04-26 16:02:17.873"
+    },
+    {
+        "patientid": "C8DF78D3-A9BF-4315-98D3-11616ECB10E2",
+        "admissionid": "2",
+        "admissionstartdate": "1983-09-12 00:25:40.237",
+        "admissionenddate": "1983-09-20 11:23:11.723"
+    },
+    {
+        "patientid": "C8DF78D3-A9BF-4315-98D3-11616ECB10E2",
+        "admissionid": "3",
+        "admissionstartdate": "1996-01-26 23:32:46.930",
+        "admissionenddate": "1996-02-08 03:28:13.437"
+    },
+    {
+        "patientid": "C8DF78D3-A9BF-4315-98D3-11616ECB10E2",
+        "admissionid": "4",
+        "admissionstartdate": "2011-12-29 02:49:06.173",
+        "admissionenddate": "2012-01-04 04:09:00.473"
+    },
+    {
+        "patientid": "3D5D37C1-0DAA-497D-BCAB-F0C6B50589EF",
+        "admissionid": "1",
+        "admissionstartdate": "1981-03-01 20:27:22.313",
+        "admissionenddate": "1981-03-04 14:55:43.563"
+    },
+    {
+        "patientid": "3D5D37C1-0DAA-497D-BCAB-F0C6B50589EF",
+        "admissionid": "2",
+        "admissionstartdate": "2012-11-28 12:25:49.827",
+        "admissionenddate": "2012-12-01 06:03:47.580"
+    },
+    {
+        "patientid": "145390F5-1CC7-4878-B52F-D25D6D5B7D9B",
+        "admissionid": "1",
+        "admissionstartdate": "1971-03-21 00:22:41.427",
+        "admissionenddate": "1971-04-01 07:25:47.710"
+    },
+    {
+        "patientid": "145390F5-1CC7-4878-B52F-D25D6D5B7D9B",
+        "admissionid": "2",
+        "admissionstartdate": "1986-09-25 14:15:02.710",
+        "admissionenddate": "1986-10-10 17:40:50.910"
+    },
+    {
+        "patientid": "145390F5-1CC7-4878-B52F-D25D6D5B7D9B",
+        "admissionid": "3",
+        "admissionstartdate": "1987-05-08 15:06:45.103",
+        "admissionenddate": "1987-05-23 06:26:00.390"
+    },
+    {
+        "patientid": "145390F5-1CC7-4878-B52F-D25D6D5B7D9B",
+        "admissionid": "4",
+        "admissionstartdate": "1994-07-30 02:30:15.507",
+        "admissionenddate": "1994-08-08 11:40:43.367"
+    },
+    {
+        "patientid": "145390F5-1CC7-4878-B52F-D25D6D5B7D9B",
+        "admissionid": "5",
+        "admissionstartdate": "2007-07-24 06:39:36.220",
+        "admissionenddate": "2007-08-02 13:49:02.050"
+    },
+    {
+        "patientid": "145390F5-1CC7-4878-B52F-D25D6D5B7D9B",
+        "admissionid": "6",
+        "admissionstartdate": "2012-02-23 19:14:06.873",
+        "admissionenddate": "2012-03-08 02:29:42.803"
+    },
+    {
+        "patientid": "F64D74BA-BF6E-4255-A3A3-6C2526208F99",
+        "admissionid": "1",
+        "admissionstartdate": "1944-06-13 16:52:30.780",
+        "admissionenddate": "1944-06-28 07:01:17.187"
+    },
+    {
+        "patientid": "F64D74BA-BF6E-4255-A3A3-6C2526208F99",
+        "admissionid": "2",
+        "admissionstartdate": "1992-10-04 18:06:47.587",
+        "admissionenddate": "1992-10-16 19:11:57.737"
+    },
+    {
+        "patientid": "F64D74BA-BF6E-4255-A3A3-6C2526208F99",
+        "admissionid": "3",
+        "admissionstartdate": "2012-03-27 08:05:57.493",
+        "admissionenddate": "2012-04-11 05:28:38.677"
+    },
+    {
+        "patientid": "7FC71DB3-F400-40F0-9AE2-96CE06D7C9BA",
+        "admissionid": "1",
+        "admissionstartdate": "1965-10-14 11:34:43.593",
+        "admissionenddate": "1965-10-27 21:12:16.320"
+    },
+    {
+        "patientid": "7FC71DB3-F400-40F0-9AE2-96CE06D7C9BA",
+        "admissionid": "2",
+        "admissionstartdate": "2009-08-07 03:16:50.863",
+        "admissionenddate": "2009-08-19 05:13:59.890"
+    },
+    {
+        "patientid": "5264C0F0-B53A-4E82-8FB9-4FE88ABA68A2",
+        "admissionid": "1",
+        "admissionstartdate": "1952-10-19 02:52:23.473",
+        "admissionenddate": "1952-11-03 20:37:14.660"
+    },
+    {
+        "patientid": "5264C0F0-B53A-4E82-8FB9-4FE88ABA68A2",
+        "admissionid": "2",
+        "admissionstartdate": "1998-04-22 12:06:06.793",
+        "admissionenddate": "1998-05-02 14:24:07.900"
+    },
+    {
+        "patientid": "5264C0F0-B53A-4E82-8FB9-4FE88ABA68A2",
+        "admissionid": "3",
+        "admissionstartdate": "2012-05-23 09:53:34.390",
+        "admissionenddate": "2012-06-03 11:44:11.517"
+    },
+    {
+        "patientid": "DFDF22D4-BD6B-479D-A4A1-60555D0671A2",
+        "admissionid": "1",
+        "admissionstartdate": "1995-10-18 12:36:07.823",
+        "admissionenddate": "1995-11-04 22:05:38.600"
+    },
+    {
+        "patientid": "DFDF22D4-BD6B-479D-A4A1-60555D0671A2",
+        "admissionid": "2",
+        "admissionstartdate": "2004-05-19 13:44:27.310",
+        "admissionenddate": "2004-06-02 23:06:22.487"
+    },
+    {
+        "patientid": "DFDF22D4-BD6B-479D-A4A1-60555D0671A2",
+        "admissionid": "3",
+        "admissionstartdate": "2008-06-13 16:37:43.270",
+        "admissionenddate": "2008-06-21 01:30:24.333"
+    },
+    {
+        "patientid": "51B00D4A-59A0-4835-B933-3B934CE615C7",
+        "admissionid": "1",
+        "admissionstartdate": "1996-06-25 07:12:01.680",
+        "admissionenddate": "1996-06-29 07:03:15.520"
+    },
+    {
+        "patientid": "51B00D4A-59A0-4835-B933-3B934CE615C7",
+        "admissionid": "2",
+        "admissionstartdate": "2011-06-03 00:44:36.637",
+        "admissionenddate": "2011-06-17 15:26:11.433"
+    },
+    {
+        "patientid": "2B8CCBA9-10EF-4377-A05F-F071B3230A4A",
+        "admissionid": "1",
+        "admissionstartdate": "1945-06-25 01:13:16.827",
+        "admissionenddate": "1945-07-06 03:24:03.790"
+    },
+    {
+        "patientid": "2B8CCBA9-10EF-4377-A05F-F071B3230A4A",
+        "admissionid": "2",
+        "admissionstartdate": "1980-08-05 17:03:21.973",
+        "admissionenddate": "1980-08-11 07:13:39.727"
+    },
+    {
+        "patientid": "2B8CCBA9-10EF-4377-A05F-F071B3230A4A",
+        "admissionid": "3",
+        "admissionstartdate": "1996-07-13 21:01:39.520",
+        "admissionenddate": "1996-08-02 12:43:02.957"
+    },
+    {
+        "patientid": "2B8CCBA9-10EF-4377-A05F-F071B3230A4A",
+        "admissionid": "4",
+        "admissionstartdate": "2009-04-30 15:33:32.553",
+        "admissionenddate": "2009-05-11 16:18:11.973"
+    },
+    {
+        "patientid": "C02675DF-590A-41D8-BA77-7D9CE3965B71",
+        "admissionid": "1",
+        "admissionstartdate": "2007-07-22 06:18:39.500",
+        "admissionenddate": "2007-08-06 06:16:15.377"
+    },
+    {
+        "patientid": "C02675DF-590A-41D8-BA77-7D9CE3965B71",
+        "admissionid": "2",
+        "admissionstartdate": "2012-03-31 12:39:26.737",
+        "admissionenddate": "2012-04-09 09:43:49.243"
+    },
+    {
+        "patientid": "E970EDBF-238A-4BAE-B6A2-5023C7CC08D7",
+        "admissionid": "1",
+        "admissionstartdate": "1972-01-07 20:37:07.973",
+        "admissionenddate": "1972-01-20 04:46:28.457"
+    },
+    {
+        "patientid": "E970EDBF-238A-4BAE-B6A2-5023C7CC08D7",
+        "admissionid": "2",
+        "admissionstartdate": "2012-12-25 18:08:59.777",
+        "admissionenddate": "2013-01-03 07:16:46.020"
+    },
+    {
+        "patientid": "AAEE0C84-2BA1-4DDD-A8C7-9CDF25618FF7",
+        "admissionid": "1",
+        "admissionstartdate": "1989-07-13 11:36:43.500",
+        "admissionenddate": "1989-07-21 13:04:47.357"
+    },
+    {
+        "patientid": "AAEE0C84-2BA1-4DDD-A8C7-9CDF25618FF7",
+        "admissionid": "2",
+        "admissionstartdate": "2000-01-30 13:33:06.717",
+        "admissionenddate": "2000-02-12 11:56:18.260"
+    },
+    {
+        "patientid": "AAEE0C84-2BA1-4DDD-A8C7-9CDF25618FF7",
+        "admissionid": "3",
+        "admissionstartdate": "2012-09-03 01:53:56.227",
+        "admissionenddate": "2012-09-15 08:50:37.007"
+    },
+    {
+        "patientid": "A5272380-49CB-4390-977B-F249C97D254F",
+        "admissionid": "1",
+        "admissionstartdate": "2000-02-05 05:55:35.133",
+        "admissionenddate": "2000-02-21 05:07:51.933"
+    },
+    {
+        "patientid": "A5272380-49CB-4390-977B-F249C97D254F",
+        "admissionid": "2",
+        "admissionstartdate": "2012-12-26 12:10:34.350",
+        "admissionenddate": "2013-01-12 18:49:00.460"
+    },
+    {
+        "patientid": "24A2E2CE-A3C8-420F-ABBC-16CECECC0FBF",
+        "admissionid": "1",
+        "admissionstartdate": "1994-12-29 17:02:14.843",
+        "admissionenddate": "1995-01-03 11:19:44.813"
+    },
+    {
+        "patientid": "24A2E2CE-A3C8-420F-ABBC-16CECECC0FBF",
+        "admissionid": "2",
+        "admissionstartdate": "1997-11-18 19:35:11.047",
+        "admissionenddate": "1997-12-07 12:13:29.627"
+    },
+    {
+        "patientid": "24A2E2CE-A3C8-420F-ABBC-16CECECC0FBF",
+        "admissionid": "3",
+        "admissionstartdate": "2012-12-26 04:24:41.607",
+        "admissionenddate": "2013-01-07 20:53:52.663"
+    },
+    {
+        "patientid": "0E851AB0-5E1E-4F44-B2DA-48B35E0898EC",
+        "admissionid": "1",
+        "admissionstartdate": "1968-07-23 01:48:05.983",
+        "admissionenddate": "1968-07-29 18:43:47.063"
+    },
+    {
+        "patientid": "0E851AB0-5E1E-4F44-B2DA-48B35E0898EC",
+        "admissionid": "2",
+        "admissionstartdate": "1990-06-27 10:17:06.067",
+        "admissionenddate": "1990-07-09 02:45:29.790"
+    },
+    {
+        "patientid": "0E851AB0-5E1E-4F44-B2DA-48B35E0898EC",
+        "admissionid": "3",
+        "admissionstartdate": "1993-01-31 19:23:48.440",
+        "admissionenddate": "1993-02-15 22:03:29.610"
+    },
+    {
+        "patientid": "0E851AB0-5E1E-4F44-B2DA-48B35E0898EC",
+        "admissionid": "4",
+        "admissionstartdate": "1994-07-04 10:43:09.397",
+        "admissionenddate": "1994-07-08 00:16:24.437"
+    },
+    {
+        "patientid": "0E851AB0-5E1E-4F44-B2DA-48B35E0898EC",
+        "admissionid": "5",
+        "admissionstartdate": "2012-10-06 18:21:58.497",
+        "admissionenddate": "2012-10-13 08:04:15.653"
+    },
+    {
+        "patientid": "87953284-30E5-4295-8042-4AC6587D5C1B",
+        "admissionid": "1",
+        "admissionstartdate": "1961-11-09 12:12:28.217",
+        "admissionenddate": "1961-11-15 18:16:56.950"
+    },
+    {
+        "patientid": "87953284-30E5-4295-8042-4AC6587D5C1B",
+        "admissionid": "2",
+        "admissionstartdate": "1994-10-23 23:49:21.860",
+        "admissionenddate": "1994-10-26 12:25:47.497"
+    },
+    {
+        "patientid": "87953284-30E5-4295-8042-4AC6587D5C1B",
+        "admissionid": "3",
+        "admissionstartdate": "2005-08-03 21:17:10.493",
+        "admissionenddate": "2005-08-22 11:55:51.730"
+    },
+    {
+        "patientid": "87953284-30E5-4295-8042-4AC6587D5C1B",
+        "admissionid": "4",
+        "admissionstartdate": "2010-09-18 19:05:14.093",
+        "admissionenddate": "2010-09-22 16:27:24.817"
+    },
+    {
+        "patientid": "39A0E4F8-AD61-4579-956F-64CCFEF7CA74",
+        "admissionid": "1",
+        "admissionstartdate": "1976-01-18 14:34:26.353",
+        "admissionenddate": "1976-01-27 03:42:33.957"
+    },
+    {
+        "patientid": "39A0E4F8-AD61-4579-956F-64CCFEF7CA74",
+        "admissionid": "2",
+        "admissionstartdate": "2000-07-12 09:34:48.400",
+        "admissionenddate": "2000-07-19 17:45:01.623"
+    },
+    {
+        "patientid": "39A0E4F8-AD61-4579-956F-64CCFEF7CA74",
+        "admissionid": "3",
+        "admissionstartdate": "2009-08-05 23:42:34.973",
+        "admissionenddate": "2009-08-19 17:09:05.507"
+    },
+    {
+        "patientid": "D5892B68-CF7F-487F-B68D-3489D79B29BC",
+        "admissionid": "1",
+        "admissionstartdate": "1968-08-12 02:06:32.573",
+        "admissionenddate": "1968-08-27 11:26:03.660"
+    },
+    {
+        "patientid": "D5892B68-CF7F-487F-B68D-3489D79B29BC",
+        "admissionid": "2",
+        "admissionstartdate": "1977-07-25 08:56:26.017",
+        "admissionenddate": "1977-08-07 22:33:49.780"
+    },
+    {
+        "patientid": "D5892B68-CF7F-487F-B68D-3489D79B29BC",
+        "admissionid": "3",
+        "admissionstartdate": "1980-03-07 09:36:24.833",
+        "admissionenddate": "1980-03-20 14:35:03.400"
+    },
+    {
+        "patientid": "D5892B68-CF7F-487F-B68D-3489D79B29BC",
+        "admissionid": "4",
+        "admissionstartdate": "1991-06-16 18:35:19.260",
+        "admissionenddate": "1991-06-22 11:23:32.520"
+    },
+    {
+        "patientid": "D5892B68-CF7F-487F-B68D-3489D79B29BC",
+        "admissionid": "5",
+        "admissionstartdate": "2007-01-17 15:51:17.037",
+        "admissionenddate": "2007-01-24 10:57:07.590"
+    },
+    {
+        "patientid": "D5892B68-CF7F-487F-B68D-3489D79B29BC",
+        "admissionid": "6",
+        "admissionstartdate": "2011-05-23 18:06:49.460",
+        "admissionenddate": "2011-05-25 18:53:46.807"
+    },
+    {
+        "patientid": "3B3DA078-A0DA-40B0-AFDC-345A24110C0F",
+        "admissionid": "1",
+        "admissionstartdate": "1979-05-09 14:00:11.387",
+        "admissionenddate": "1979-05-19 21:20:58.227"
+    },
+    {
+        "patientid": "3B3DA078-A0DA-40B0-AFDC-345A24110C0F",
+        "admissionid": "2",
+        "admissionstartdate": "1987-10-19 15:00:34.037",
+        "admissionenddate": "1987-10-28 13:08:51.693"
+    },
+    {
+        "patientid": "3B3DA078-A0DA-40B0-AFDC-345A24110C0F",
+        "admissionid": "3",
+        "admissionstartdate": "1994-07-31 22:08:35.580",
+        "admissionenddate": "1994-08-09 10:23:48.350"
+    },
+    {
+        "patientid": "3B3DA078-A0DA-40B0-AFDC-345A24110C0F",
+        "admissionid": "4",
+        "admissionstartdate": "2006-01-07 12:31:36.277",
+        "admissionenddate": "2006-01-22 11:48:10.750"
+    },
+    {
+        "patientid": "3B3DA078-A0DA-40B0-AFDC-345A24110C0F",
+        "admissionid": "5",
+        "admissionstartdate": "2007-11-03 08:11:05.480",
+        "admissionenddate": "2007-11-14 11:23:47.417"
+    },
+    {
+        "patientid": "3B3DA078-A0DA-40B0-AFDC-345A24110C0F",
+        "admissionid": "6",
+        "admissionstartdate": "2008-07-22 21:49:34.740",
+        "admissionenddate": "2008-08-11 08:42:48.823"
+    },
+    {
+        "patientid": "F25E9E36-2DBE-48FA-A6D9-E6A1D2756752",
+        "admissionid": "1",
+        "admissionstartdate": "1990-04-08 17:14:13.817",
+        "admissionenddate": "1990-04-28 10:56:56.697"
+    },
+    {
+        "patientid": "F25E9E36-2DBE-48FA-A6D9-E6A1D2756752",
+        "admissionid": "2",
+        "admissionstartdate": "2000-11-13 09:50:13.967",
+        "admissionenddate": "2000-11-16 09:13:42.207"
+    },
+    {
+        "patientid": "F25E9E36-2DBE-48FA-A6D9-E6A1D2756752",
+        "admissionid": "3",
+        "admissionstartdate": "2009-11-16 20:55:43.970",
+        "admissionenddate": "2009-11-30 07:20:11.310"
+    },
+    {
+        "patientid": "D7ABBA85-F1FE-449C-8452-876704553A3E",
+        "admissionid": "1",
+        "admissionstartdate": "1976-11-22 15:20:32.727",
+        "admissionenddate": "1976-12-01 01:42:04.887"
+    },
+    {
+        "patientid": "D7ABBA85-F1FE-449C-8452-876704553A3E",
+        "admissionid": "2",
+        "admissionstartdate": "1996-03-27 14:07:13.723",
+        "admissionenddate": "1996-04-13 17:40:13.053"
+    },
+    {
+        "patientid": "D7ABBA85-F1FE-449C-8452-876704553A3E",
+        "admissionid": "3",
+        "admissionstartdate": "2009-04-10 05:30:37.273",
+        "admissionenddate": "2009-04-18 21:16:51.023"
+    },
+    {
+        "patientid": "CDC9ABB8-75F1-4F02-869A-72C555AF833F",
+        "admissionid": "1",
+        "admissionstartdate": "1975-10-28 23:38:27.807",
+        "admissionenddate": "1975-11-07 15:42:23.203"
+    },
+    {
+        "patientid": "CDC9ABB8-75F1-4F02-869A-72C555AF833F",
+        "admissionid": "2",
+        "admissionstartdate": "1976-05-25 23:43:10.517",
+        "admissionenddate": "1976-06-03 13:13:14.597"
+    },
+    {
+        "patientid": "CDC9ABB8-75F1-4F02-869A-72C555AF833F",
+        "admissionid": "3",
+        "admissionstartdate": "2009-10-05 14:22:51.407",
+        "admissionenddate": "2009-10-09 14:26:07.413"
+    },
+    {
+        "patientid": "39DA6342-CEBD-4951-B3E7-5425BA0FF435",
+        "admissionid": "1",
+        "admissionstartdate": "2005-02-22 14:28:38.673",
+        "admissionenddate": "2005-03-03 09:38:23.637"
+    },
+    {
+        "patientid": "39DA6342-CEBD-4951-B3E7-5425BA0FF435",
+        "admissionid": "2",
+        "admissionstartdate": "2007-07-16 03:28:32.830",
+        "admissionenddate": "2007-07-28 18:28:27.837"
+    },
+    {
+        "patientid": "39DA6342-CEBD-4951-B3E7-5425BA0FF435",
+        "admissionid": "3",
+        "admissionstartdate": "2012-02-22 05:37:00.787",
+        "admissionenddate": "2012-02-28 07:48:58.563"
+    },
+    {
+        "patientid": "C5F8D8BD-56E6-430B-B6E4-F95FE40BFB1D",
+        "admissionid": "1",
+        "admissionstartdate": "1980-04-09 19:31:33.340",
+        "admissionenddate": "1980-04-26 05:27:57.917"
+    },
+    {
+        "patientid": "C5F8D8BD-56E6-430B-B6E4-F95FE40BFB1D",
+        "admissionid": "2",
+        "admissionstartdate": "1983-06-17 13:54:45.493",
+        "admissionenddate": "1983-06-24 23:42:18.757"
+    },
+    {
+        "patientid": "C5F8D8BD-56E6-430B-B6E4-F95FE40BFB1D",
+        "admissionid": "3",
+        "admissionstartdate": "2003-06-16 16:05:00.577",
+        "admissionenddate": "2003-06-18 18:31:09.270"
+    },
+    {
+        "patientid": "C5F8D8BD-56E6-430B-B6E4-F95FE40BFB1D",
+        "admissionid": "4",
+        "admissionstartdate": "2007-04-03 19:51:41.260",
+        "admissionenddate": "2007-04-10 09:32:35.613"
+    },
+    {
+        "patientid": "C5F8D8BD-56E6-430B-B6E4-F95FE40BFB1D",
+        "admissionid": "5",
+        "admissionstartdate": "2010-10-13 23:50:27.780",
+        "admissionenddate": "2010-10-20 03:37:51.730"
+    },
+    {
+        "patientid": "7D8C7C28-4642-4B87-B53A-E98218C92804",
+        "admissionid": "1",
+        "admissionstartdate": "1986-10-30 06:07:28.677",
+        "admissionenddate": "1986-11-02 19:44:45.120"
+    },
+    {
+        "patientid": "7D8C7C28-4642-4B87-B53A-E98218C92804",
+        "admissionid": "2",
+        "admissionstartdate": "1990-12-25 08:46:55.750",
+        "admissionenddate": "1991-01-01 13:22:27.963"
+    },
+    {
+        "patientid": "7D8C7C28-4642-4B87-B53A-E98218C92804",
+        "admissionid": "3",
+        "admissionstartdate": "2001-03-16 21:11:17.697",
+        "admissionenddate": "2001-03-20 11:11:51.293"
+    },
+    {
+        "patientid": "7D8C7C28-4642-4B87-B53A-E98218C92804",
+        "admissionid": "4",
+        "admissionstartdate": "2005-03-04 04:25:11.587",
+        "admissionenddate": "2005-03-12 20:36:16.550"
+    },
+    {
+        "patientid": "7D8C7C28-4642-4B87-B53A-E98218C92804",
+        "admissionid": "5",
+        "admissionstartdate": "2008-11-04 20:05:37.190",
+        "admissionenddate": "2008-11-11 03:42:28.473"
+    },
+    {
+        "patientid": "F9DC023D-7190-477B-B40B-12BD2CD3B49A",
+        "admissionid": "1",
+        "admissionstartdate": "2007-09-09 16:46:22.560",
+        "admissionenddate": "2007-09-27 13:02:10.213"
+    },
+    {
+        "patientid": "F9DC023D-7190-477B-B40B-12BD2CD3B49A",
+        "admissionid": "2",
+        "admissionstartdate": "2012-04-01 11:50:05.707",
+        "admissionenddate": "2012-04-18 15:32:55.020"
+    },
+    {
+        "patientid": "BB07990A-AD01-48D1-930D-F573C41D155C",
+        "admissionid": "1",
+        "admissionstartdate": "1987-05-31 21:43:57.483",
+        "admissionenddate": "1987-06-07 12:08:22.297"
+    },
+    {
+        "patientid": "BB07990A-AD01-48D1-930D-F573C41D155C",
+        "admissionid": "2",
+        "admissionstartdate": "2008-02-15 13:23:25.473",
+        "admissionenddate": "2008-02-20 03:25:20.983"
+    },
+    {
+        "patientid": "F082B61D-C107-4F1F-90EB-78ADD48958D8",
+        "admissionid": "1",
+        "admissionstartdate": "1981-08-27 07:43:02.413",
+        "admissionenddate": "1981-09-11 21:29:58.733"
+    },
+    {
+        "patientid": "F082B61D-C107-4F1F-90EB-78ADD48958D8",
+        "admissionid": "2",
+        "admissionstartdate": "2002-08-19 02:13:09.957",
+        "admissionenddate": "2002-09-02 02:04:48.703"
+    },
+    {
+        "patientid": "F082B61D-C107-4F1F-90EB-78ADD48958D8",
+        "admissionid": "3",
+        "admissionstartdate": "2004-03-03 00:17:55.903",
+        "admissionenddate": "2004-03-09 06:50:43.480"
+    },
+    {
+        "patientid": "F082B61D-C107-4F1F-90EB-78ADD48958D8",
+        "admissionid": "4",
+        "admissionstartdate": "2005-12-14 15:54:23.193",
+        "admissionenddate": "2006-01-02 14:31:34.967"
+    },
+    {
+        "patientid": "F082B61D-C107-4F1F-90EB-78ADD48958D8",
+        "admissionid": "5",
+        "admissionstartdate": "2009-10-14 11:13:42.407",
+        "admissionenddate": "2009-10-27 19:52:34.167"
+    },
+    {
+        "patientid": "4FD17B0A-6BEC-4B96-88D5-BC595B75D073",
+        "admissionid": "1",
+        "admissionstartdate": "1994-05-01 21:22:33.993",
+        "admissionenddate": "1994-05-13 10:09:23.207"
+    },
+    {
+        "patientid": "4FD17B0A-6BEC-4B96-88D5-BC595B75D073",
+        "admissionid": "2",
+        "admissionstartdate": "2002-08-30 20:29:36.597",
+        "admissionenddate": "2002-09-11 06:23:29.677"
+    },
+    {
+        "patientid": "4FD17B0A-6BEC-4B96-88D5-BC595B75D073",
+        "admissionid": "3",
+        "admissionstartdate": "2010-07-05 13:40:40.110",
+        "admissionenddate": "2010-07-12 21:52:19.300"
+    },
+    {
+        "patientid": "5BB481CD-5652-4EC6-9E5C-427E483D8B2E",
+        "admissionid": "1",
+        "admissionstartdate": "1996-06-10 17:36:13.630",
+        "admissionenddate": "1996-06-29 10:12:12.907"
+    },
+    {
+        "patientid": "5BB481CD-5652-4EC6-9E5C-427E483D8B2E",
+        "admissionid": "2",
+        "admissionstartdate": "1999-12-01 08:38:33.733",
+        "admissionenddate": "1999-12-14 13:46:18.223"
+    },
+    {
+        "patientid": "5BB481CD-5652-4EC6-9E5C-427E483D8B2E",
+        "admissionid": "3",
+        "admissionstartdate": "2008-05-29 14:22:09.547",
+        "admissionenddate": "2008-06-08 06:01:03.753"
+    },
+    {
+        "patientid": "F5DA2F04-4CAC-4615-99C3-6E1385DBF4C6",
+        "admissionid": "1",
+        "admissionstartdate": "1972-08-28 11:29:45.803",
+        "admissionenddate": "1972-09-16 05:22:29.353"
+    },
+    {
+        "patientid": "F5DA2F04-4CAC-4615-99C3-6E1385DBF4C6",
+        "admissionid": "2",
+        "admissionstartdate": "1977-09-14 20:32:58.607",
+        "admissionenddate": "1977-09-27 16:24:57.943"
+    },
+    {
+        "patientid": "F5DA2F04-4CAC-4615-99C3-6E1385DBF4C6",
+        "admissionid": "3",
+        "admissionstartdate": "1996-11-18 04:08:13.887",
+        "admissionenddate": "1996-12-07 17:12:35.557"
+    }
+]

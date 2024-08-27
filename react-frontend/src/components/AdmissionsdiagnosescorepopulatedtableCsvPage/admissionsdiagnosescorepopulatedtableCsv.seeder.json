@@ -1,0 +1,2996 @@
+[
+    {
+        "patientid": "54C6E968-45B3-46B1-A64F-2CE3124F2A65",
+        "admissionid": "3",
+        "primarydiagnosiscode": "F80.1",
+        "primarydiagnosisdescription": "Expressive language disorder"
+    },
+    {
+        "patientid": "54C6E968-45B3-46B1-A64F-2CE3124F2A65",
+        "admissionid": "4",
+        "primarydiagnosiscode": "R04.81",
+        "primarydiagnosisdescription": "Acute idiopathic pulmonary hemorrhage in infants"
+    },
+    {
+        "patientid": "54C6E968-45B3-46B1-A64F-2CE3124F2A65",
+        "admissionid": "5",
+        "primarydiagnosiscode": "I36",
+        "primarydiagnosisdescription": "Nonrheumatic tricuspid valve disorders"
+    },
+    {
+        "patientid": "9DD23357-9BEB-43E4-802D-1AB7ACDD4A3A",
+        "admissionid": "1",
+        "primarydiagnosiscode": "H16.43",
+        "primarydiagnosisdescription": "Localized vascularization of cornea"
+    },
+    {
+        "patientid": "9DD23357-9BEB-43E4-802D-1AB7ACDD4A3A",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M05.161",
+        "primarydiagnosisdescription": "Rheumatoid lung disease with rheumatoid arthritis of right knee"
+    },
+    {
+        "patientid": "9DD23357-9BEB-43E4-802D-1AB7ACDD4A3A",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M06.011",
+        "primarydiagnosisdescription": "Rheumatoid arthritis without rheumatoid factor"
+    },
+    {
+        "patientid": "CE969DDB-A168-49C4-9D48-65CFAE878B5F",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M02.35",
+        "primarydiagnosisdescription": "Reiter's disease"
+    },
+    {
+        "patientid": "CE969DDB-A168-49C4-9D48-65CFAE878B5F",
+        "admissionid": "2",
+        "primarydiagnosiscode": "C40.31",
+        "primarydiagnosisdescription": "Malignant neoplasm of short bones of right lower limb"
+    },
+    {
+        "patientid": "CE969DDB-A168-49C4-9D48-65CFAE878B5F",
+        "admissionid": "3",
+        "primarydiagnosiscode": "O04.82",
+        "primarydiagnosisdescription": "Renal failure following (induced) termination of pregnancy"
+    },
+    {
+        "patientid": "719278F5-305F-432D-BE0E-76ECE46FD6EA",
+        "admissionid": "1",
+        "primarydiagnosiscode": "O03.33",
+        "primarydiagnosisdescription": "Metabolic disorder following incomplete spontaneous abortion"
+    },
+    {
+        "patientid": "719278F5-305F-432D-BE0E-76ECE46FD6EA",
+        "admissionid": "2",
+        "primarydiagnosiscode": "H47.531",
+        "primarydiagnosisdescription": "Disorders of visual pathways in (due to) vascular disorders"
+    },
+    {
+        "patientid": "719278F5-305F-432D-BE0E-76ECE46FD6EA",
+        "admissionid": "3",
+        "primarydiagnosiscode": "E08.2",
+        "primarydiagnosisdescription": "Diabetes mellitus due to underlying condition with kidney complications"
+    },
+    {
+        "patientid": "719278F5-305F-432D-BE0E-76ECE46FD6EA",
+        "admissionid": "4",
+        "primarydiagnosiscode": "M84.522",
+        "primarydiagnosisdescription": "Pathological fracture in neoplastic disease"
+    },
+    {
+        "patientid": "5715A7D0-F97F-4AAF-AA76-28751A0043FB",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C75.4",
+        "primarydiagnosisdescription": "Malignant neoplasm of carotid body"
+    },
+    {
+        "patientid": "5715A7D0-F97F-4AAF-AA76-28751A0043FB",
+        "admissionid": "2",
+        "primarydiagnosiscode": "I28.1",
+        "primarydiagnosisdescription": "Aneurysm of pulmonary artery"
+    },
+    {
+        "patientid": "5715A7D0-F97F-4AAF-AA76-28751A0043FB",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M05.132",
+        "primarydiagnosisdescription": "Rheumatoid lung disease with rheumatoid arthritis of left wrist"
+    },
+    {
+        "patientid": "5715A7D0-F97F-4AAF-AA76-28751A0043FB",
+        "admissionid": "4",
+        "primarydiagnosiscode": "H93.25",
+        "primarydiagnosisdescription": "Central auditory processing disorder"
+    },
+    {
+        "patientid": "660FDCE1-0696-44C2-BF4C-1C06173E5DBE",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M90.612",
+        "primarydiagnosisdescription": "Osteitis deformans in neoplastic diseases"
+    },
+    {
+        "patientid": "E2855E7F-5CC0-4B40-AB25-B5B15D121424",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M84.51",
+        "primarydiagnosisdescription": "Pathological fracture in neoplastic disease"
+    },
+    {
+        "patientid": "E2855E7F-5CC0-4B40-AB25-B5B15D121424",
+        "admissionid": "2",
+        "primarydiagnosiscode": "F06.32",
+        "primarydiagnosisdescription": "Mood disorder due to known physiological condition with major depressive-like episode"
+    },
+    {
+        "patientid": "E2855E7F-5CC0-4B40-AB25-B5B15D121424",
+        "admissionid": "3",
+        "primarydiagnosiscode": "C63.1",
+        "primarydiagnosisdescription": "Malignant neoplasm of spermatic cord"
+    },
+    {
+        "patientid": "E2855E7F-5CC0-4B40-AB25-B5B15D121424",
+        "admissionid": "4",
+        "primarydiagnosiscode": "O98.63",
+        "primarydiagnosisdescription": "Protozoal diseases complicating the puerperium"
+    },
+    {
+        "patientid": "E2855E7F-5CC0-4B40-AB25-B5B15D121424",
+        "admissionid": "5",
+        "primarydiagnosiscode": "M11.032",
+        "primarydiagnosisdescription": "Hydroxyapatite deposition disease"
+    },
+    {
+        "patientid": "E2855E7F-5CC0-4B40-AB25-B5B15D121424",
+        "admissionid": "6",
+        "primarydiagnosiscode": "M05.77",
+        "primarydiagnosisdescription": "Rheumatoid arthritis with rheumatoid factor of ankle and foot without organ or systems involvement"
+    },
+    {
+        "patientid": "E2855E7F-5CC0-4B40-AB25-B5B15D121424",
+        "admissionid": "7",
+        "primarydiagnosiscode": "M24.27",
+        "primarydiagnosisdescription": "Disorder of ligament"
+    },
+    {
+        "patientid": "18951AA9-3472-4880-9B14-15A50F07D889",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M1A.342",
+        "primarydiagnosisdescription": "Chronic gout due to renal impairment"
+    },
+    {
+        "patientid": "18951AA9-3472-4880-9B14-15A50F07D889",
+        "admissionid": "2",
+        "primarydiagnosiscode": "O24.1",
+        "primarydiagnosisdescription": "Pre-existing diabetes mellitus"
+    },
+    {
+        "patientid": "65666C11-E760-43A0-84D7-E2B4D7BBC5EF",
+        "admissionid": "1",
+        "primarydiagnosiscode": "D10.0",
+        "primarydiagnosisdescription": "Benign neoplasm of lip"
+    },
+    {
+        "patientid": "65666C11-E760-43A0-84D7-E2B4D7BBC5EF",
+        "admissionid": "2",
+        "primarydiagnosiscode": "C69.82",
+        "primarydiagnosisdescription": "Malignant neoplasm of overlapping sites of left eye and adnexa"
+    },
+    {
+        "patientid": "65666C11-E760-43A0-84D7-E2B4D7BBC5EF",
+        "admissionid": "3",
+        "primarydiagnosiscode": "C10.8",
+        "primarydiagnosisdescription": "Malignant neoplasm of overlapping sites of oropharynx"
+    },
+    {
+        "patientid": "65666C11-E760-43A0-84D7-E2B4D7BBC5EF",
+        "admissionid": "4",
+        "primarydiagnosiscode": "F31.32",
+        "primarydiagnosisdescription": "Bipolar disorder"
+    },
+    {
+        "patientid": "BD4B4A3F-503B-418C-AC8B-9DFFEE01F4F4",
+        "admissionid": "1",
+        "primarydiagnosiscode": "E08",
+        "primarydiagnosisdescription": "Diabetes mellitus due to underlying condition"
+    },
+    {
+        "patientid": "BD4B4A3F-503B-418C-AC8B-9DFFEE01F4F4",
+        "admissionid": "2",
+        "primarydiagnosiscode": "C05",
+        "primarydiagnosisdescription": "Malignant neoplasm of palate"
+    },
+    {
+        "patientid": "BD4B4A3F-503B-418C-AC8B-9DFFEE01F4F4",
+        "admissionid": "3",
+        "primarydiagnosiscode": "I25.812",
+        "primarydiagnosisdescription": "Atherosclerosis of bypass graft of coronary artery of transplanted heart without angina pectoris"
+    },
+    {
+        "patientid": "BD4B4A3F-503B-418C-AC8B-9DFFEE01F4F4",
+        "admissionid": "4",
+        "primarydiagnosiscode": "E71.5",
+        "primarydiagnosisdescription": "Peroxisomal disorders"
+    },
+    {
+        "patientid": "BD4B4A3F-503B-418C-AC8B-9DFFEE01F4F4",
+        "admissionid": "5",
+        "primarydiagnosiscode": "N13.2",
+        "primarydiagnosisdescription": "Hydronephrosis with renal and ureteral calculous obstruction"
+    },
+    {
+        "patientid": "BD4B4A3F-503B-418C-AC8B-9DFFEE01F4F4",
+        "admissionid": "6",
+        "primarydiagnosiscode": "E75.240",
+        "primarydiagnosisdescription": "Niemann-Pick disease type A"
+    },
+    {
+        "patientid": "74F68871-71CF-437E-B554-097CB80E996A",
+        "admissionid": "1",
+        "primarydiagnosiscode": "J84.112",
+        "primarydiagnosisdescription": "Idiopathic pulmonary fibrosis"
+    },
+    {
+        "patientid": "74F68871-71CF-437E-B554-097CB80E996A",
+        "admissionid": "2",
+        "primarydiagnosiscode": "C69.61",
+        "primarydiagnosisdescription": "Malignant neoplasm of right orbit"
+    },
+    {
+        "patientid": "74F68871-71CF-437E-B554-097CB80E996A",
+        "admissionid": "3",
+        "primarydiagnosiscode": "I25.710",
+        "primarydiagnosisdescription": "Atherosclerosis of autologous vein coronary artery bypass graft(s) with unstable angina pectoris"
+    },
+    {
+        "patientid": "C252B0A2-EA53-4B4A-B4BC-38931CBF6043",
+        "admissionid": "1",
+        "primarydiagnosiscode": "B57.2",
+        "primarydiagnosisdescription": "Chagas' disease (chronic) with heart involvement"
+    },
+    {
+        "patientid": "C252B0A2-EA53-4B4A-B4BC-38931CBF6043",
+        "admissionid": "2",
+        "primarydiagnosiscode": "F68.12",
+        "primarydiagnosisdescription": "Factitious disorder with predominantly physical signs and symptoms"
+    },
+    {
+        "patientid": "C252B0A2-EA53-4B4A-B4BC-38931CBF6043",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M26.63",
+        "primarydiagnosisdescription": "Articular disc disorder of temporomandibular joint"
+    },
+    {
+        "patientid": "C252B0A2-EA53-4B4A-B4BC-38931CBF6043",
+        "admissionid": "4",
+        "primarydiagnosiscode": "Q26.3",
+        "primarydiagnosisdescription": "Partial anomalous pulmonary venous connection"
+    },
+    {
+        "patientid": "C252B0A2-EA53-4B4A-B4BC-38931CBF6043",
+        "admissionid": "5",
+        "primarydiagnosiscode": "F34.1",
+        "primarydiagnosisdescription": "Dysthymic disorder"
+    },
+    {
+        "patientid": "D754D292-642D-4919-BE2E-D39A899725A1",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M90.811",
+        "primarydiagnosisdescription": "Osteopathy in diseases classified elsewhere"
+    },
+    {
+        "patientid": "D754D292-642D-4919-BE2E-D39A899725A1",
+        "admissionid": "2",
+        "primarydiagnosiscode": "E11.34",
+        "primarydiagnosisdescription": "Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy"
+    },
+    {
+        "patientid": "D754D292-642D-4919-BE2E-D39A899725A1",
+        "admissionid": "3",
+        "primarydiagnosiscode": "K50.012",
+        "primarydiagnosisdescription": "Crohn's disease of small intestine with intestinal obstruction"
+    },
+    {
+        "patientid": "D754D292-642D-4919-BE2E-D39A899725A1",
+        "admissionid": "4",
+        "primarydiagnosiscode": "I97.82",
+        "primarydiagnosisdescription": "Postprocedural cerebrovascular infarction"
+    },
+    {
+        "patientid": "6877A26D-AABC-4BC8-B713-31D5D1B6A95D",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M1A.341",
+        "primarydiagnosisdescription": "Chronic gout due to renal impairment"
+    },
+    {
+        "patientid": "6877A26D-AABC-4BC8-B713-31D5D1B6A95D",
+        "admissionid": "2",
+        "primarydiagnosiscode": "C91.A0",
+        "primarydiagnosisdescription": "Mature B-cell leukemia Burkitt-type not having achieved remission"
+    },
+    {
+        "patientid": "6877A26D-AABC-4BC8-B713-31D5D1B6A95D",
+        "admissionid": "3",
+        "primarydiagnosiscode": "C57.1",
+        "primarydiagnosisdescription": "Malignant neoplasm of broad ligament"
+    },
+    {
+        "patientid": "6877A26D-AABC-4BC8-B713-31D5D1B6A95D",
+        "admissionid": "4",
+        "primarydiagnosiscode": "M11.07",
+        "primarydiagnosisdescription": "Hydroxyapatite deposition disease"
+    },
+    {
+        "patientid": "6877A26D-AABC-4BC8-B713-31D5D1B6A95D",
+        "admissionid": "5",
+        "primarydiagnosiscode": "C10.4",
+        "primarydiagnosisdescription": "Malignant neoplasm of branchial cleft"
+    },
+    {
+        "patientid": "A81C74B6-1401-4EE3-AA0A-FC6ABED3BC34",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M06.332",
+        "primarydiagnosisdescription": "Rheumatoid nodule"
+    },
+    {
+        "patientid": "3F0C823A-099E-4DD3-8C65-54B203564658",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C79.71",
+        "primarydiagnosisdescription": "Secondary malignant neoplasm of right adrenal gland"
+    },
+    {
+        "patientid": "D9498B2B-52D4-476B-A9C2-636F84B03F5D",
+        "admissionid": "1",
+        "primarydiagnosiscode": "K50.011",
+        "primarydiagnosisdescription": "Crohn's disease of small intestine with rectal bleeding"
+    },
+    {
+        "patientid": "D9498B2B-52D4-476B-A9C2-636F84B03F5D",
+        "admissionid": "2",
+        "primarydiagnosiscode": "N18",
+        "primarydiagnosisdescription": "Chronic kidney disease (CKD)"
+    },
+    {
+        "patientid": "D9498B2B-52D4-476B-A9C2-636F84B03F5D",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M05.372",
+        "primarydiagnosisdescription": "Rheumatoid heart disease with rheumatoid arthritis of left ankle and foot"
+    },
+    {
+        "patientid": "D9498B2B-52D4-476B-A9C2-636F84B03F5D",
+        "admissionid": "4",
+        "primarydiagnosiscode": "C79.62",
+        "primarydiagnosisdescription": "Secondary malignant neoplasm of left ovary"
+    },
+    {
+        "patientid": "D9498B2B-52D4-476B-A9C2-636F84B03F5D",
+        "admissionid": "5",
+        "primarydiagnosiscode": "C23",
+        "primarydiagnosisdescription": "Malignant neoplasm of gallbladder"
+    },
+    {
+        "patientid": "D9498B2B-52D4-476B-A9C2-636F84B03F5D",
+        "admissionid": "6",
+        "primarydiagnosiscode": "Z40.0",
+        "primarydiagnosisdescription": "Encounter for prophylactic surgery for risk factors related to malignant neoplasms"
+    },
+    {
+        "patientid": "D9498B2B-52D4-476B-A9C2-636F84B03F5D",
+        "admissionid": "7",
+        "primarydiagnosiscode": "E75.22",
+        "primarydiagnosisdescription": "Gaucher disease"
+    },
+    {
+        "patientid": "521195E4-6EE8-4BAC-92BF-48F0529D6DDC",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M02.31",
+        "primarydiagnosisdescription": "Reiter's disease"
+    },
+    {
+        "patientid": "521195E4-6EE8-4BAC-92BF-48F0529D6DDC",
+        "admissionid": "2",
+        "primarydiagnosiscode": "H93.0",
+        "primarydiagnosisdescription": "Degenerative and vascular disorders of ear"
+    },
+    {
+        "patientid": "521195E4-6EE8-4BAC-92BF-48F0529D6DDC",
+        "admissionid": "3",
+        "primarydiagnosiscode": "C69.1",
+        "primarydiagnosisdescription": "Malignant neoplasm of cornea"
+    },
+    {
+        "patientid": "521195E4-6EE8-4BAC-92BF-48F0529D6DDC",
+        "admissionid": "4",
+        "primarydiagnosiscode": "E30",
+        "primarydiagnosisdescription": "Disorders of puberty"
+    },
+    {
+        "patientid": "521195E4-6EE8-4BAC-92BF-48F0529D6DDC",
+        "admissionid": "5",
+        "primarydiagnosiscode": "O99.52",
+        "primarydiagnosisdescription": "Diseases of the respiratory system complicating childbirth"
+    },
+    {
+        "patientid": "521195E4-6EE8-4BAC-92BF-48F0529D6DDC",
+        "admissionid": "6",
+        "primarydiagnosiscode": "E10.63",
+        "primarydiagnosisdescription": "Type 1 diabetes mellitus with oral complications"
+    },
+    {
+        "patientid": "521195E4-6EE8-4BAC-92BF-48F0529D6DDC",
+        "admissionid": "7",
+        "primarydiagnosiscode": "J84.842",
+        "primarydiagnosisdescription": "Pulmonary interstitial glycogenosis"
+    },
+    {
+        "patientid": "9E6E0CEA-4505-41E7-8CAA-FEFDDEDF7F8D",
+        "admissionid": "1",
+        "primarydiagnosiscode": "H74.1",
+        "primarydiagnosisdescription": "Adhesive middle ear disease"
+    },
+    {
+        "patientid": "9E6E0CEA-4505-41E7-8CAA-FEFDDEDF7F8D",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M24.27",
+        "primarydiagnosisdescription": "Disorder of ligament"
+    },
+    {
+        "patientid": "1AE91A01-BB3F-49B4-A895-71A19911B5E6",
+        "admissionid": "1",
+        "primarydiagnosiscode": "H26.212",
+        "primarydiagnosisdescription": "Cataract with neovascularization"
+    },
+    {
+        "patientid": "1AE91A01-BB3F-49B4-A895-71A19911B5E6",
+        "admissionid": "2",
+        "primarydiagnosiscode": "H30.812",
+        "primarydiagnosisdescription": "Harada's disease"
+    },
+    {
+        "patientid": "1AE91A01-BB3F-49B4-A895-71A19911B5E6",
+        "admissionid": "3",
+        "primarydiagnosiscode": "F31.78",
+        "primarydiagnosisdescription": "Bipolar disorder"
+    },
+    {
+        "patientid": "26E23D12-62F3-4356-811C-02DCF7FE2B09",
+        "admissionid": "1",
+        "primarydiagnosiscode": "D38.0",
+        "primarydiagnosisdescription": "Neoplasm of uncertain behavior of larynx"
+    },
+    {
+        "patientid": "26E23D12-62F3-4356-811C-02DCF7FE2B09",
+        "admissionid": "2",
+        "primarydiagnosiscode": "E11.21",
+        "primarydiagnosisdescription": "Type 2 diabetes mellitus with diabetic nephropathy"
+    },
+    {
+        "patientid": "26E23D12-62F3-4356-811C-02DCF7FE2B09",
+        "admissionid": "3",
+        "primarydiagnosiscode": "E09.329",
+        "primarydiagnosisdescription": "Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema"
+    },
+    {
+        "patientid": "26E23D12-62F3-4356-811C-02DCF7FE2B09",
+        "admissionid": "4",
+        "primarydiagnosiscode": "E10.61",
+        "primarydiagnosisdescription": "Type 1 diabetes mellitus with diabetic arthropathy"
+    },
+    {
+        "patientid": "26E23D12-62F3-4356-811C-02DCF7FE2B09",
+        "admissionid": "5",
+        "primarydiagnosiscode": "O10.1",
+        "primarydiagnosisdescription": "Pre-existing hypertensive heart disease complicating pregnancy"
+    },
+    {
+        "patientid": "59CCEEA1-F8AC-4E5A-81A7-2E8725CEE356",
+        "admissionid": "1",
+        "primarydiagnosiscode": "F34",
+        "primarydiagnosisdescription": "Persistent mood [affective] disorders"
+    },
+    {
+        "patientid": "59CCEEA1-F8AC-4E5A-81A7-2E8725CEE356",
+        "admissionid": "2",
+        "primarydiagnosiscode": "O26.612",
+        "primarydiagnosisdescription": "Liver and biliary tract disorders in pregnancy"
+    },
+    {
+        "patientid": "66AEAAAE-56C5-4E70-AC98-0D17F479DD2F",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M05.111",
+        "primarydiagnosisdescription": "Rheumatoid lung disease with rheumatoid arthritis of right shoulder"
+    },
+    {
+        "patientid": "66AEAAAE-56C5-4E70-AC98-0D17F479DD2F",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M05.32",
+        "primarydiagnosisdescription": "Rheumatoid heart disease with rheumatoid arthritis of elbow"
+    },
+    {
+        "patientid": "66AEAAAE-56C5-4E70-AC98-0D17F479DD2F",
+        "admissionid": "3",
+        "primarydiagnosiscode": "I67.841",
+        "primarydiagnosisdescription": "Reversible cerebrovascular vasoconstriction syndrome"
+    },
+    {
+        "patientid": "66AEAAAE-56C5-4E70-AC98-0D17F479DD2F",
+        "admissionid": "4",
+        "primarydiagnosiscode": "E09.321",
+        "primarydiagnosisdescription": "Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema"
+    },
+    {
+        "patientid": "F7CF0FE9-AFCD-49EF-BFB3-E42302FFA0D3",
+        "admissionid": "1",
+        "primarydiagnosiscode": "O10.13",
+        "primarydiagnosisdescription": "Pre-existing hypertensive heart disease complicating the puerperium"
+    },
+    {
+        "patientid": "F7CF0FE9-AFCD-49EF-BFB3-E42302FFA0D3",
+        "admissionid": "2",
+        "primarydiagnosiscode": "E74.1",
+        "primarydiagnosisdescription": "Disorders of fructose metabolism"
+    },
+    {
+        "patientid": "F7CF0FE9-AFCD-49EF-BFB3-E42302FFA0D3",
+        "admissionid": "3",
+        "primarydiagnosiscode": "C91.02",
+        "primarydiagnosisdescription": "Acute lymphoblastic leukemia"
+    },
+    {
+        "patientid": "C3935FBC-DBBA-4844-BBE4-A175FA508454",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M10.34",
+        "primarydiagnosisdescription": "Gout due to renal impairment"
+    },
+    {
+        "patientid": "C3935FBC-DBBA-4844-BBE4-A175FA508454",
+        "admissionid": "2",
+        "primarydiagnosiscode": "F44.4",
+        "primarydiagnosisdescription": "Conversion disorder with motor symptom or deficit"
+    },
+    {
+        "patientid": "C3935FBC-DBBA-4844-BBE4-A175FA508454",
+        "admissionid": "3",
+        "primarydiagnosiscode": "I39",
+        "primarydiagnosisdescription": "Endocarditis and heart valve disorders in diseases classified elsewhere"
+    },
+    {
+        "patientid": "C3935FBC-DBBA-4844-BBE4-A175FA508454",
+        "admissionid": "4",
+        "primarydiagnosiscode": "C92.00",
+        "primarydiagnosisdescription": "Acute myeloblastic leukemia"
+    },
+    {
+        "patientid": "C3935FBC-DBBA-4844-BBE4-A175FA508454",
+        "admissionid": "5",
+        "primarydiagnosiscode": "O99.613",
+        "primarydiagnosisdescription": "Diseases of the digestive system complicating pregnancy"
+    },
+    {
+        "patientid": "1CA33F6F-2E84-4C99-AF6A-D40F7B4DB27F",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C90",
+        "primarydiagnosisdescription": "Multiple myeloma and malignant plasma cell neoplasms"
+    },
+    {
+        "patientid": "1CA33F6F-2E84-4C99-AF6A-D40F7B4DB27F",
+        "admissionid": "2",
+        "primarydiagnosiscode": "F23",
+        "primarydiagnosisdescription": "Brief psychotic disorder"
+    },
+    {
+        "patientid": "1CA33F6F-2E84-4C99-AF6A-D40F7B4DB27F",
+        "admissionid": "3",
+        "primarydiagnosiscode": "E08.341",
+        "primarydiagnosisdescription": "Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema"
+    },
+    {
+        "patientid": "81606388-2471-42A4-A6F1-1868AE25CFC3",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M49.8",
+        "primarydiagnosisdescription": "Spondylopathy in diseases classified elsewhere"
+    },
+    {
+        "patientid": "E3120DE9-3361-40CF-A618-265C769E75A2",
+        "admissionid": "1",
+        "primarydiagnosiscode": "H26.212",
+        "primarydiagnosisdescription": "Cataract with neovascularization"
+    },
+    {
+        "patientid": "E3120DE9-3361-40CF-A618-265C769E75A2",
+        "admissionid": "2",
+        "primarydiagnosiscode": "I25.72",
+        "primarydiagnosisdescription": "Atherosclerosis of autologous artery coronary artery bypass graft(s) with angina pectoris"
+    },
+    {
+        "patientid": "5C043111-3F94-44BC-A889-97D44ACCC7F6",
+        "admissionid": "1",
+        "primarydiagnosiscode": "Z12.12",
+        "primarydiagnosisdescription": "Encounter for screening for malignant neoplasm of rectum"
+    },
+    {
+        "patientid": "5C043111-3F94-44BC-A889-97D44ACCC7F6",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M24.211",
+        "primarydiagnosisdescription": "Disorder of ligament"
+    },
+    {
+        "patientid": "5C043111-3F94-44BC-A889-97D44ACCC7F6",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M1A.322",
+        "primarydiagnosisdescription": "Chronic gout due to renal impairment"
+    },
+    {
+        "patientid": "5C043111-3F94-44BC-A889-97D44ACCC7F6",
+        "admissionid": "4",
+        "primarydiagnosiscode": "D41.12",
+        "primarydiagnosisdescription": "Neoplasm of uncertain behavior of left renal pelvis"
+    },
+    {
+        "patientid": "0A10A379-05B1-438B-84A0-18B4D1AE2615",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M90.642",
+        "primarydiagnosisdescription": "Osteitis deformans in neoplastic diseases"
+    },
+    {
+        "patientid": "4BE9DA70-090C-45D9-BB34-C9FE07883BD9",
+        "admissionid": "1",
+        "primarydiagnosiscode": "D31.0",
+        "primarydiagnosisdescription": "Benign neoplasm of conjunctiva"
+    },
+    {
+        "patientid": "DED90E65-5B8E-497C-9A17-0679C1DA3B6D",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M11.02",
+        "primarydiagnosisdescription": "Hydroxyapatite deposition disease"
+    },
+    {
+        "patientid": "DED90E65-5B8E-497C-9A17-0679C1DA3B6D",
+        "admissionid": "2",
+        "primarydiagnosiscode": "I23.3",
+        "primarydiagnosisdescription": "Rupture of cardiac wall without hemopericardium as current complication following acute myocardial infarction"
+    },
+    {
+        "patientid": "2196B9DF-0AE5-4740-83BC-93B7E16BA83D",
+        "admissionid": "3",
+        "primarydiagnosiscode": "C92.41",
+        "primarydiagnosisdescription": "Acute promyelocytic leukemia"
+    },
+    {
+        "patientid": "2196B9DF-0AE5-4740-83BC-93B7E16BA83D",
+        "admissionid": "4",
+        "primarydiagnosiscode": "G52.0",
+        "primarydiagnosisdescription": "Disorders of olfactory nerve"
+    },
+    {
+        "patientid": "8CF66082-5412-4590-92C2-3ACDB1D1534C",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M12.112",
+        "primarydiagnosisdescription": "Kaschin-Beck disease"
+    },
+    {
+        "patientid": "8CF66082-5412-4590-92C2-3ACDB1D1534C",
+        "admissionid": "2",
+        "primarydiagnosiscode": "F31.61",
+        "primarydiagnosisdescription": "Bipolar disorder"
+    },
+    {
+        "patientid": "8CF66082-5412-4590-92C2-3ACDB1D1534C",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M05.452",
+        "primarydiagnosisdescription": "Rheumatoid myopathy with rheumatoid arthritis of left hip"
+    },
+    {
+        "patientid": "8CF66082-5412-4590-92C2-3ACDB1D1534C",
+        "admissionid": "4",
+        "primarydiagnosiscode": "F43.12",
+        "primarydiagnosisdescription": "Post-traumatic stress disorder"
+    },
+    {
+        "patientid": "8CF66082-5412-4590-92C2-3ACDB1D1534C",
+        "admissionid": "5",
+        "primarydiagnosiscode": "H05",
+        "primarydiagnosisdescription": "Disorders of orbit"
+    },
+    {
+        "patientid": "8CF66082-5412-4590-92C2-3ACDB1D1534C",
+        "admissionid": "6",
+        "primarydiagnosiscode": "M05.342",
+        "primarydiagnosisdescription": "Rheumatoid heart disease with rheumatoid arthritis of left hand"
+    },
+    {
+        "patientid": "8CF66082-5412-4590-92C2-3ACDB1D1534C",
+        "admissionid": "7",
+        "primarydiagnosiscode": "B96.3",
+        "primarydiagnosisdescription": "Hemophilus influenzae [H. influenzae] as the cause of diseases classified elsewhere"
+    },
+    {
+        "patientid": "DBB4DDAC-FB32-4637-845D-46860441824E",
+        "admissionid": "1",
+        "primarydiagnosiscode": "H81.02",
+        "primarydiagnosisdescription": "Ménière's disease"
+    },
+    {
+        "patientid": "DBB4DDAC-FB32-4637-845D-46860441824E",
+        "admissionid": "2",
+        "primarydiagnosiscode": "C23",
+        "primarydiagnosisdescription": "Malignant neoplasm of gallbladder"
+    },
+    {
+        "patientid": "DBB4DDAC-FB32-4637-845D-46860441824E",
+        "admissionid": "3",
+        "primarydiagnosiscode": "C31.0",
+        "primarydiagnosisdescription": "Malignant neoplasm of maxillary sinus"
+    },
+    {
+        "patientid": "DBB4DDAC-FB32-4637-845D-46860441824E",
+        "admissionid": "4",
+        "primarydiagnosiscode": "C11",
+        "primarydiagnosisdescription": "Malignant neoplasm of nasopharynx"
+    },
+    {
+        "patientid": "3343A3A8-72E5-4823-87DC-EF8BD4FB30F1",
+        "admissionid": "1",
+        "primarydiagnosiscode": "E71.5",
+        "primarydiagnosisdescription": "Peroxisomal disorders"
+    },
+    {
+        "patientid": "3343A3A8-72E5-4823-87DC-EF8BD4FB30F1",
+        "admissionid": "2",
+        "primarydiagnosiscode": "H05.1",
+        "primarydiagnosisdescription": "Chronic inflammatory disorders of orbit"
+    },
+    {
+        "patientid": "3343A3A8-72E5-4823-87DC-EF8BD4FB30F1",
+        "admissionid": "3",
+        "primarydiagnosiscode": "H74.1",
+        "primarydiagnosisdescription": "Adhesive middle ear disease"
+    },
+    {
+        "patientid": "3343A3A8-72E5-4823-87DC-EF8BD4FB30F1",
+        "admissionid": "4",
+        "primarydiagnosiscode": "O99.413",
+        "primarydiagnosisdescription": "Diseases of the circulatory system complicating pregnancy"
+    },
+    {
+        "patientid": "747C3A5F-31FA-4650-BD53-B0690FD7210C",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M90.831",
+        "primarydiagnosisdescription": "Osteopathy in diseases classified elsewhere"
+    },
+    {
+        "patientid": "747C3A5F-31FA-4650-BD53-B0690FD7210C",
+        "admissionid": "2",
+        "primarydiagnosiscode": "K08.122",
+        "primarydiagnosisdescription": "Complete loss of teeth due to periodontal diseases"
+    },
+    {
+        "patientid": "747C3A5F-31FA-4650-BD53-B0690FD7210C",
+        "admissionid": "3",
+        "primarydiagnosiscode": "K08.421",
+        "primarydiagnosisdescription": "Partial loss of teeth due to periodontal diseases"
+    },
+    {
+        "patientid": "747C3A5F-31FA-4650-BD53-B0690FD7210C",
+        "admissionid": "4",
+        "primarydiagnosiscode": "H74.13",
+        "primarydiagnosisdescription": "Adhesive middle ear disease"
+    },
+    {
+        "patientid": "747C3A5F-31FA-4650-BD53-B0690FD7210C",
+        "admissionid": "5",
+        "primarydiagnosiscode": "M12.161",
+        "primarydiagnosisdescription": "Kaschin-Beck disease"
+    },
+    {
+        "patientid": "747C3A5F-31FA-4650-BD53-B0690FD7210C",
+        "admissionid": "6",
+        "primarydiagnosiscode": "M06.34",
+        "primarydiagnosisdescription": "Rheumatoid nodule"
+    },
+    {
+        "patientid": "8D311347-11B0-41FB-ADA3-ED58FAB0E312",
+        "admissionid": "1",
+        "primarydiagnosiscode": "K71.0",
+        "primarydiagnosisdescription": "Toxic liver disease with cholestasis"
+    },
+    {
+        "patientid": "8D311347-11B0-41FB-ADA3-ED58FAB0E312",
+        "admissionid": "2",
+        "primarydiagnosiscode": "F43.24",
+        "primarydiagnosisdescription": "Adjustment disorder with disturbance of conduct"
+    },
+    {
+        "patientid": "8D311347-11B0-41FB-ADA3-ED58FAB0E312",
+        "admissionid": "3",
+        "primarydiagnosiscode": "E09.2",
+        "primarydiagnosisdescription": "Drug or chemical induced diabetes mellitus with kidney complications"
+    },
+    {
+        "patientid": "5CB6D718-B3EA-459F-B160-BF06B92CF66A",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M05.42",
+        "primarydiagnosisdescription": "Rheumatoid myopathy with rheumatoid arthritis of elbow"
+    },
+    {
+        "patientid": "5CB6D718-B3EA-459F-B160-BF06B92CF66A",
+        "admissionid": "2",
+        "primarydiagnosiscode": "F60.0",
+        "primarydiagnosisdescription": "Paranoid personality disorder"
+    },
+    {
+        "patientid": "5CB6D718-B3EA-459F-B160-BF06B92CF66A",
+        "admissionid": "3",
+        "primarydiagnosiscode": "E75.241",
+        "primarydiagnosisdescription": "Niemann-Pick disease type B"
+    },
+    {
+        "patientid": "5CB6D718-B3EA-459F-B160-BF06B92CF66A",
+        "admissionid": "4",
+        "primarydiagnosiscode": "M24.22",
+        "primarydiagnosisdescription": "Disorder of ligament"
+    },
+    {
+        "patientid": "B7355DB3-E7D3-4597-84A2-8C0AF1A84486",
+        "admissionid": "1",
+        "primarydiagnosiscode": "Y71.0",
+        "primarydiagnosisdescription": "Diagnostic and monitoring cardiovascular devices associated with adverse incidents"
+    },
+    {
+        "patientid": "B7355DB3-E7D3-4597-84A2-8C0AF1A84486",
+        "admissionid": "2",
+        "primarydiagnosiscode": "H05.32",
+        "primarydiagnosisdescription": "Deformity of orbit due to bone disease"
+    },
+    {
+        "patientid": "B7355DB3-E7D3-4597-84A2-8C0AF1A84486",
+        "admissionid": "3",
+        "primarydiagnosiscode": "K91.83",
+        "primarydiagnosisdescription": "Postprocedural hepatorenal syndrome"
+    },
+    {
+        "patientid": "B7355DB3-E7D3-4597-84A2-8C0AF1A84486",
+        "admissionid": "4",
+        "primarydiagnosiscode": "I77.73",
+        "primarydiagnosisdescription": "Dissection of renal artery"
+    },
+    {
+        "patientid": "B7355DB3-E7D3-4597-84A2-8C0AF1A84486",
+        "admissionid": "5",
+        "primarydiagnosiscode": "O98.613",
+        "primarydiagnosisdescription": "Protozoal diseases complicating pregnancy"
+    },
+    {
+        "patientid": "B2378BDB-5F71-467B-9CA6-8668FFBBDD99",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C10",
+        "primarydiagnosisdescription": "Malignant neoplasm of oropharynx"
+    },
+    {
+        "patientid": "73FB6F2F-F4D4-4D2E-858F-F32876C85506",
+        "admissionid": "1",
+        "primarydiagnosiscode": "F10.14",
+        "primarydiagnosisdescription": "Alcohol abuse with alcohol-induced mood disorder"
+    },
+    {
+        "patientid": "73FB6F2F-F4D4-4D2E-858F-F32876C85506",
+        "admissionid": "2",
+        "primarydiagnosiscode": "I27.82",
+        "primarydiagnosisdescription": "Chronic pulmonary embolism"
+    },
+    {
+        "patientid": "73FB6F2F-F4D4-4D2E-858F-F32876C85506",
+        "admissionid": "3",
+        "primarydiagnosiscode": "H95",
+        "primarydiagnosisdescription": "Intraoperative and postprocedural complications and disorders of ear and mastoid process"
+    },
+    {
+        "patientid": "73FB6F2F-F4D4-4D2E-858F-F32876C85506",
+        "admissionid": "4",
+        "primarydiagnosiscode": "D10.0",
+        "primarydiagnosisdescription": "Benign neoplasm of lip"
+    },
+    {
+        "patientid": "73FB6F2F-F4D4-4D2E-858F-F32876C85506",
+        "admissionid": "5",
+        "primarydiagnosiscode": "M06.362",
+        "primarydiagnosisdescription": "Rheumatoid nodule"
+    },
+    {
+        "patientid": "A2347922-205E-4FEB-8092-6AE51FA7CF54",
+        "admissionid": "1",
+        "primarydiagnosiscode": "E10.331",
+        "primarydiagnosisdescription": "Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema"
+    },
+    {
+        "patientid": "A2347922-205E-4FEB-8092-6AE51FA7CF54",
+        "admissionid": "2",
+        "primarydiagnosiscode": "H47.632",
+        "primarydiagnosisdescription": "Disorders of visual cortex in (due to) neoplasm"
+    },
+    {
+        "patientid": "A2347922-205E-4FEB-8092-6AE51FA7CF54",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M06.312",
+        "primarydiagnosisdescription": "Rheumatoid nodule"
+    },
+    {
+        "patientid": "A2347922-205E-4FEB-8092-6AE51FA7CF54",
+        "admissionid": "4",
+        "primarydiagnosiscode": "M01.X7",
+        "primarydiagnosisdescription": "Direct infection of ankle and foot in infectious and parasitic diseases classified elsewhere"
+    },
+    {
+        "patientid": "A2347922-205E-4FEB-8092-6AE51FA7CF54",
+        "admissionid": "5",
+        "primarydiagnosiscode": "C00.0",
+        "primarydiagnosisdescription": "Malignant neoplasm of external upper lip"
+    },
+    {
+        "patientid": "4EF76E8F-629F-421E-A57D-1EF2702EB3C3",
+        "admissionid": "1",
+        "primarydiagnosiscode": "E80",
+        "primarydiagnosisdescription": "Disorders of porphyrin and bilirubin metabolism"
+    },
+    {
+        "patientid": "4EF76E8F-629F-421E-A57D-1EF2702EB3C3",
+        "admissionid": "2",
+        "primarydiagnosiscode": "D36.11",
+        "primarydiagnosisdescription": "Benign neoplasm of peripheral nerves and autonomic nervous system of face"
+    },
+    {
+        "patientid": "DB45544E-D241-4966-BF40-701208595449",
+        "admissionid": "1",
+        "primarydiagnosiscode": "F43.1",
+        "primarydiagnosisdescription": "Post-traumatic stress disorder (PTSD)"
+    },
+    {
+        "patientid": "DB45544E-D241-4966-BF40-701208595449",
+        "admissionid": "2",
+        "primarydiagnosiscode": "O98.72",
+        "primarydiagnosisdescription": "Human immunodeficiency virus [HIV] disease complicating childbirth"
+    },
+    {
+        "patientid": "DB45544E-D241-4966-BF40-701208595449",
+        "admissionid": "3",
+        "primarydiagnosiscode": "P71",
+        "primarydiagnosisdescription": "Transitory neonatal disorders of calcium and magnesium metabolism"
+    },
+    {
+        "patientid": "AB29C787-4615-42B7-95CF-4EC7B3EDC2D6",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C15.4",
+        "primarydiagnosisdescription": "Malignant neoplasm of middle third of esophagus"
+    },
+    {
+        "patientid": "AB29C787-4615-42B7-95CF-4EC7B3EDC2D6",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M24.271",
+        "primarydiagnosisdescription": "Disorder of ligament"
+    },
+    {
+        "patientid": "AB29C787-4615-42B7-95CF-4EC7B3EDC2D6",
+        "admissionid": "3",
+        "primarydiagnosiscode": "O99.352",
+        "primarydiagnosisdescription": "Diseases of the nervous system complicating pregnancy"
+    },
+    {
+        "patientid": "E3FF132A-1967-4218-8AA8-CA4CBAC05855",
+        "admissionid": "1",
+        "primarydiagnosiscode": "N25.1",
+        "primarydiagnosisdescription": "Nephrogenic diabetes insipidus"
+    },
+    {
+        "patientid": "E3FF132A-1967-4218-8AA8-CA4CBAC05855",
+        "admissionid": "2",
+        "primarydiagnosiscode": "F31.75",
+        "primarydiagnosisdescription": "Bipolar disorder"
+    },
+    {
+        "patientid": "E3FF132A-1967-4218-8AA8-CA4CBAC05855",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M10.34",
+        "primarydiagnosisdescription": "Gout due to renal impairment"
+    },
+    {
+        "patientid": "CB796A9A-655F-49F5-B9DC-BCE52A237A9B",
+        "admissionid": "3",
+        "primarydiagnosiscode": "L86",
+        "primarydiagnosisdescription": "Keratoderma in diseases classified elsewhere"
+    },
+    {
+        "patientid": "CB796A9A-655F-49F5-B9DC-BCE52A237A9B",
+        "admissionid": "4",
+        "primarydiagnosiscode": "E09.349",
+        "primarydiagnosisdescription": "Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema"
+    },
+    {
+        "patientid": "F60EF5D5-101D-4320-A84D-6AAAF7BEB86D",
+        "admissionid": "1",
+        "primarydiagnosiscode": "I37.2",
+        "primarydiagnosisdescription": "Nonrheumatic pulmonary valve stenosis with insufficiency"
+    },
+    {
+        "patientid": "F60EF5D5-101D-4320-A84D-6AAAF7BEB86D",
+        "admissionid": "2",
+        "primarydiagnosiscode": "C37",
+        "primarydiagnosisdescription": "Malignant neoplasm of thymus"
+    },
+    {
+        "patientid": "F60EF5D5-101D-4320-A84D-6AAAF7BEB86D",
+        "admissionid": "3",
+        "primarydiagnosiscode": "J95.2",
+        "primarydiagnosisdescription": "Acute pulmonary insufficiency following nonthoracic surgery"
+    },
+    {
+        "patientid": "A48FF6B1-F92A-40A3-BB02-C29195FBDDBC",
+        "admissionid": "1",
+        "primarydiagnosiscode": "I21.21",
+        "primarydiagnosisdescription": "ST elevation (STEMI) myocardial infarction involving left circumflex coronary artery"
+    },
+    {
+        "patientid": "A48FF6B1-F92A-40A3-BB02-C29195FBDDBC",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M90.67",
+        "primarydiagnosisdescription": "Osteitis deformans in neoplastic diseases"
+    },
+    {
+        "patientid": "A48FF6B1-F92A-40A3-BB02-C29195FBDDBC",
+        "admissionid": "3",
+        "primarydiagnosiscode": "H74.11",
+        "primarydiagnosisdescription": "Adhesive right middle ear disease"
+    },
+    {
+        "patientid": "2EC96A3D-AE0A-4CA4-B129-14E38952340E",
+        "admissionid": "1",
+        "primarydiagnosiscode": "N18.1",
+        "primarydiagnosisdescription": "Chronic kidney disease"
+    },
+    {
+        "patientid": "2EC96A3D-AE0A-4CA4-B129-14E38952340E",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M90.8",
+        "primarydiagnosisdescription": "Osteopathy in diseases classified elsewhere"
+    },
+    {
+        "patientid": "2EC96A3D-AE0A-4CA4-B129-14E38952340E",
+        "admissionid": "3",
+        "primarydiagnosiscode": "D55",
+        "primarydiagnosisdescription": "Anemia due to enzyme disorders"
+    },
+    {
+        "patientid": "57EA8292-7D63-41F2-8783-7C7938EB073D",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M06.23",
+        "primarydiagnosisdescription": "Rheumatoid bursitis"
+    },
+    {
+        "patientid": "57EA8292-7D63-41F2-8783-7C7938EB073D",
+        "admissionid": "2",
+        "primarydiagnosiscode": "T46.0X",
+        "primarydiagnosisdescription": "Poisoning by"
+    },
+    {
+        "patientid": "57EA8292-7D63-41F2-8783-7C7938EB073D",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M02.331",
+        "primarydiagnosisdescription": "Reiter's disease"
+    },
+    {
+        "patientid": "4EB95575-190D-4DA2-95A5-EFE9B3F5733B",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C92.4",
+        "primarydiagnosisdescription": "Acute promyelocytic leukemia"
+    },
+    {
+        "patientid": "4EB95575-190D-4DA2-95A5-EFE9B3F5733B",
+        "admissionid": "2",
+        "primarydiagnosiscode": "C70",
+        "primarydiagnosisdescription": "Malignant neoplasm of meninges"
+    },
+    {
+        "patientid": "4EB95575-190D-4DA2-95A5-EFE9B3F5733B",
+        "admissionid": "3",
+        "primarydiagnosiscode": "J99",
+        "primarydiagnosisdescription": "Respiratory disorders in diseases classified elsewhere"
+    },
+    {
+        "patientid": "02FA2A41-E4F9-4EE7-A768-01D223074C93",
+        "admissionid": "1",
+        "primarydiagnosiscode": "R39.2",
+        "primarydiagnosisdescription": "Extrarenal uremia"
+    },
+    {
+        "patientid": "02FA2A41-E4F9-4EE7-A768-01D223074C93",
+        "admissionid": "2",
+        "primarydiagnosiscode": "S35.4",
+        "primarydiagnosisdescription": "Injury of renal blood vessels"
+    },
+    {
+        "patientid": "9CDAF3F5-FBB3-4182-A94E-A1758749F9F3",
+        "admissionid": "1",
+        "primarydiagnosiscode": "H81.0",
+        "primarydiagnosisdescription": "Ménière's disease"
+    },
+    {
+        "patientid": "9CDAF3F5-FBB3-4182-A94E-A1758749F9F3",
+        "admissionid": "2",
+        "primarydiagnosiscode": "C13.0",
+        "primarydiagnosisdescription": "Malignant neoplasm of postcricoid region"
+    },
+    {
+        "patientid": "8940AC38-15F6-4B93-84AC-386AE5D2BD6C",
+        "admissionid": "1",
+        "primarydiagnosiscode": "E75.21",
+        "primarydiagnosisdescription": "Fabry (-Anderson) disease"
+    },
+    {
+        "patientid": "8940AC38-15F6-4B93-84AC-386AE5D2BD6C",
+        "admissionid": "2",
+        "primarydiagnosiscode": "O24.12",
+        "primarydiagnosisdescription": "Pre-existing diabetes mellitus"
+    },
+    {
+        "patientid": "8940AC38-15F6-4B93-84AC-386AE5D2BD6C",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M90.631",
+        "primarydiagnosisdescription": "Osteitis deformans in neoplastic diseases"
+    },
+    {
+        "patientid": "8940AC38-15F6-4B93-84AC-386AE5D2BD6C",
+        "admissionid": "4",
+        "primarydiagnosiscode": "F13.151",
+        "primarydiagnosisdescription": "Sedative"
+    },
+    {
+        "patientid": "8940AC38-15F6-4B93-84AC-386AE5D2BD6C",
+        "admissionid": "5",
+        "primarydiagnosiscode": "D43",
+        "primarydiagnosisdescription": "Neoplasm of uncertain behavior of brain and central nervous system"
+    },
+    {
+        "patientid": "8940AC38-15F6-4B93-84AC-386AE5D2BD6C",
+        "admissionid": "6",
+        "primarydiagnosiscode": "B95.6",
+        "primarydiagnosisdescription": "Staphylococcus aureus as the cause of diseases classified elsewhere"
+    },
+    {
+        "patientid": "9D1DBDC9-5D5A-42FE-8334-828EB52FC25B",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C47.11",
+        "primarydiagnosisdescription": "Malignant neoplasm of peripheral nerves of right upper limb"
+    },
+    {
+        "patientid": "9D1DBDC9-5D5A-42FE-8334-828EB52FC25B",
+        "admissionid": "2",
+        "primarydiagnosiscode": "F30.1",
+        "primarydiagnosisdescription": "Manic episode without psychotic symptoms"
+    },
+    {
+        "patientid": "B5C4365B-3BC2-486E-9854-8AC7F76F4601",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M10.311",
+        "primarydiagnosisdescription": "Gout due to renal impairment"
+    },
+    {
+        "patientid": "B5C4365B-3BC2-486E-9854-8AC7F76F4601",
+        "admissionid": "2",
+        "primarydiagnosiscode": "O99.51",
+        "primarydiagnosisdescription": "Diseases of the respiratory system complicating pregnancy"
+    },
+    {
+        "patientid": "B5C4365B-3BC2-486E-9854-8AC7F76F4601",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M06.35",
+        "primarydiagnosisdescription": "Rheumatoid nodule"
+    },
+    {
+        "patientid": "428304A5-7CF4-4B0E-9B6B-F6D4C34F7EF6",
+        "admissionid": "1",
+        "primarydiagnosiscode": "E11.65",
+        "primarydiagnosisdescription": "Type 2 diabetes mellitus with hyperglycemia"
+    },
+    {
+        "patientid": "428304A5-7CF4-4B0E-9B6B-F6D4C34F7EF6",
+        "admissionid": "2",
+        "primarydiagnosiscode": "D57.20",
+        "primarydiagnosisdescription": "Sickle-cell/Hb-C disease without crisis"
+    },
+    {
+        "patientid": "428304A5-7CF4-4B0E-9B6B-F6D4C34F7EF6",
+        "admissionid": "3",
+        "primarydiagnosiscode": "D31.02",
+        "primarydiagnosisdescription": "Benign neoplasm of left conjunctiva"
+    },
+    {
+        "patientid": "5217AC01-E2C0-4976-A07B-6BC11DF02971",
+        "admissionid": "1",
+        "primarydiagnosiscode": "H43",
+        "primarydiagnosisdescription": "Disorders of vitreous body"
+    },
+    {
+        "patientid": "5217AC01-E2C0-4976-A07B-6BC11DF02971",
+        "admissionid": "2",
+        "primarydiagnosiscode": "Z12.73",
+        "primarydiagnosisdescription": "Encounter for screening for malignant neoplasm of ovary"
+    },
+    {
+        "patientid": "5217AC01-E2C0-4976-A07B-6BC11DF02971",
+        "admissionid": "3",
+        "primarydiagnosiscode": "A83.6",
+        "primarydiagnosisdescription": "Rocio virus disease"
+    },
+    {
+        "patientid": "37B17D45-5F54-4522-8C69-F1F639DCE151",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C01",
+        "primarydiagnosisdescription": "Malignant neoplasm of base of tongue"
+    },
+    {
+        "patientid": "37B17D45-5F54-4522-8C69-F1F639DCE151",
+        "admissionid": "2",
+        "primarydiagnosiscode": "D57.01",
+        "primarydiagnosisdescription": "Hb-SS disease with acute chest syndrome"
+    },
+    {
+        "patientid": "37B17D45-5F54-4522-8C69-F1F639DCE151",
+        "admissionid": "3",
+        "primarydiagnosiscode": "F01.5",
+        "primarydiagnosisdescription": "Vascular dementia"
+    },
+    {
+        "patientid": "37B17D45-5F54-4522-8C69-F1F639DCE151",
+        "admissionid": "4",
+        "primarydiagnosiscode": "M63.841",
+        "primarydiagnosisdescription": "Disorders of muscle in diseases classified elsewhere"
+    },
+    {
+        "patientid": "59BCAFCA-807B-45E0-A820-1CA56A2CD504",
+        "admissionid": "1",
+        "primarydiagnosiscode": "I79.0",
+        "primarydiagnosisdescription": "Aneurysm of aorta in diseases classified elsewhere"
+    },
+    {
+        "patientid": "59BCAFCA-807B-45E0-A820-1CA56A2CD504",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M63.86",
+        "primarydiagnosisdescription": "Disorders of muscle in diseases classified elsewhere"
+    },
+    {
+        "patientid": "59BCAFCA-807B-45E0-A820-1CA56A2CD504",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M84.552",
+        "primarydiagnosisdescription": "Pathological fracture in neoplastic disease"
+    },
+    {
+        "patientid": "2537B84E-01E7-44E2-9538-6E35E3CD3B41",
+        "admissionid": "1",
+        "primarydiagnosiscode": "Z15.04",
+        "primarydiagnosisdescription": "Genetic susceptibility to malignant neoplasm of endometrium"
+    },
+    {
+        "patientid": "2537B84E-01E7-44E2-9538-6E35E3CD3B41",
+        "admissionid": "2",
+        "primarydiagnosiscode": "C23",
+        "primarydiagnosisdescription": "Malignant neoplasm of gallbladder"
+    },
+    {
+        "patientid": "26E0E5AF-9D6D-44BC-BEA3-8CC7057D2F0A",
+        "admissionid": "1",
+        "primarydiagnosiscode": "B95.1",
+        "primarydiagnosisdescription": "Streptococcus"
+    },
+    {
+        "patientid": "26E0E5AF-9D6D-44BC-BEA3-8CC7057D2F0A",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M01.X5",
+        "primarydiagnosisdescription": "Direct infection of hip in infectious and parasitic diseases classified elsewhere"
+    },
+    {
+        "patientid": "26E0E5AF-9D6D-44BC-BEA3-8CC7057D2F0A",
+        "admissionid": "3",
+        "primarydiagnosiscode": "E09",
+        "primarydiagnosisdescription": "Drug or chemical induced diabetes mellitus"
+    },
+    {
+        "patientid": "A7F8B460-47C6-4D03-925A-6230EFFBFE35",
+        "admissionid": "1",
+        "primarydiagnosiscode": "G96.1",
+        "primarydiagnosisdescription": "Disorders of meninges"
+    },
+    {
+        "patientid": "A7F8B460-47C6-4D03-925A-6230EFFBFE35",
+        "admissionid": "2",
+        "primarydiagnosiscode": "E08.620",
+        "primarydiagnosisdescription": "Diabetes mellitus due to underlying condition with diabetic dermatitis"
+    },
+    {
+        "patientid": "098EA95C-1736-484C-A0FD-A8DECC1C20F3",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C69.5",
+        "primarydiagnosisdescription": "Malignant neoplasm of lacrimal gland and duct"
+    },
+    {
+        "patientid": "098EA95C-1736-484C-A0FD-A8DECC1C20F3",
+        "admissionid": "2",
+        "primarydiagnosiscode": "H75.03",
+        "primarydiagnosisdescription": "Mastoiditis in infectious and parasitic diseases classified elsewhere"
+    },
+    {
+        "patientid": "C570D07C-2A02-417A-AC7B-D29EF8201BEF",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C91.02",
+        "primarydiagnosisdescription": "Acute lymphoblastic leukemia"
+    },
+    {
+        "patientid": "C570D07C-2A02-417A-AC7B-D29EF8201BEF",
+        "admissionid": "2",
+        "primarydiagnosiscode": "D35.01",
+        "primarydiagnosisdescription": "Benign neoplasm of right adrenal gland"
+    },
+    {
+        "patientid": "B5B7F53C-9DDA-47A1-9DFF-0C7FE57114B3",
+        "admissionid": "1",
+        "primarydiagnosiscode": "G07",
+        "primarydiagnosisdescription": "Intracranial and intraspinal abscess and granuloma in diseases classified elsewhere"
+    },
+    {
+        "patientid": "B5B7F53C-9DDA-47A1-9DFF-0C7FE57114B3",
+        "admissionid": "2",
+        "primarydiagnosiscode": "F32.5",
+        "primarydiagnosisdescription": "Major depressive disorder"
+    },
+    {
+        "patientid": "218EB3F3-3482-45A1-92A7-95DF0FAADDEC",
+        "admissionid": "1",
+        "primarydiagnosiscode": "H47.522",
+        "primarydiagnosisdescription": "Disorders of visual pathways in (due to) neoplasm"
+    },
+    {
+        "patientid": "218EB3F3-3482-45A1-92A7-95DF0FAADDEC",
+        "admissionid": "2",
+        "primarydiagnosiscode": "H26.212",
+        "primarydiagnosisdescription": "Cataract with neovascularization"
+    },
+    {
+        "patientid": "218EB3F3-3482-45A1-92A7-95DF0FAADDEC",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M88",
+        "primarydiagnosisdescription": "Osteitis deformans [Paget's disease of bone]"
+    },
+    {
+        "patientid": "E79DBD4E-B3E8-4454-8F2C-1769BB95F414",
+        "admissionid": "1",
+        "primarydiagnosiscode": "E10.62",
+        "primarydiagnosisdescription": "Type 1 diabetes mellitus with skin complications"
+    },
+    {
+        "patientid": "E79DBD4E-B3E8-4454-8F2C-1769BB95F414",
+        "admissionid": "2",
+        "primarydiagnosiscode": "Z04.6",
+        "primarydiagnosisdescription": "Encounter for general psychiatric examination"
+    },
+    {
+        "patientid": "E79DBD4E-B3E8-4454-8F2C-1769BB95F414",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M01.X8",
+        "primarydiagnosisdescription": "Direct infection of vertebrae in infectious and parasitic diseases classified elsewhere"
+    },
+    {
+        "patientid": "E79DBD4E-B3E8-4454-8F2C-1769BB95F414",
+        "admissionid": "4",
+        "primarydiagnosiscode": "E25",
+        "primarydiagnosisdescription": "Adrenogenital disorders"
+    },
+    {
+        "patientid": "E79DBD4E-B3E8-4454-8F2C-1769BB95F414",
+        "admissionid": "5",
+        "primarydiagnosiscode": "M10.342",
+        "primarydiagnosisdescription": "Gout due to renal impairment"
+    },
+    {
+        "patientid": "31C255C0-777D-4641-A86C-94E6D41F55E5",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C76.52",
+        "primarydiagnosisdescription": "Malignant neoplasm of left lower limb"
+    },
+    {
+        "patientid": "31C255C0-777D-4641-A86C-94E6D41F55E5",
+        "admissionid": "2",
+        "primarydiagnosiscode": "E08.62",
+        "primarydiagnosisdescription": "Diabetes mellitus due to underlying condition with skin complications"
+    },
+    {
+        "patientid": "31C255C0-777D-4641-A86C-94E6D41F55E5",
+        "admissionid": "3",
+        "primarydiagnosiscode": "H81.02",
+        "primarydiagnosisdescription": "Ménière's disease"
+    },
+    {
+        "patientid": "CAA35231-0CF2-44C4-8817-BB4A13FE3B07",
+        "admissionid": "1",
+        "primarydiagnosiscode": "I25.7",
+        "primarydiagnosisdescription": "Atherosclerosis of coronary artery bypass graft(s) and coronary artery of transplanted heart with angina pectoris"
+    },
+    {
+        "patientid": "CAA35231-0CF2-44C4-8817-BB4A13FE3B07",
+        "admissionid": "2",
+        "primarydiagnosiscode": "G51",
+        "primarydiagnosisdescription": "Facial nerve disorders"
+    },
+    {
+        "patientid": "CAA35231-0CF2-44C4-8817-BB4A13FE3B07",
+        "admissionid": "3",
+        "primarydiagnosiscode": "E11.341",
+        "primarydiagnosisdescription": "Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema"
+    },
+    {
+        "patientid": "CAA35231-0CF2-44C4-8817-BB4A13FE3B07",
+        "admissionid": "4",
+        "primarydiagnosiscode": "M90.611",
+        "primarydiagnosisdescription": "Osteitis deformans in neoplastic diseases"
+    },
+    {
+        "patientid": "CAA35231-0CF2-44C4-8817-BB4A13FE3B07",
+        "admissionid": "5",
+        "primarydiagnosiscode": "M05.311",
+        "primarydiagnosisdescription": "Rheumatoid heart disease with rheumatoid arthritis of right shoulder"
+    },
+    {
+        "patientid": "CAA35231-0CF2-44C4-8817-BB4A13FE3B07",
+        "admissionid": "6",
+        "primarydiagnosiscode": "D55",
+        "primarydiagnosisdescription": "Anemia due to enzyme disorders"
+    },
+    {
+        "patientid": "BA2BCCD4-45EF-47FE-AB7E-6567E831A13A",
+        "admissionid": "1",
+        "primarydiagnosiscode": "I15.2",
+        "primarydiagnosisdescription": "Hypertension secondary to endocrine disorders"
+    },
+    {
+        "patientid": "BA2BCCD4-45EF-47FE-AB7E-6567E831A13A",
+        "admissionid": "2",
+        "primarydiagnosiscode": "H93.3X3",
+        "primarydiagnosisdescription": "Disorders of bilateral acoustic nerves"
+    },
+    {
+        "patientid": "BA2BCCD4-45EF-47FE-AB7E-6567E831A13A",
+        "admissionid": "3",
+        "primarydiagnosiscode": "D89.81",
+        "primarydiagnosisdescription": "Graft-versus-host disease"
+    },
+    {
+        "patientid": "BA2BCCD4-45EF-47FE-AB7E-6567E831A13A",
+        "admissionid": "4",
+        "primarydiagnosiscode": "I51.3",
+        "primarydiagnosisdescription": "Intracardiac thrombosis"
+    },
+    {
+        "patientid": "F15FF4B8-B061-456D-877C-3B842BCCDD6F",
+        "admissionid": "1",
+        "primarydiagnosiscode": "D17.2",
+        "primarydiagnosisdescription": "Benign lipomatous neoplasm of skin and subcutaneous tissue of limb"
+    },
+    {
+        "patientid": "F15FF4B8-B061-456D-877C-3B842BCCDD6F",
+        "admissionid": "2",
+        "primarydiagnosiscode": "A69.21",
+        "primarydiagnosisdescription": "Meningitis due to Lyme disease"
+    },
+    {
+        "patientid": "F15FF4B8-B061-456D-877C-3B842BCCDD6F",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M02.341",
+        "primarydiagnosisdescription": "Reiter's disease"
+    },
+    {
+        "patientid": "EF0D2942-4CD9-413E-82EE-942A95638887",
+        "admissionid": "1",
+        "primarydiagnosiscode": "H05.323",
+        "primarydiagnosisdescription": "Deformity of bilateral orbits due to bone disease"
+    },
+    {
+        "patientid": "EF0D2942-4CD9-413E-82EE-942A95638887",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M90.652",
+        "primarydiagnosisdescription": "Osteitis deformans in neoplastic diseases"
+    },
+    {
+        "patientid": "A0B9C968-8887-4EE5-8E49-B3D642229137",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M05.362",
+        "primarydiagnosisdescription": "Rheumatoid heart disease with rheumatoid arthritis of left knee"
+    },
+    {
+        "patientid": "A0B9C968-8887-4EE5-8E49-B3D642229137",
+        "admissionid": "2",
+        "primarydiagnosiscode": "N99",
+        "primarydiagnosisdescription": "Intraoperative and postprocedural complications and disorders of genitourinary system"
+    },
+    {
+        "patientid": "A0B9C968-8887-4EE5-8E49-B3D642229137",
+        "admissionid": "3",
+        "primarydiagnosiscode": "E10.9",
+        "primarydiagnosisdescription": "Type 1 diabetes mellitus without complications"
+    },
+    {
+        "patientid": "A0B9C968-8887-4EE5-8E49-B3D642229137",
+        "admissionid": "4",
+        "primarydiagnosiscode": "E10.351",
+        "primarydiagnosisdescription": "Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema"
+    },
+    {
+        "patientid": "6A4B6EC6-55E8-4E23-839D-74F6D0183D22",
+        "admissionid": "1",
+        "primarydiagnosiscode": "K05",
+        "primarydiagnosisdescription": "Gingivitis and periodontal diseases"
+    },
+    {
+        "patientid": "6A4B6EC6-55E8-4E23-839D-74F6D0183D22",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M24.241",
+        "primarydiagnosisdescription": "Disorder of ligament"
+    },
+    {
+        "patientid": "6A4B6EC6-55E8-4E23-839D-74F6D0183D22",
+        "admissionid": "3",
+        "primarydiagnosiscode": "E11.341",
+        "primarydiagnosisdescription": "Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema"
+    },
+    {
+        "patientid": "DAB9AB03-4B37-4D85-B979-7CF3D88A3D26",
+        "admissionid": "1",
+        "primarydiagnosiscode": "T82.2",
+        "primarydiagnosisdescription": "Mechanical complication of coronary artery bypass graft and biological heart valve graft"
+    },
+    {
+        "patientid": "363AC1A0-F059-4A57-88AE-CF6CFD1AFEEE",
+        "admissionid": "1",
+        "primarydiagnosiscode": "B73.0",
+        "primarydiagnosisdescription": "Onchocerciasis with eye disease"
+    },
+    {
+        "patientid": "363AC1A0-F059-4A57-88AE-CF6CFD1AFEEE",
+        "admissionid": "2",
+        "primarydiagnosiscode": "C11.1",
+        "primarydiagnosisdescription": "Malignant neoplasm of posterior wall of nasopharynx"
+    },
+    {
+        "patientid": "363AC1A0-F059-4A57-88AE-CF6CFD1AFEEE",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M06.342",
+        "primarydiagnosisdescription": "Rheumatoid nodule"
+    },
+    {
+        "patientid": "0F27DA16-26DC-4B94-A945-B2A315F9CFCB",
+        "admissionid": "1",
+        "primarydiagnosiscode": "S25.412",
+        "primarydiagnosisdescription": "Minor laceration of left pulmonary blood vessels"
+    },
+    {
+        "patientid": "0F27DA16-26DC-4B94-A945-B2A315F9CFCB",
+        "admissionid": "2",
+        "primarydiagnosiscode": "C65.1",
+        "primarydiagnosisdescription": "Malignant neoplasm of right renal pelvis"
+    },
+    {
+        "patientid": "073E8C7E-EB77-4E1A-B771-1F2A8859B8E4",
+        "admissionid": "1",
+        "primarydiagnosiscode": "Q26.2",
+        "primarydiagnosisdescription": "Total anomalous pulmonary venous connection"
+    },
+    {
+        "patientid": "073E8C7E-EB77-4E1A-B771-1F2A8859B8E4",
+        "admissionid": "2",
+        "primarydiagnosiscode": "D17.23",
+        "primarydiagnosisdescription": "Benign lipomatous neoplasm of skin and subcutaneous tissue of right leg"
+    },
+    {
+        "patientid": "073E8C7E-EB77-4E1A-B771-1F2A8859B8E4",
+        "admissionid": "3",
+        "primarydiagnosiscode": "E75.241",
+        "primarydiagnosisdescription": "Niemann-Pick disease type B"
+    },
+    {
+        "patientid": "073E8C7E-EB77-4E1A-B771-1F2A8859B8E4",
+        "admissionid": "4",
+        "primarydiagnosiscode": "D33.1",
+        "primarydiagnosisdescription": "Benign neoplasm of brain"
+    },
+    {
+        "patientid": "073E8C7E-EB77-4E1A-B771-1F2A8859B8E4",
+        "admissionid": "5",
+        "primarydiagnosiscode": "C69.41",
+        "primarydiagnosisdescription": "Malignant neoplasm of right ciliary body"
+    },
+    {
+        "patientid": "05FC74DD-21ED-46E3-A437-EEF0E2C1A046",
+        "admissionid": "1",
+        "primarydiagnosiscode": "G71",
+        "primarydiagnosisdescription": "Primary disorders of muscles"
+    },
+    {
+        "patientid": "05FC74DD-21ED-46E3-A437-EEF0E2C1A046",
+        "admissionid": "2",
+        "primarydiagnosiscode": "O99.512",
+        "primarydiagnosisdescription": "Diseases of the respiratory system complicating pregnancy"
+    },
+    {
+        "patientid": "0C0A3BA7-97F2-481C-8381-26658FE05610",
+        "admissionid": "1",
+        "primarydiagnosiscode": "N06.6",
+        "primarydiagnosisdescription": "Isolated proteinuria with dense deposit disease"
+    },
+    {
+        "patientid": "0C0A3BA7-97F2-481C-8381-26658FE05610",
+        "admissionid": "2",
+        "primarydiagnosiscode": "C48.8",
+        "primarydiagnosisdescription": "Malignant neoplasm of overlapping sites of retroperitoneum and peritoneum"
+    },
+    {
+        "patientid": "18A71667-9953-42EB-BB0E-18030976925F",
+        "admissionid": "1",
+        "primarydiagnosiscode": "B08.3",
+        "primarydiagnosisdescription": "Erythema infectiosum [fifth disease]"
+    },
+    {
+        "patientid": "18A71667-9953-42EB-BB0E-18030976925F",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M06.09",
+        "primarydiagnosisdescription": "Rheumatoid arthritis without rheumatoid factor"
+    },
+    {
+        "patientid": "18A71667-9953-42EB-BB0E-18030976925F",
+        "admissionid": "3",
+        "primarydiagnosiscode": "E10.64",
+        "primarydiagnosisdescription": "Type 1 diabetes mellitus with hypoglycemia"
+    },
+    {
+        "patientid": "78C0C54F-3D75-4477-AE6D-910B999B707A",
+        "admissionid": "4",
+        "primarydiagnosiscode": "E83",
+        "primarydiagnosisdescription": "Disorders of mineral metabolism"
+    },
+    {
+        "patientid": "78C0C54F-3D75-4477-AE6D-910B999B707A",
+        "admissionid": "5",
+        "primarydiagnosiscode": "P27",
+        "primarydiagnosisdescription": "Chronic respiratory disease originating in the perinatal period"
+    },
+    {
+        "patientid": "78C0C54F-3D75-4477-AE6D-910B999B707A",
+        "admissionid": "6",
+        "primarydiagnosiscode": "T46.3X1",
+        "primarydiagnosisdescription": "Poisoning by coronary vasodilators"
+    },
+    {
+        "patientid": "8A7B516A-3DB4-47AC-A97B-3AB96C31F8DC",
+        "admissionid": "1",
+        "primarydiagnosiscode": "H47.63",
+        "primarydiagnosisdescription": "Disorders of visual cortex in (due to) neoplasm"
+    },
+    {
+        "patientid": "8A7B516A-3DB4-47AC-A97B-3AB96C31F8DC",
+        "admissionid": "2",
+        "primarydiagnosiscode": "F43.23",
+        "primarydiagnosisdescription": "Adjustment disorder with mixed anxiety and depressed mood"
+    },
+    {
+        "patientid": "8A7B516A-3DB4-47AC-A97B-3AB96C31F8DC",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M90.62",
+        "primarydiagnosisdescription": "Osteitis deformans in neoplastic diseases"
+    },
+    {
+        "patientid": "EF73C74A-168E-46CC-B05D-28C05BB23C35",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M06.02",
+        "primarydiagnosisdescription": "Rheumatoid arthritis without rheumatoid factor"
+    },
+    {
+        "patientid": "EF73C74A-168E-46CC-B05D-28C05BB23C35",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M05.271",
+        "primarydiagnosisdescription": "Rheumatoid vasculitis with rheumatoid arthritis of right ankle and foot"
+    },
+    {
+        "patientid": "EF73C74A-168E-46CC-B05D-28C05BB23C35",
+        "admissionid": "3",
+        "primarydiagnosiscode": "D13.9",
+        "primarydiagnosisdescription": "Benign neoplasm of ill-defined sites within the digestive system"
+    },
+    {
+        "patientid": "913DF353-9294-4ED8-850C-FCC02E609795",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M63.87",
+        "primarydiagnosisdescription": "Disorders of muscle in diseases classified elsewhere"
+    },
+    {
+        "patientid": "913DF353-9294-4ED8-850C-FCC02E609795",
+        "admissionid": "2",
+        "primarydiagnosiscode": "T46.0",
+        "primarydiagnosisdescription": "Poisoning by"
+    },
+    {
+        "patientid": "913DF353-9294-4ED8-850C-FCC02E609795",
+        "admissionid": "3",
+        "primarydiagnosiscode": "F32.4",
+        "primarydiagnosisdescription": "Major depressive disorder"
+    },
+    {
+        "patientid": "913DF353-9294-4ED8-850C-FCC02E609795",
+        "admissionid": "4",
+        "primarydiagnosiscode": "F68.1",
+        "primarydiagnosisdescription": "Factitious disorder"
+    },
+    {
+        "patientid": "136E85F5-64BD-4125-AF7C-158F8D2AD013",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M01.X3",
+        "primarydiagnosisdescription": "Direct infection of wrist in infectious and parasitic diseases classified elsewhere"
+    },
+    {
+        "patientid": "136E85F5-64BD-4125-AF7C-158F8D2AD013",
+        "admissionid": "2",
+        "primarydiagnosiscode": "G90",
+        "primarydiagnosisdescription": "Disorders of autonomic nervous system"
+    },
+    {
+        "patientid": "136E85F5-64BD-4125-AF7C-158F8D2AD013",
+        "admissionid": "3",
+        "primarydiagnosiscode": "E75.24",
+        "primarydiagnosisdescription": "Niemann-Pick disease"
+    },
+    {
+        "patientid": "136E85F5-64BD-4125-AF7C-158F8D2AD013",
+        "admissionid": "4",
+        "primarydiagnosiscode": "K71.5",
+        "primarydiagnosisdescription": "Toxic liver disease with chronic active hepatitis"
+    },
+    {
+        "patientid": "136E85F5-64BD-4125-AF7C-158F8D2AD013",
+        "admissionid": "5",
+        "primarydiagnosiscode": "Q24.3",
+        "primarydiagnosisdescription": "Pulmonary infundibular stenosis"
+    },
+    {
+        "patientid": "D5B219AC-55A8-46C6-8BE3-2809D3BC5C1A",
+        "admissionid": "1",
+        "primarydiagnosiscode": "H44",
+        "primarydiagnosisdescription": "Disorders of globe"
+    },
+    {
+        "patientid": "D5B219AC-55A8-46C6-8BE3-2809D3BC5C1A",
+        "admissionid": "2",
+        "primarydiagnosiscode": "J09",
+        "primarydiagnosisdescription": "Influenza due to certain identified influenza viruses"
+    },
+    {
+        "patientid": "9886C3E1-C8D2-4EE2-AFCF-C347B681B8EA",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M90.89",
+        "primarydiagnosisdescription": "Osteopathy in diseases classified elsewhere"
+    },
+    {
+        "patientid": "9886C3E1-C8D2-4EE2-AFCF-C347B681B8EA",
+        "admissionid": "2",
+        "primarydiagnosiscode": "R39.2",
+        "primarydiagnosisdescription": "Extrarenal uremia"
+    },
+    {
+        "patientid": "9886C3E1-C8D2-4EE2-AFCF-C347B681B8EA",
+        "admissionid": "3",
+        "primarydiagnosiscode": "D41.02",
+        "primarydiagnosisdescription": "Neoplasm of uncertain behavior of left kidney"
+    },
+    {
+        "patientid": "9886C3E1-C8D2-4EE2-AFCF-C347B681B8EA",
+        "admissionid": "4",
+        "primarydiagnosiscode": "C02.4",
+        "primarydiagnosisdescription": "Malignant neoplasm of lingual tonsil"
+    },
+    {
+        "patientid": "4B28652F-C318-453B-AAC5-013ED1C01D14",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C92.52",
+        "primarydiagnosisdescription": "Acute myelomonocytic leukemia"
+    },
+    {
+        "patientid": "4B28652F-C318-453B-AAC5-013ED1C01D14",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M06.07",
+        "primarydiagnosisdescription": "Rheumatoid arthritis without rheumatoid factor"
+    },
+    {
+        "patientid": "5477C08C-4FEA-4C91-BF2C-BEBDEB78D6FC",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C88.3",
+        "primarydiagnosisdescription": "Immunoproliferative small intestinal disease"
+    },
+    {
+        "patientid": "5477C08C-4FEA-4C91-BF2C-BEBDEB78D6FC",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M12.14",
+        "primarydiagnosisdescription": "Kaschin-Beck disease"
+    },
+    {
+        "patientid": "15F7A801-CAB0-45C3-AFFD-35CB3EE58F4F",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M05.24",
+        "primarydiagnosisdescription": "Rheumatoid vasculitis with rheumatoid arthritis of hand"
+    },
+    {
+        "patientid": "15F7A801-CAB0-45C3-AFFD-35CB3EE58F4F",
+        "admissionid": "2",
+        "primarydiagnosiscode": "F18.17",
+        "primarydiagnosisdescription": "Inhalant abuse with inhalant-induced dementia"
+    },
+    {
+        "patientid": "15F7A801-CAB0-45C3-AFFD-35CB3EE58F4F",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M05.59",
+        "primarydiagnosisdescription": "Rheumatoid polyneuropathy with rheumatoid arthritis of multiple sites"
+    },
+    {
+        "patientid": "15F7A801-CAB0-45C3-AFFD-35CB3EE58F4F",
+        "admissionid": "4",
+        "primarydiagnosiscode": "K50.80",
+        "primarydiagnosisdescription": "Crohn's disease of both small and large intestine without complications"
+    },
+    {
+        "patientid": "15F7A801-CAB0-45C3-AFFD-35CB3EE58F4F",
+        "admissionid": "5",
+        "primarydiagnosiscode": "O69.5",
+        "primarydiagnosisdescription": "Labor and delivery complicated by vascular lesion of cord"
+    },
+    {
+        "patientid": "6296A05D-F158-4F0E-A481-CC0BE3D16081",
+        "admissionid": "1",
+        "primarydiagnosiscode": "O29.111",
+        "primarydiagnosisdescription": "Cardiac arrest due to anesthesia during pregnancy"
+    },
+    {
+        "patientid": "6296A05D-F158-4F0E-A481-CC0BE3D16081",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M90.51",
+        "primarydiagnosisdescription": "Osteonecrosis in diseases classified elsewhere"
+    },
+    {
+        "patientid": "6296A05D-F158-4F0E-A481-CC0BE3D16081",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M63.871",
+        "primarydiagnosisdescription": "Disorders of muscle in diseases classified elsewhere"
+    },
+    {
+        "patientid": "0C432E43-3524-4830-AA74-3BFF907CD8DF",
+        "admissionid": "1",
+        "primarydiagnosiscode": "R04.81",
+        "primarydiagnosisdescription": "Acute idiopathic pulmonary hemorrhage in infants"
+    },
+    {
+        "patientid": "0C432E43-3524-4830-AA74-3BFF907CD8DF",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M35.2",
+        "primarydiagnosisdescription": "Behçet's disease"
+    },
+    {
+        "patientid": "0C432E43-3524-4830-AA74-3BFF907CD8DF",
+        "admissionid": "3",
+        "primarydiagnosiscode": "I32",
+        "primarydiagnosisdescription": "Pericarditis in diseases classified elsewhere"
+    },
+    {
+        "patientid": "0C432E43-3524-4830-AA74-3BFF907CD8DF",
+        "admissionid": "4",
+        "primarydiagnosiscode": "M90.522",
+        "primarydiagnosisdescription": "Osteonecrosis in diseases classified elsewhere"
+    },
+    {
+        "patientid": "FD8EF343-5219-492E-97C2-E344B2F2D407",
+        "admissionid": "1",
+        "primarydiagnosiscode": "A93.0",
+        "primarydiagnosisdescription": "Oropouche virus disease"
+    },
+    {
+        "patientid": "9BE825AC-48C3-4F47-92F0-75A7C5F087CA",
+        "admissionid": "1",
+        "primarydiagnosiscode": "E08.339",
+        "primarydiagnosisdescription": "Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema"
+    },
+    {
+        "patientid": "9BE825AC-48C3-4F47-92F0-75A7C5F087CA",
+        "admissionid": "2",
+        "primarydiagnosiscode": "D16.32",
+        "primarydiagnosisdescription": "Benign neoplasm of short bones of left lower limb"
+    },
+    {
+        "patientid": "9BE825AC-48C3-4F47-92F0-75A7C5F087CA",
+        "admissionid": "3",
+        "primarydiagnosiscode": "H47.512",
+        "primarydiagnosisdescription": "Disorders of visual pathways in (due to) inflammatory disorders"
+    },
+    {
+        "patientid": "9BE825AC-48C3-4F47-92F0-75A7C5F087CA",
+        "admissionid": "4",
+        "primarydiagnosiscode": "B97.81",
+        "primarydiagnosisdescription": "Human metapneumovirus as the cause of diseases classified elsewhere"
+    },
+    {
+        "patientid": "9BE825AC-48C3-4F47-92F0-75A7C5F087CA",
+        "admissionid": "5",
+        "primarydiagnosiscode": "K68",
+        "primarydiagnosisdescription": "Disorders of retroperitoneum"
+    },
+    {
+        "patientid": "9BE825AC-48C3-4F47-92F0-75A7C5F087CA",
+        "admissionid": "6",
+        "primarydiagnosiscode": "M90.672",
+        "primarydiagnosisdescription": "Osteitis deformans in neoplastic diseases"
+    },
+    {
+        "patientid": "FC645E4B-9A8C-4FF3-93A2-3C42475EAE1F",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C62.0",
+        "primarydiagnosisdescription": "Malignant neoplasm of undescended testis"
+    },
+    {
+        "patientid": "536EF9D1-E24B-4C46-8815-963A5E9BDE9E",
+        "admissionid": "1",
+        "primarydiagnosiscode": "D17.21",
+        "primarydiagnosisdescription": "Benign lipomatous neoplasm of skin and subcutaneous tissue of right arm"
+    },
+    {
+        "patientid": "536EF9D1-E24B-4C46-8815-963A5E9BDE9E",
+        "admissionid": "2",
+        "primarydiagnosiscode": "N25.0",
+        "primarydiagnosisdescription": "Renal osteodystrophy"
+    },
+    {
+        "patientid": "80E26874-85AE-4139-A065-68B65F5CC294",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C69.12",
+        "primarydiagnosisdescription": "Malignant neoplasm of left cornea"
+    },
+    {
+        "patientid": "80E26874-85AE-4139-A065-68B65F5CC294",
+        "admissionid": "2",
+        "primarydiagnosiscode": "C17.8",
+        "primarydiagnosisdescription": "Malignant neoplasm of overlapping sites of small intestine"
+    },
+    {
+        "patientid": "80E26874-85AE-4139-A065-68B65F5CC294",
+        "admissionid": "3",
+        "primarydiagnosiscode": "H02.87",
+        "primarydiagnosisdescription": "Vascular anomalies of eyelid"
+    },
+    {
+        "patientid": "80E26874-85AE-4139-A065-68B65F5CC294",
+        "admissionid": "4",
+        "primarydiagnosiscode": "C60.0",
+        "primarydiagnosisdescription": "Malignant neoplasm of prepuce"
+    },
+    {
+        "patientid": "80E26874-85AE-4139-A065-68B65F5CC294",
+        "admissionid": "5",
+        "primarydiagnosiscode": "M06.231",
+        "primarydiagnosisdescription": "Rheumatoid bursitis"
+    },
+    {
+        "patientid": "3B3DA078-A0DA-40B0-AFDC-345A24110C0F",
+        "admissionid": "4",
+        "primarydiagnosiscode": "E09.42",
+        "primarydiagnosisdescription": "Drug or chemical induced diabetes mellitus with neurological complications with diabetic polyneuropathy"
+    },
+    {
+        "patientid": "3B3DA078-A0DA-40B0-AFDC-345A24110C0F",
+        "admissionid": "5",
+        "primarydiagnosiscode": "C79.71",
+        "primarydiagnosisdescription": "Secondary malignant neoplasm of right adrenal gland"
+    },
+    {
+        "patientid": "3B3DA078-A0DA-40B0-AFDC-345A24110C0F",
+        "admissionid": "6",
+        "primarydiagnosiscode": "M84",
+        "primarydiagnosisdescription": "Disorder of continuity of bone"
+    },
+    {
+        "patientid": "F25E9E36-2DBE-48FA-A6D9-E6A1D2756752",
+        "admissionid": "1",
+        "primarydiagnosiscode": "A42.0",
+        "primarydiagnosisdescription": "Pulmonary actinomycosis"
+    },
+    {
+        "patientid": "F25E9E36-2DBE-48FA-A6D9-E6A1D2756752",
+        "admissionid": "2",
+        "primarydiagnosiscode": "C71",
+        "primarydiagnosisdescription": "Malignant neoplasm of brain"
+    },
+    {
+        "patientid": "F25E9E36-2DBE-48FA-A6D9-E6A1D2756752",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M24.23",
+        "primarydiagnosisdescription": "Disorder of ligament"
+    },
+    {
+        "patientid": "D7ABBA85-F1FE-449C-8452-876704553A3E",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C57.1",
+        "primarydiagnosisdescription": "Malignant neoplasm of broad ligament"
+    },
+    {
+        "patientid": "D7ABBA85-F1FE-449C-8452-876704553A3E",
+        "admissionid": "2",
+        "primarydiagnosiscode": "H74.1",
+        "primarydiagnosisdescription": "Adhesive middle ear disease"
+    },
+    {
+        "patientid": "D7ABBA85-F1FE-449C-8452-876704553A3E",
+        "admissionid": "3",
+        "primarydiagnosiscode": "T46.0X3",
+        "primarydiagnosisdescription": "Poisoning by cardiac-stimulant glycosides and drugs of similar action"
+    },
+    {
+        "patientid": "CDC9ABB8-75F1-4F02-869A-72C555AF833F",
+        "admissionid": "1",
+        "primarydiagnosiscode": "F63.81",
+        "primarydiagnosisdescription": "Intermittent explosive disorder"
+    },
+    {
+        "patientid": "CDC9ABB8-75F1-4F02-869A-72C555AF833F",
+        "admissionid": "2",
+        "primarydiagnosiscode": "F33.2",
+        "primarydiagnosisdescription": "Major depressive disorder"
+    },
+    {
+        "patientid": "CDC9ABB8-75F1-4F02-869A-72C555AF833F",
+        "admissionid": "3",
+        "primarydiagnosiscode": "G90",
+        "primarydiagnosisdescription": "Disorders of autonomic nervous system"
+    },
+    {
+        "patientid": "39DA6342-CEBD-4951-B3E7-5425BA0FF435",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M12.111",
+        "primarydiagnosisdescription": "Kaschin-Beck disease"
+    },
+    {
+        "patientid": "39DA6342-CEBD-4951-B3E7-5425BA0FF435",
+        "admissionid": "2",
+        "primarydiagnosiscode": "N18.1",
+        "primarydiagnosisdescription": "Chronic kidney disease"
+    },
+    {
+        "patientid": "39DA6342-CEBD-4951-B3E7-5425BA0FF435",
+        "admissionid": "3",
+        "primarydiagnosiscode": "E08.349",
+        "primarydiagnosisdescription": "Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema"
+    },
+    {
+        "patientid": "C5F8D8BD-56E6-430B-B6E4-F95FE40BFB1D",
+        "admissionid": "1",
+        "primarydiagnosiscode": "E10.64",
+        "primarydiagnosisdescription": "Type 1 diabetes mellitus with hypoglycemia"
+    },
+    {
+        "patientid": "C5F8D8BD-56E6-430B-B6E4-F95FE40BFB1D",
+        "admissionid": "2",
+        "primarydiagnosiscode": "H30.813",
+        "primarydiagnosisdescription": "Harada's disease"
+    },
+    {
+        "patientid": "C5F8D8BD-56E6-430B-B6E4-F95FE40BFB1D",
+        "admissionid": "3",
+        "primarydiagnosiscode": "I25.82",
+        "primarydiagnosisdescription": "Chronic total occlusion of coronary artery"
+    },
+    {
+        "patientid": "C5F8D8BD-56E6-430B-B6E4-F95FE40BFB1D",
+        "admissionid": "4",
+        "primarydiagnosiscode": "M70",
+        "primarydiagnosisdescription": "Soft tissue disorders related to use"
+    },
+    {
+        "patientid": "C5F8D8BD-56E6-430B-B6E4-F95FE40BFB1D",
+        "admissionid": "5",
+        "primarydiagnosiscode": "D16.1",
+        "primarydiagnosisdescription": "Benign neoplasm of short bones of upper limb"
+    },
+    {
+        "patientid": "7D8C7C28-4642-4B87-B53A-E98218C92804",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M12.151",
+        "primarydiagnosisdescription": "Kaschin-Beck disease"
+    },
+    {
+        "patientid": "7D8C7C28-4642-4B87-B53A-E98218C92804",
+        "admissionid": "2",
+        "primarydiagnosiscode": "D16.8",
+        "primarydiagnosisdescription": "Benign neoplasm of pelvic bones"
+    },
+    {
+        "patientid": "7D8C7C28-4642-4B87-B53A-E98218C92804",
+        "admissionid": "3",
+        "primarydiagnosiscode": "K50.111",
+        "primarydiagnosisdescription": "Crohn's disease of large intestine with rectal bleeding"
+    },
+    {
+        "patientid": "7D8C7C28-4642-4B87-B53A-E98218C92804",
+        "admissionid": "4",
+        "primarydiagnosiscode": "M90.521",
+        "primarydiagnosisdescription": "Osteonecrosis in diseases classified elsewhere"
+    },
+    {
+        "patientid": "7D8C7C28-4642-4B87-B53A-E98218C92804",
+        "admissionid": "5",
+        "primarydiagnosiscode": "C33",
+        "primarydiagnosisdescription": "Malignant neoplasm of trachea"
+    },
+    {
+        "patientid": "F9DC023D-7190-477B-B40B-12BD2CD3B49A",
+        "admissionid": "1",
+        "primarydiagnosiscode": "A22.1",
+        "primarydiagnosisdescription": "Pulmonary anthrax"
+    },
+    {
+        "patientid": "F9DC023D-7190-477B-B40B-12BD2CD3B49A",
+        "admissionid": "2",
+        "primarydiagnosiscode": "D31.52",
+        "primarydiagnosisdescription": "Benign neoplasm of left lacrimal gland and duct"
+    },
+    {
+        "patientid": "BB07990A-AD01-48D1-930D-F573C41D155C",
+        "admissionid": "1",
+        "primarydiagnosiscode": "E09.649",
+        "primarydiagnosisdescription": "Drug or chemical induced diabetes mellitus with hypoglycemia without coma"
+    },
+    {
+        "patientid": "BB07990A-AD01-48D1-930D-F573C41D155C",
+        "admissionid": "2",
+        "primarydiagnosiscode": "D16.21",
+        "primarydiagnosisdescription": "Benign neoplasm of long bones of right lower limb"
+    },
+    {
+        "patientid": "F082B61D-C107-4F1F-90EB-78ADD48958D8",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M24.211",
+        "primarydiagnosisdescription": "Disorder of ligament"
+    },
+    {
+        "patientid": "F082B61D-C107-4F1F-90EB-78ADD48958D8",
+        "admissionid": "2",
+        "primarydiagnosiscode": "D12.8",
+        "primarydiagnosisdescription": "Benign neoplasm of rectum"
+    },
+    {
+        "patientid": "F082B61D-C107-4F1F-90EB-78ADD48958D8",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M05.14",
+        "primarydiagnosisdescription": "Rheumatoid lung disease with rheumatoid arthritis of hand"
+    },
+    {
+        "patientid": "F082B61D-C107-4F1F-90EB-78ADD48958D8",
+        "admissionid": "4",
+        "primarydiagnosiscode": "M84.563",
+        "primarydiagnosisdescription": "Pathological fracture in neoplastic disease"
+    },
+    {
+        "patientid": "F082B61D-C107-4F1F-90EB-78ADD48958D8",
+        "admissionid": "5",
+        "primarydiagnosiscode": "C62.11",
+        "primarydiagnosisdescription": "Malignant neoplasm of descended right testis"
+    },
+    {
+        "patientid": "4FD17B0A-6BEC-4B96-88D5-BC595B75D073",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M06.08",
+        "primarydiagnosisdescription": "Rheumatoid arthritis without rheumatoid factor"
+    },
+    {
+        "patientid": "4FD17B0A-6BEC-4B96-88D5-BC595B75D073",
+        "admissionid": "2",
+        "primarydiagnosiscode": "C02.0",
+        "primarydiagnosisdescription": "Malignant neoplasm of dorsal surface of tongue"
+    },
+    {
+        "patientid": "4FD17B0A-6BEC-4B96-88D5-BC595B75D073",
+        "admissionid": "3",
+        "primarydiagnosiscode": "D30.02",
+        "primarydiagnosisdescription": "Benign neoplasm of left kidney"
+    },
+    {
+        "patientid": "5BB481CD-5652-4EC6-9E5C-427E483D8B2E",
+        "admissionid": "1",
+        "primarydiagnosiscode": "D31.21",
+        "primarydiagnosisdescription": "Benign neoplasm of right retina"
+    },
+    {
+        "patientid": "5BB481CD-5652-4EC6-9E5C-427E483D8B2E",
+        "admissionid": "2",
+        "primarydiagnosiscode": "I26.02",
+        "primarydiagnosisdescription": "Saddle embolus of pulmonary artery with acute cor pulmonale"
+    },
+    {
+        "patientid": "5BB481CD-5652-4EC6-9E5C-427E483D8B2E",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M06.072",
+        "primarydiagnosisdescription": "Rheumatoid arthritis without rheumatoid factor"
+    },
+    {
+        "patientid": "F5DA2F04-4CAC-4615-99C3-6E1385DBF4C6",
+        "admissionid": "1",
+        "primarydiagnosiscode": "E09.5",
+        "primarydiagnosisdescription": "Drug or chemical induced diabetes mellitus with circulatory complications"
+    },
+    {
+        "patientid": "F5DA2F04-4CAC-4615-99C3-6E1385DBF4C6",
+        "admissionid": "2",
+        "primarydiagnosiscode": "D16.11",
+        "primarydiagnosisdescription": "Benign neoplasm of short bones of right upper limb"
+    },
+    {
+        "patientid": "F5DA2F04-4CAC-4615-99C3-6E1385DBF4C6",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M11.061",
+        "primarydiagnosisdescription": "Hydroxyapatite deposition disease"
+    },
+    {
+        "patientid": "F5DA2F04-4CAC-4615-99C3-6E1385DBF4C6",
+        "admissionid": "4",
+        "primarydiagnosiscode": "M49",
+        "primarydiagnosisdescription": "Spondylopathies in diseases classified elsewhere"
+    },
+    {
+        "patientid": "DCD7B26F-351D-4182-B380-830236D53465",
+        "admissionid": "1",
+        "primarydiagnosiscode": "O10.312",
+        "primarydiagnosisdescription": "Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy"
+    },
+    {
+        "patientid": "DCD7B26F-351D-4182-B380-830236D53465",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M90.83",
+        "primarydiagnosisdescription": "Osteopathy in diseases classified elsewhere"
+    },
+    {
+        "patientid": "DCD7B26F-351D-4182-B380-830236D53465",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M01.X31",
+        "primarydiagnosisdescription": "Direct infection of right wrist in infectious and parasitic diseases classified elsewhere"
+    },
+    {
+        "patientid": "DCD7B26F-351D-4182-B380-830236D53465",
+        "admissionid": "4",
+        "primarydiagnosiscode": "M06.271",
+        "primarydiagnosisdescription": "Rheumatoid bursitis"
+    },
+    {
+        "patientid": "DCD7B26F-351D-4182-B380-830236D53465",
+        "admissionid": "5",
+        "primarydiagnosiscode": "H30.812",
+        "primarydiagnosisdescription": "Harada's disease"
+    },
+    {
+        "patientid": "08E7AEF4-E58B-4DD8-BCF8-40D3D0CCA5C8",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C69.6",
+        "primarydiagnosisdescription": "Malignant neoplasm of orbit"
+    },
+    {
+        "patientid": "08E7AEF4-E58B-4DD8-BCF8-40D3D0CCA5C8",
+        "admissionid": "2",
+        "primarydiagnosiscode": "J81",
+        "primarydiagnosisdescription": "Pulmonary edema"
+    },
+    {
+        "patientid": "08E7AEF4-E58B-4DD8-BCF8-40D3D0CCA5C8",
+        "admissionid": "3",
+        "primarydiagnosiscode": "C92",
+        "primarydiagnosisdescription": "Myeloid leukemia"
+    },
+    {
+        "patientid": "08E7AEF4-E58B-4DD8-BCF8-40D3D0CCA5C8",
+        "admissionid": "4",
+        "primarydiagnosiscode": "O99.281",
+        "primarydiagnosisdescription": "Endocrine"
+    },
+    {
+        "patientid": "024D67E8-B13B-4A5B-B449-C42164820C43",
+        "admissionid": "1",
+        "primarydiagnosiscode": "B57.31",
+        "primarydiagnosisdescription": "Megaesophagus in Chagas' disease"
+    },
+    {
+        "patientid": "024D67E8-B13B-4A5B-B449-C42164820C43",
+        "admissionid": "2",
+        "primarydiagnosiscode": "O10.32",
+        "primarydiagnosisdescription": "Pre-existing hypertensive heart and chronic kidney disease complicating childbirth"
+    },
+    {
+        "patientid": "5DBD8CCD-3043-4262-A81A-C6504D871A6B",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C40.81",
+        "primarydiagnosisdescription": "Malignant neoplasm of overlapping sites of bone and articular cartilage of right limb"
+    },
+    {
+        "patientid": "A9B2DB0F-F4B9-4E1E-BF0F-7B61B5C5E610",
+        "admissionid": "3",
+        "primarydiagnosiscode": "H30.813",
+        "primarydiagnosisdescription": "Harada's disease"
+    },
+    {
+        "patientid": "A9B2DB0F-F4B9-4E1E-BF0F-7B61B5C5E610",
+        "admissionid": "4",
+        "primarydiagnosiscode": "F51.04",
+        "primarydiagnosisdescription": "Psychophysiologic insomnia"
+    },
+    {
+        "patientid": "105A27C8-5E4C-4A7B-8E18-9ABB0D946382",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M90.622",
+        "primarydiagnosisdescription": "Osteitis deformans in neoplastic diseases"
+    },
+    {
+        "patientid": "105A27C8-5E4C-4A7B-8E18-9ABB0D946382",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M05.13",
+        "primarydiagnosisdescription": "Rheumatoid lung disease with rheumatoid arthritis of wrist"
+    },
+    {
+        "patientid": "105A27C8-5E4C-4A7B-8E18-9ABB0D946382",
+        "admissionid": "3",
+        "primarydiagnosiscode": "C92.61",
+        "primarydiagnosisdescription": "Acute myeloid leukemia with 11q23-abnormality in remission"
+    },
+    {
+        "patientid": "39D451A8-255F-4B10-909B-711EC10C6DA5",
+        "admissionid": "1",
+        "primarydiagnosiscode": "D39.0",
+        "primarydiagnosisdescription": "Neoplasm of uncertain behavior of uterus"
+    },
+    {
+        "patientid": "D6480ABD-B67C-4CE4-88BD-AB02A2F38CB3",
+        "admissionid": "1",
+        "primarydiagnosiscode": "E08.61",
+        "primarydiagnosisdescription": "Diabetes mellitus due to underlying condition with diabetic arthropathy"
+    },
+    {
+        "patientid": "D6480ABD-B67C-4CE4-88BD-AB02A2F38CB3",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M06.232",
+        "primarydiagnosisdescription": "Rheumatoid bursitis"
+    },
+    {
+        "patientid": "D6480ABD-B67C-4CE4-88BD-AB02A2F38CB3",
+        "admissionid": "3",
+        "primarydiagnosiscode": "C75.3",
+        "primarydiagnosisdescription": "Malignant neoplasm of pineal gland"
+    },
+    {
+        "patientid": "D6480ABD-B67C-4CE4-88BD-AB02A2F38CB3",
+        "admissionid": "4",
+        "primarydiagnosiscode": "C03",
+        "primarydiagnosisdescription": "Malignant neoplasm of gum"
+    },
+    {
+        "patientid": "D6480ABD-B67C-4CE4-88BD-AB02A2F38CB3",
+        "admissionid": "5",
+        "primarydiagnosiscode": "D71",
+        "primarydiagnosisdescription": "Functional disorders of polymorphonuclear neutrophils"
+    },
+    {
+        "patientid": "D6480ABD-B67C-4CE4-88BD-AB02A2F38CB3",
+        "admissionid": "6",
+        "primarydiagnosiscode": "D44.5",
+        "primarydiagnosisdescription": "Neoplasm of uncertain behavior of pineal gland"
+    },
+    {
+        "patientid": "BB76115A-A3A1-401C-8AE8-27A35C689889",
+        "admissionid": "1",
+        "primarydiagnosiscode": "D36.16",
+        "primarydiagnosisdescription": "Benign neoplasm of peripheral nerves and autonomic nervous system of pelvis"
+    },
+    {
+        "patientid": "BB76115A-A3A1-401C-8AE8-27A35C689889",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M06.032",
+        "primarydiagnosisdescription": "Rheumatoid arthritis without rheumatoid factor"
+    },
+    {
+        "patientid": "BB76115A-A3A1-401C-8AE8-27A35C689889",
+        "admissionid": "3",
+        "primarydiagnosiscode": "K08.422",
+        "primarydiagnosisdescription": "Partial loss of teeth due to periodontal diseases"
+    },
+    {
+        "patientid": "BB76115A-A3A1-401C-8AE8-27A35C689889",
+        "admissionid": "4",
+        "primarydiagnosiscode": "D30.1",
+        "primarydiagnosisdescription": "Benign neoplasm of renal pelvis"
+    },
+    {
+        "patientid": "BB76115A-A3A1-401C-8AE8-27A35C689889",
+        "admissionid": "5",
+        "primarydiagnosiscode": "M06.272",
+        "primarydiagnosisdescription": "Rheumatoid bursitis"
+    },
+    {
+        "patientid": "7FD78224-2FAD-41F0-967E-6051F77F887D",
+        "admissionid": "1",
+        "primarydiagnosiscode": "I46.2",
+        "primarydiagnosisdescription": "Cardiac arrest due to underlying cardiac condition"
+    },
+    {
+        "patientid": "7FD78224-2FAD-41F0-967E-6051F77F887D",
+        "admissionid": "2",
+        "primarydiagnosiscode": "I97.130",
+        "primarydiagnosisdescription": "Postprocedural heart failure following cardiac surgery"
+    },
+    {
+        "patientid": "7FD78224-2FAD-41F0-967E-6051F77F887D",
+        "admissionid": "3",
+        "primarydiagnosiscode": "E88.0",
+        "primarydiagnosisdescription": "Disorders of plasma-protein metabolism"
+    },
+    {
+        "patientid": "7FD78224-2FAD-41F0-967E-6051F77F887D",
+        "admissionid": "4",
+        "primarydiagnosiscode": "O9A",
+        "primarydiagnosisdescription": "Maternal malignant neoplasms"
+    },
+    {
+        "patientid": "7FD78224-2FAD-41F0-967E-6051F77F887D",
+        "admissionid": "5",
+        "primarydiagnosiscode": "Z04.6",
+        "primarydiagnosisdescription": "Encounter for general psychiatric examination"
+    },
+    {
+        "patientid": "7FD78224-2FAD-41F0-967E-6051F77F887D",
+        "admissionid": "6",
+        "primarydiagnosiscode": "M06.341",
+        "primarydiagnosisdescription": "Rheumatoid nodule"
+    },
+    {
+        "patientid": "7FD78224-2FAD-41F0-967E-6051F77F887D",
+        "admissionid": "7",
+        "primarydiagnosiscode": "M05.41",
+        "primarydiagnosisdescription": "Rheumatoid myopathy with rheumatoid arthritis of shoulder"
+    },
+    {
+        "patientid": "7FD78224-2FAD-41F0-967E-6051F77F887D",
+        "admissionid": "8",
+        "primarydiagnosiscode": "M02.33",
+        "primarydiagnosisdescription": "Reiter's disease"
+    },
+    {
+        "patientid": "7FD78224-2FAD-41F0-967E-6051F77F887D",
+        "admissionid": "9",
+        "primarydiagnosiscode": "E08.43",
+        "primarydiagnosisdescription": "Diabetes mellitus due to underlying condition with diabetic autonomic (poly)neuropathy"
+    },
+    {
+        "patientid": "7FD78224-2FAD-41F0-967E-6051F77F887D",
+        "admissionid": "10",
+        "primarydiagnosiscode": "M05.29",
+        "primarydiagnosisdescription": "Rheumatoid vasculitis with rheumatoid arthritis of multiple sites"
+    },
+    {
+        "patientid": "9AEDA348-FCC6-4DC0-B7AA-00250B69C5A8",
+        "admissionid": "1",
+        "primarydiagnosiscode": "D83.1",
+        "primarydiagnosisdescription": "Common variable immunodeficiency with predominant immunoregulatory T-cell disorders"
+    },
+    {
+        "patientid": "9AEDA348-FCC6-4DC0-B7AA-00250B69C5A8",
+        "admissionid": "2",
+        "primarydiagnosiscode": "E09.33",
+        "primarydiagnosisdescription": "Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy"
+    },
+    {
+        "patientid": "9AEDA348-FCC6-4DC0-B7AA-00250B69C5A8",
+        "admissionid": "3",
+        "primarydiagnosiscode": "I13.2",
+        "primarydiagnosisdescription": "Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease"
+    },
+    {
+        "patientid": "181B723E-639E-46C7-BFB9-D79647CF985A",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M88",
+        "primarydiagnosisdescription": "Osteitis deformans [Paget's disease of bone]"
+    },
+    {
+        "patientid": "181B723E-639E-46C7-BFB9-D79647CF985A",
+        "admissionid": "2",
+        "primarydiagnosiscode": "O99.513",
+        "primarydiagnosisdescription": "Diseases of the respiratory system complicating pregnancy"
+    },
+    {
+        "patientid": "181B723E-639E-46C7-BFB9-D79647CF985A",
+        "admissionid": "3",
+        "primarydiagnosiscode": "F20.81",
+        "primarydiagnosisdescription": "Schizophreniform disorder"
+    },
+    {
+        "patientid": "632685D8-F0C9-4982-83BC-C203D75B74FE",
+        "admissionid": "1",
+        "primarydiagnosiscode": "N04.6",
+        "primarydiagnosisdescription": "Nephrotic syndrome with dense deposit disease"
+    },
+    {
+        "patientid": "632685D8-F0C9-4982-83BC-C203D75B74FE",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M63",
+        "primarydiagnosisdescription": "Disorders of muscle in diseases classified elsewhere"
+    },
+    {
+        "patientid": "632685D8-F0C9-4982-83BC-C203D75B74FE",
+        "admissionid": "3",
+        "primarydiagnosiscode": "I68",
+        "primarydiagnosisdescription": "Cerebrovascular disorders in diseases classified elsewhere"
+    },
+    {
+        "patientid": "632685D8-F0C9-4982-83BC-C203D75B74FE",
+        "admissionid": "4",
+        "primarydiagnosiscode": "C94.3",
+        "primarydiagnosisdescription": "Mast cell leukemia"
+    },
+    {
+        "patientid": "632685D8-F0C9-4982-83BC-C203D75B74FE",
+        "admissionid": "5",
+        "primarydiagnosiscode": "I25.720",
+        "primarydiagnosisdescription": "Atherosclerosis of autologous artery coronary artery bypass graft(s) with unstable angina pectoris"
+    },
+    {
+        "patientid": "BA92AA15-2F1A-4139-AFF2-984837F73320",
+        "admissionid": "1",
+        "primarydiagnosiscode": "Q21",
+        "primarydiagnosisdescription": "Congenital malformations of cardiac septa"
+    },
+    {
+        "patientid": "BA92AA15-2F1A-4139-AFF2-984837F73320",
+        "admissionid": "2",
+        "primarydiagnosiscode": "O9A.51",
+        "primarydiagnosisdescription": "Psychological abuse complicating pregnancy"
+    },
+    {
+        "patientid": "BA92AA15-2F1A-4139-AFF2-984837F73320",
+        "admissionid": "3",
+        "primarydiagnosiscode": "D14.3",
+        "primarydiagnosisdescription": "Benign neoplasm of bronchus and lung"
+    },
+    {
+        "patientid": "5A0F831F-444A-4A4E-9254-21AC86A0555E",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M05.412",
+        "primarydiagnosisdescription": "Rheumatoid myopathy with rheumatoid arthritis of left shoulder"
+    },
+    {
+        "patientid": "5A0F831F-444A-4A4E-9254-21AC86A0555E",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M63.861",
+        "primarydiagnosisdescription": "Disorders of muscle in diseases classified elsewhere"
+    },
+    {
+        "patientid": "5A0F831F-444A-4A4E-9254-21AC86A0555E",
+        "admissionid": "3",
+        "primarydiagnosiscode": "Z11.0",
+        "primarydiagnosisdescription": "Encounter for screening for intestinal infectious diseases"
+    },
+    {
+        "patientid": "5A0F831F-444A-4A4E-9254-21AC86A0555E",
+        "admissionid": "4",
+        "primarydiagnosiscode": "M51.06",
+        "primarydiagnosisdescription": "Intervertebral disc disorders with myelopathy"
+    },
+    {
+        "patientid": "5A0F831F-444A-4A4E-9254-21AC86A0555E",
+        "admissionid": "5",
+        "primarydiagnosiscode": "M90.57",
+        "primarydiagnosisdescription": "Osteonecrosis in diseases classified elsewhere"
+    },
+    {
+        "patientid": "C5749686-5FBA-4D60-9A58-78EE607F68AA",
+        "admissionid": "1",
+        "primarydiagnosiscode": "D57.1",
+        "primarydiagnosisdescription": "Sickle-cell disease without crisis"
+    },
+    {
+        "patientid": "F44B0608-96E6-48E1-A5C4-A6EF762BFBB6",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M06.32",
+        "primarydiagnosisdescription": "Rheumatoid nodule"
+    },
+    {
+        "patientid": "F44B0608-96E6-48E1-A5C4-A6EF762BFBB6",
+        "admissionid": "2",
+        "primarydiagnosiscode": "S35.412",
+        "primarydiagnosisdescription": "Laceration of left renal artery"
+    },
+    {
+        "patientid": "F44B0608-96E6-48E1-A5C4-A6EF762BFBB6",
+        "admissionid": "3",
+        "primarydiagnosiscode": "O10.313",
+        "primarydiagnosisdescription": "Pre-existing hypertensive heart and chronic kidney disease complicating pregnancy"
+    },
+    {
+        "patientid": "F44B0608-96E6-48E1-A5C4-A6EF762BFBB6",
+        "admissionid": "4",
+        "primarydiagnosiscode": "R01.0",
+        "primarydiagnosisdescription": "Benign and innocent cardiac murmurs"
+    },
+    {
+        "patientid": "F44B0608-96E6-48E1-A5C4-A6EF762BFBB6",
+        "admissionid": "5",
+        "primarydiagnosiscode": "L91",
+        "primarydiagnosisdescription": "Hypertrophic disorders of skin"
+    },
+    {
+        "patientid": "4FAD6ABC-CD1C-4512-BE17-C56A076DEACC",
+        "admissionid": "5",
+        "primarydiagnosiscode": "M05.322",
+        "primarydiagnosisdescription": "Rheumatoid heart disease with rheumatoid arthritis of left elbow"
+    },
+    {
+        "patientid": "4FAD6ABC-CD1C-4512-BE17-C56A076DEACC",
+        "admissionid": "6",
+        "primarydiagnosiscode": "K08.424",
+        "primarydiagnosisdescription": "Partial loss of teeth due to periodontal diseases"
+    },
+    {
+        "patientid": "BAF81F0A-B6AA-459C-A156-73746C2DBC66",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M05.33",
+        "primarydiagnosisdescription": "Rheumatoid heart disease with rheumatoid arthritis of wrist"
+    },
+    {
+        "patientid": "BAF81F0A-B6AA-459C-A156-73746C2DBC66",
+        "admissionid": "2",
+        "primarydiagnosiscode": "N03.6",
+        "primarydiagnosisdescription": "Chronic nephritic syndrome with dense deposit disease"
+    },
+    {
+        "patientid": "BAF81F0A-B6AA-459C-A156-73746C2DBC66",
+        "admissionid": "3",
+        "primarydiagnosiscode": "I25.11",
+        "primarydiagnosisdescription": "Atherosclerotic heart disease of native coronary artery with angina pectoris"
+    },
+    {
+        "patientid": "EF5F46F3-3B52-472D-AEDB-604CF3B22B95",
+        "admissionid": "1",
+        "primarydiagnosiscode": "F25",
+        "primarydiagnosisdescription": "Schizoaffective disorders"
+    },
+    {
+        "patientid": "EF5F46F3-3B52-472D-AEDB-604CF3B22B95",
+        "admissionid": "2",
+        "primarydiagnosiscode": "I26.90",
+        "primarydiagnosisdescription": "Septic pulmonary embolism without acute cor pulmonale"
+    },
+    {
+        "patientid": "EF5F46F3-3B52-472D-AEDB-604CF3B22B95",
+        "admissionid": "3",
+        "primarydiagnosiscode": "I73.1",
+        "primarydiagnosisdescription": "Thromboangiitis obliterans [Buerger's disease]"
+    },
+    {
+        "patientid": "EF5F46F3-3B52-472D-AEDB-604CF3B22B95",
+        "admissionid": "4",
+        "primarydiagnosiscode": "K21",
+        "primarydiagnosisdescription": "Gastro-esophageal reflux disease"
+    },
+    {
+        "patientid": "EF5F46F3-3B52-472D-AEDB-604CF3B22B95",
+        "admissionid": "5",
+        "primarydiagnosiscode": "H30.813",
+        "primarydiagnosisdescription": "Harada's disease"
+    },
+    {
+        "patientid": "113AEE3B-1DBA-4B60-9BCD-F20EBC7C1FDE",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C21.1",
+        "primarydiagnosisdescription": "Malignant neoplasm of anal canal"
+    },
+    {
+        "patientid": "113AEE3B-1DBA-4B60-9BCD-F20EBC7C1FDE",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M35.2",
+        "primarydiagnosisdescription": "Behçet's disease"
+    },
+    {
+        "patientid": "113AEE3B-1DBA-4B60-9BCD-F20EBC7C1FDE",
+        "admissionid": "3",
+        "primarydiagnosiscode": "J84.115",
+        "primarydiagnosisdescription": "Respiratory bronchiolitis interstitial lung disease"
+    },
+    {
+        "patientid": "113AEE3B-1DBA-4B60-9BCD-F20EBC7C1FDE",
+        "admissionid": "4",
+        "primarydiagnosiscode": "C69.21",
+        "primarydiagnosisdescription": "Malignant neoplasm of right retina"
+    },
+    {
+        "patientid": "113AEE3B-1DBA-4B60-9BCD-F20EBC7C1FDE",
+        "admissionid": "5",
+        "primarydiagnosiscode": "D30.21",
+        "primarydiagnosisdescription": "Benign neoplasm of right ureter"
+    },
+    {
+        "patientid": "85B8E4A7-7736-42B9-A011-2FA82AA6EB6C",
+        "admissionid": "1",
+        "primarydiagnosiscode": "E09.43",
+        "primarydiagnosisdescription": "Drug or chemical induced diabetes mellitus with neurological complications with diabetic autonomic (poly)neuropathy"
+    },
+    {
+        "patientid": "85B8E4A7-7736-42B9-A011-2FA82AA6EB6C",
+        "admissionid": "2",
+        "primarydiagnosiscode": "C91.02",
+        "primarydiagnosisdescription": "Acute lymphoblastic leukemia"
+    },
+    {
+        "patientid": "85B8E4A7-7736-42B9-A011-2FA82AA6EB6C",
+        "admissionid": "3",
+        "primarydiagnosiscode": "D17.21",
+        "primarydiagnosisdescription": "Benign lipomatous neoplasm of skin and subcutaneous tissue of right arm"
+    },
+    {
+        "patientid": "6FAFDEDC-E745-42A5-9A51-848E37403BC1",
+        "admissionid": "1",
+        "primarydiagnosiscode": "T46.3X3",
+        "primarydiagnosisdescription": "Poisoning by coronary vasodilators"
+    },
+    {
+        "patientid": "6FAFDEDC-E745-42A5-9A51-848E37403BC1",
+        "admissionid": "2",
+        "primarydiagnosiscode": "H47.41",
+        "primarydiagnosisdescription": "Disorders of optic chiasm in (due to) inflammatory disorders"
+    },
+    {
+        "patientid": "6FAFDEDC-E745-42A5-9A51-848E37403BC1",
+        "admissionid": "3",
+        "primarydiagnosiscode": "C69.22",
+        "primarydiagnosisdescription": "Malignant neoplasm of left retina"
+    },
+    {
+        "patientid": "1BBA9463-36F8-43B8-AB9C-2B20B513CD14",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M02.311",
+        "primarydiagnosisdescription": "Reiter's disease"
+    },
+    {
+        "patientid": "1BBA9463-36F8-43B8-AB9C-2B20B513CD14",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M24.251",
+        "primarydiagnosisdescription": "Disorder of ligament"
+    },
+    {
+        "patientid": "1BBA9463-36F8-43B8-AB9C-2B20B513CD14",
+        "admissionid": "3",
+        "primarydiagnosiscode": "F30.1",
+        "primarydiagnosisdescription": "Manic episode without psychotic symptoms"
+    },
+    {
+        "patientid": "1BBA9463-36F8-43B8-AB9C-2B20B513CD14",
+        "admissionid": "4",
+        "primarydiagnosiscode": "H75.02",
+        "primarydiagnosisdescription": "Mastoiditis in infectious and parasitic diseases classified elsewhere"
+    },
+    {
+        "patientid": "0A7282E5-9EB7-47B3-BD9E-E8DCB09719F2",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M22",
+        "primarydiagnosisdescription": "Disorder of patella"
+    },
+    {
+        "patientid": "0A7282E5-9EB7-47B3-BD9E-E8DCB09719F2",
+        "admissionid": "2",
+        "primarydiagnosiscode": "F33.2",
+        "primarydiagnosisdescription": "Major depressive disorder"
+    },
+    {
+        "patientid": "0A7282E5-9EB7-47B3-BD9E-E8DCB09719F2",
+        "admissionid": "3",
+        "primarydiagnosiscode": "I11",
+        "primarydiagnosisdescription": "Hypertensive heart disease"
+    },
+    {
+        "patientid": "0A7282E5-9EB7-47B3-BD9E-E8DCB09719F2",
+        "admissionid": "4",
+        "primarydiagnosiscode": "C92",
+        "primarydiagnosisdescription": "Myeloid leukemia"
+    },
+    {
+        "patientid": "BD392A4D-82BD-4156-83B6-018D3ADD50C3",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C16.4",
+        "primarydiagnosisdescription": "Malignant neoplasm of pylorus"
+    },
+    {
+        "patientid": "BD392A4D-82BD-4156-83B6-018D3ADD50C3",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M36.0",
+        "primarydiagnosisdescription": "Dermato(poly)myositis in neoplastic disease"
+    },
+    {
+        "patientid": "BD392A4D-82BD-4156-83B6-018D3ADD50C3",
+        "admissionid": "3",
+        "primarydiagnosiscode": "M49.83",
+        "primarydiagnosisdescription": "Spondylopathy in diseases classified elsewhere"
+    },
+    {
+        "patientid": "BD392A4D-82BD-4156-83B6-018D3ADD50C3",
+        "admissionid": "4",
+        "primarydiagnosiscode": "J09",
+        "primarydiagnosisdescription": "Influenza due to certain identified influenza viruses"
+    },
+    {
+        "patientid": "BD392A4D-82BD-4156-83B6-018D3ADD50C3",
+        "admissionid": "5",
+        "primarydiagnosiscode": "M01.X2",
+        "primarydiagnosisdescription": "Direct infection of elbow in infectious and parasitic diseases classified elsewhere"
+    },
+    {
+        "patientid": "A35B89B1-D019-473E-9F1D-169EFC34EFAE",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C67.5",
+        "primarydiagnosisdescription": "Malignant neoplasm of bladder neck"
+    },
+    {
+        "patientid": "A35B89B1-D019-473E-9F1D-169EFC34EFAE",
+        "admissionid": "2",
+        "primarydiagnosiscode": "O74.2",
+        "primarydiagnosisdescription": "Cardiac complications of anesthesia during labor and delivery"
+    },
+    {
+        "patientid": "A35B89B1-D019-473E-9F1D-169EFC34EFAE",
+        "admissionid": "3",
+        "primarydiagnosiscode": "D37.1",
+        "primarydiagnosisdescription": "Neoplasm of uncertain behavior of stomach"
+    },
+    {
+        "patientid": "A35B89B1-D019-473E-9F1D-169EFC34EFAE",
+        "admissionid": "4",
+        "primarydiagnosiscode": "C74.02",
+        "primarydiagnosisdescription": "Malignant neoplasm of cortex of left adrenal gland"
+    },
+    {
+        "patientid": "F05BDAA3-D8C3-4892-B167-794FF239D58C",
+        "admissionid": "1",
+        "primarydiagnosiscode": "G52.2",
+        "primarydiagnosisdescription": "Disorders of vagus nerve"
+    },
+    {
+        "patientid": "F05BDAA3-D8C3-4892-B167-794FF239D58C",
+        "admissionid": "2",
+        "primarydiagnosiscode": "B97.34",
+        "primarydiagnosisdescription": "Human T-cell lymphotrophic virus"
+    },
+    {
+        "patientid": "F05BDAA3-D8C3-4892-B167-794FF239D58C",
+        "admissionid": "3",
+        "primarydiagnosiscode": "I97.120",
+        "primarydiagnosisdescription": "Postprocedural cardiac arrest following cardiac surgery"
+    },
+    {
+        "patientid": "F05BDAA3-D8C3-4892-B167-794FF239D58C",
+        "admissionid": "4",
+        "primarydiagnosiscode": "M05.79",
+        "primarydiagnosisdescription": "Rheumatoid arthritis with rheumatoid factor of multiple sites without organ or systems involvement"
+    },
+    {
+        "patientid": "F05BDAA3-D8C3-4892-B167-794FF239D58C",
+        "admissionid": "5",
+        "primarydiagnosiscode": "E70.2",
+        "primarydiagnosisdescription": "Disorders of tyrosine metabolism"
+    },
+    {
+        "patientid": "C1263958-C8AD-479F-816F-6A71B4B09AF4",
+        "admissionid": "1",
+        "primarydiagnosiscode": "H02.872",
+        "primarydiagnosisdescription": "Vascular anomalies of right lower eyelid"
+    },
+    {
+        "patientid": "C1263958-C8AD-479F-816F-6A71B4B09AF4",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M51.15",
+        "primarydiagnosisdescription": "Intervertebral disc disorders with radiculopathy"
+    },
+    {
+        "patientid": "C1263958-C8AD-479F-816F-6A71B4B09AF4",
+        "admissionid": "3",
+        "primarydiagnosiscode": "K57.5",
+        "primarydiagnosisdescription": "Diverticular disease of both small and large intestine without perforation or abscess"
+    },
+    {
+        "patientid": "77727F85-5823-470D-8391-F55A4D940358",
+        "admissionid": "1",
+        "primarydiagnosiscode": "F12.150",
+        "primarydiagnosisdescription": "Cannabis abuse with psychotic disorder with delusions"
+    },
+    {
+        "patientid": "77727F85-5823-470D-8391-F55A4D940358",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M10.312",
+        "primarydiagnosisdescription": "Gout due to renal impairment"
+    },
+    {
+        "patientid": "77727F85-5823-470D-8391-F55A4D940358",
+        "admissionid": "3",
+        "primarydiagnosiscode": "C80.2",
+        "primarydiagnosisdescription": "Malignant neoplasm associated with transplanted organ"
+    },
+    {
+        "patientid": "D10D12CF-EDE0-4943-8CFA-F657F449A69E",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C74.11",
+        "primarydiagnosisdescription": "Malignant neoplasm of medulla of right adrenal gland"
+    },
+    {
+        "patientid": "D10D12CF-EDE0-4943-8CFA-F657F449A69E",
+        "admissionid": "2",
+        "primarydiagnosiscode": "H11.413",
+        "primarydiagnosisdescription": "Vascular abnormalities of conjunctiva"
+    },
+    {
+        "patientid": "2D3D007B-3BDE-4051-BB0E-481691964DF4",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M02.372",
+        "primarydiagnosisdescription": "Reiter's disease"
+    },
+    {
+        "patientid": "2D3D007B-3BDE-4051-BB0E-481691964DF4",
+        "admissionid": "2",
+        "primarydiagnosiscode": "B95.2",
+        "primarydiagnosisdescription": "Enterococcus as the cause of diseases classified elsewhere"
+    },
+    {
+        "patientid": "5C7C3129-0A04-404D-91C0-63317815F37A",
+        "admissionid": "1",
+        "primarydiagnosiscode": "D20",
+        "primarydiagnosisdescription": "Benign neoplasm of soft tissue of retroperitoneum and peritoneum"
+    },
+    {
+        "patientid": "5C7C3129-0A04-404D-91C0-63317815F37A",
+        "admissionid": "2",
+        "primarydiagnosiscode": "M06.08",
+        "primarydiagnosisdescription": "Rheumatoid arthritis without rheumatoid factor"
+    },
+    {
+        "patientid": "F45177AD-100E-42BF-96A6-90D73B9ADDC9",
+        "admissionid": "1",
+        "primarydiagnosiscode": "E10.43",
+        "primarydiagnosisdescription": "Type 1 diabetes mellitus with diabetic autonomic (poly)neuropathy"
+    },
+    {
+        "patientid": "F45177AD-100E-42BF-96A6-90D73B9ADDC9",
+        "admissionid": "2",
+        "primarydiagnosiscode": "H47.63",
+        "primarydiagnosisdescription": "Disorders of visual cortex in (due to) neoplasm"
+    },
+    {
+        "patientid": "F45177AD-100E-42BF-96A6-90D73B9ADDC9",
+        "admissionid": "3",
+        "primarydiagnosiscode": "C51",
+        "primarydiagnosisdescription": "Malignant neoplasm of vulva"
+    },
+    {
+        "patientid": "F45177AD-100E-42BF-96A6-90D73B9ADDC9",
+        "admissionid": "4",
+        "primarydiagnosiscode": "C47.1",
+        "primarydiagnosisdescription": "Malignant neoplasm of peripheral nerves of upper limb"
+    },
+    {
+        "patientid": "F45177AD-100E-42BF-96A6-90D73B9ADDC9",
+        "admissionid": "5",
+        "primarydiagnosiscode": "G31.0",
+        "primarydiagnosisdescription": "Frontotemporal dementia"
+    },
+    {
+        "patientid": "73749810-6C33-406C-9B69-7EB467F62D53",
+        "admissionid": "1",
+        "primarydiagnosiscode": "C00.1",
+        "primarydiagnosisdescription": "Malignant neoplasm of external lower lip"
+    },
+    {
+        "patientid": "6106220A-F14E-4441-A067-850E26CA0446",
+        "admissionid": "1",
+        "primarydiagnosiscode": "M05.172",
+        "primarydiagnosisdescription": "Rheumatoid lung disease with rheumatoid arthritis of left ankle and foot"
+    }
+]
